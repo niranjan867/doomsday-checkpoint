@@ -1,76 +1,108 @@
-# DOOMSDAY CHECKPOINT
 
-A cinematic MCU watch-order guide and personal progress tracker designed to prepare viewers for **Avengers: Doomsday**.
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Marvel_Logo.svg" width="160" alt="Marvel">
+</p>
 
----
-
-## 🎬 Overview
-
-DOOMSDAY CHECKPOINT is a content-first Marvel viewing companion built with Next.js and TypeScript. It offers two lenses over a single canonical library of 72 watch milestones, complete with verified India streaming availability via JioHotstar, spoiler-safe guidance, and localized progress tracking.
-
----
-
-## ✨ Features
-
-- **The Complete Watch Order (Release Order)**: The recommended path for first-time viewers, structured into 5 cohesive phases:
-  - **Part I**: *The Infinity Saga* (24 movies)
-  - **Part II**: *The Street-Level Track* (6 Netflix-era seasons)
-  - **Part III**: *The Multiverse Saga* (Phases 4–5)
-  - **Part IV**: *The X-Men Homework* (Fox universe continuity)
-  - **Part V**: *The Final Run into Phase 6*
-- **The MCU in Timeline Order (Chronological Rewatch)**: In-universe story chronology across 5 narrative eras with nuanced annotations for alternate timelines (*Earth-10005*, *Earth-828*) and entities outside normal time (*Loki*, *What If...?*).
-- **Shared Watch Progress**: Progress state synchronizes seamlessly between Release Order and Timeline Order views and persists locally in your browser (`localStorage`).
-- **India Streaming Availability**: Direct, verified **`[ WATCH ON JIOHOTSTAR ↗ ]`** deep links for all available titles.
-- **Spoiler-Safe by Default**: Viewing notes protect against future casting announcements and story revelations until explicitly unlocked via **`[ Reveal Spoilers ]`**.
-- **Contextual Viewing Rules**: Spoiler-safe stop guidance appears contextually when reaching key milestones (e.g. post-credits sequencing).
-- **Instant Search & Multi-Criteria Filtering**: Filter by format (Movies, TV, Specials), importance (Essential, Recommended, Optional), status (Unwatched, In Progress, Watched), or Doomsday connection.
-- **Side Stories & Expansions**: Separate guides for optional viewing paths (*Agents of S.H.I.E.L.D.*, *The Defenders Saga*, *Raimi & Webb Spider-Man Legacy*).
-- **Responsive & Accessible**: Optimized for mobile, tablet, and desktop viewports with keyboard navigation, ARIA semantics, and reduced-motion support.
+<p align="center">
+  DOOMSDAY CHECKPOINT - 
+  <strong>THE ROAD TO AVENGERS: DOOMSDAY</strong><br>
+  <em>WATCH · TRACK · CONNECT · CONTINUE</em>
+</p>
 
 ---
 
-## 🚀 Getting Started
+## 🎬 What is Doomsday Checkpoint?
 
-### Prerequisites
-- Node.js 18+ (or Node.js 20+)
-- npm 9+
+**Doomsday Checkpoint** is a cinematic, interactive watch guide built around the journey toward **Avengers: Doomsday**.
 
-### Installation
+Instead of another static watchlist, it helps you:
+
+* ⚡ Follow the complete watch order
+* 🎯 See what to watch next
+* 📺 Find verified India streaming options
+* 🔗 Explore Doomsday-related connections
+* ∞ Switch between **Release Order** and **Timeline Order**
+* 🔒 Keep spoilers safely locked
+* 📊 Track your journey and progress
+
+---
+
+## 🧭 Two Ways to Watch
+
+| 🎬 Release Order                        | ∞ Timeline Order               |
+| --------------------------------------- | ------------------------------ |
+| Recommended for first-time viewing      | Designed for rewatches         |
+| Preserves reveals & post-credit moments | Follows in-universe chronology |
+| Primary journey                         | Alternate viewing lens         |
+
+**One tracker. Two perspectives.**
+
+---
+
+## ⚡ The Checkpoint
+
+Every story becomes a checkpoint.
+
+**WATCH → MARK → CONTINUE**
+
+Your progress automatically determines your **Up Next** title, so you always know where to go.
+
+When available, each checkpoint also provides a direct **▶ Watch in India** option.
+
+---
+
+## 🔒 Spoiler Safe
+
+Important reveals stay locked until you choose to reveal them.
+
+> **Explore the journey without ruining it.**
+
+---
+
+## 🛠️ Built With
+
+**Next.js · React · TypeScript · CSS · HTML5 Video · LocalStorage · Vercel**
+
+---
+
+## 🚀 Run Locally
+
 ```bash
+git clone https://github.com/niranjan867/doomsday-checkpoint.git
+cd doomsday-checkpoint
 npm install
-```
-
-### Development Server
-```bash
 npm run dev
 ```
-Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-### Production Build
-```bash
-npm run build
-npm run start
-```
-
-### Forensic Audit & Quality Gate
-```bash
-npm run audit:phase8
-```
+Open `http://localhost:3000`.
 
 ---
 
-## ☁️ Deployment
+## ☁️ Deploy
 
-DOOMSDAY CHECKPOINT is optimized for deployment on **[Vercel](https://vercel.com/)** as a standard Next.js application:
-
-- **Framework Preset**: Next.js
-- **Build Command**: `npm run build`
-- **Install Command**: `npm install`
-- **Output Directory**: Automatically managed by Next.js
-- **Environment Variables**: None required.
+Built to deploy directly on **Vercel** with a standard Next.js configuration.
 
 ---
 
-## 🛡️ License
+## ⚠️ Disclaimer
 
-This is an independent, non-commercial fan-made project created for Marvel Cinematic Universe preparation. Marvel characters, titles, and logos are trademarks and copyright of Marvel Studios LLC and their respective owners.
+Doomsday Checkpoint is an **independent, non-commercial fan project** created for educational and portfolio purposes.
+
+It is not affiliated with or endorsed by Marvel Studios, Marvel Entertainment, Disney, Sony Pictures, or any other rights holder. Marvel and related characters, names, logos and trademarks belong to their respective owners.
+
+---
+
+<p align="center">
+
+
+## ⚡ DOOMSDAY CHECKPOINT
+
+### **WATCH · TRACK · CONNECT · CONTINUE**
+
+**THE ROAD TO AVENGERS: DOOMSDAY**
+
+<br>
+
+<em>Built with ⚡ curiosity, cinematic obsession & Built with ❤️ for Marvel fans.</em>
+
+</p>
