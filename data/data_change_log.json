@@ -1,0 +1,29 @@
+[
+  {
+    "entity": "all-entities",
+    "field": "cross_dataset_synchronization",
+    "old_value": "Disparate partial JSON files",
+    "new_value": "Strictly synchronized subsets derived from canonical master_dataset.json",
+    "reason": "Ensure absolute consistency between master dataset and split datasets",
+    "source": "master_dataset.json",
+    "confidence": "high"
+  },
+  {
+    "entity": "avengers-doomsday",
+    "field": "source_conflicts",
+    "old_value": "Implicit variation in scraped files",
+    "new_value": "Explicit source_conflicts array documenting Dec 16 vs Dec 18, 2026 dates",
+    "reason": "Preserve genuine source conflict without silent overwrite",
+    "source": "MCUWATCHLIST.docx vs roadtodoomsday-com-2026-08-29.csv",
+    "confidence": "high"
+  },
+  {
+    "entity": "streaming_data",
+    "field": "url",
+    "old_value": "unverified/scraped links",
+    "new_value": null,
+    "reason": "Prevent fabrication of streaming URLs for Indian streaming services",
+    "source": "master_dataset.json",
+    "confidence": "high"
+  }
+]

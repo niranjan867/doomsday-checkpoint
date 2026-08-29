@@ -1,0 +1,543 @@
+{
+  "dataset": "DOOMSDAY CHECKPOINT — Watch Order Metadata",
+  "description": "Stop points, prerequisites, and side quest definitions",
+  "updated_at": "2026-08-29T17:59:08.228Z",
+  "stop_points": [
+    {
+      "id": "iron-man-2",
+      "order": 6,
+      "title": "Iron Man 2",
+      "subtitle": null,
+      "type": "Movie",
+      "release": {
+        "year": 2010,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": "2 hr 4 min",
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "main"
+      },
+      "section": "Phase 1 — The Avengers Initiative (2008–2012)",
+      "guidance": {
+        "watch_for": "Rhodey is played by a new actor (his first line winks at it). The new Stark legal employee is a much bigger deal than she seems. Late in the film, check the news monitor at S.H.I.E.L.D., and stay for the post-credits crater.",
+        "watch_instruction": "1 Credit · STOP before credits — the credits scene belongs RIGHT BEFORE Thor"
+      },
+      "stop_point": {
+        "enabled": true,
+        "instruction": "1 Credit · STOP before credits — the credits scene belongs RIGHT BEFORE Thor",
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "Introduces a major new character and expands Tony Stark's world in ways that ripple forward for years.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "Natasha Romanoff makes her debut here, eventually leading to Yelena and a spot on the Doomsday roster. War Machine officially arrives, and the film ends with a scene that connects directly into Thor."
+        },
+        "confidence": "established",
+        "connection_type": [
+          "character",
+          "post_credit"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 81",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 4",
+          "road_order": 3
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 6.9,
+        "release_metadata_raw": "2010 (2 hr 4 min)",
+        "status_note": null
+      },
+      "source_orders": {
+        "road_to_doomsday": 3
+      }
+    },
+    {
+      "id": "thor",
+      "order": 8,
+      "title": "Thor",
+      "subtitle": null,
+      "type": "Movie",
+      "release": {
+        "year": 2011,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": "1 hr 55 min",
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "main"
+      },
+      "section": "Phase 1 — The Avengers Initiative (2008–2012)",
+      "guidance": {
+        "watch_for": "The agent with the bow in the crane is a future Avenger. 'Magic is just science we don't understand yet' is the load-bearing line for the whole cosmic side. Stay for the glowing cube.",
+        "watch_instruction": "1 Credit · STOP before credits — the credits scene belongs RIGHT BEFORE The Avengers"
+      },
+      "stop_point": {
+        "enabled": true,
+        "instruction": "1 Credit · STOP before credits — the credits scene belongs RIGHT BEFORE The Avengers",
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "Kicks off a character arc for Loki that eventually becomes central to the multiverse storylines, and introduces the cosmic side of the MCU.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "Loki's path from villain here to his own solo series and later a spot connected to Doomsday effectively starts in this movie. The Tesseract introduced here becomes a key object in Captain America and The Avengers."
+        },
+        "confidence": "established",
+        "connection_type": [
+          "character",
+          "multiverse"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 94",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 5",
+          "road_order": 4
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 6.8,
+        "release_metadata_raw": "2011 (1 hr 55 min)",
+        "status_note": null
+      },
+      "source_orders": {
+        "road_to_doomsday": 4
+      }
+    },
+    {
+      "id": "captain-america-the-first-avenger",
+      "order": 11,
+      "title": "Captain America: The First Avenger",
+      "subtitle": null,
+      "type": "Movie",
+      "release": {
+        "year": 2011,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": "2 hr 4 min",
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "main"
+      },
+      "section": "Legacy: WWII & The 1940s",
+      "guidance": {
+        "watch_for": "The inventor helping Steve is Tony Stark's father. Remember the best friend's name: Bucky. And yes, it ends in the present day.",
+        "watch_instruction": "1 Credit · STOP before credits — the credits scene belongs RIGHT BEFORE The Avengers"
+      },
+      "stop_point": {
+        "enabled": true,
+        "instruction": "1 Credit · STOP before credits — the credits scene belongs RIGHT BEFORE The Avengers",
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "Establishes the super-soldier program's origins and introduces a friendship that has major consequences for the whole saga.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "This film retroactively explains the science behind The Incredible Hulk's experiment. Bucky's apparent death here is the start of a storyline that continues through Civil War and Thunderbolts, and Peggy Carter's legacy echoes into the What If series."
+        },
+        "confidence": "established",
+        "connection_type": [
+          "character",
+          "setup"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 115",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 6",
+          "road_order": 5
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 7,
+        "release_metadata_raw": "2011 (2 hr 4 min)",
+        "status_note": null
+      },
+      "source_orders": {
+        "road_to_doomsday": 5
+      }
+    },
+    {
+      "id": "ant-man-and-the-wasp",
+      "order": 39,
+      "title": "Ant-Man and the Wasp",
+      "subtitle": null,
+      "type": "Movie",
+      "release": {
+        "year": 2018,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": "1 hr 58 min",
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "main"
+      },
+      "section": "Phase 3C — Ragnarok & The Infinity War (2018)",
+      "guidance": {
+        "watch_for": "Lighter on purpose after Infinity War. The mid-credits scene is the entire reason this movie sits here — DO NOT skip the credits.",
+        "watch_instruction": "1 Credit · STOP before credits — the credits scene belongs RIGHT AFTER Infinity War"
+      },
+      "stop_point": {
+        "enabled": true,
+        "instruction": "1 Credit · STOP before credits — the credits scene belongs RIGHT AFTER Infinity War",
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "A lighter film after Infinity War, with a credits scene that connects directly into the aftermath of the Snap.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "The mid-credits scene shows Scott Lang trapped in the Quantum Realm at the exact moment the Snap happens, stranding him there while his family disappears. That accident becomes a key part of how Endgame's time heist works."
+        },
+        "confidence": "confirmed",
+        "connection_type": [
+          "post_credit",
+          "setup"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 320",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 22",
+          "road_order": 21
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 6.9,
+        "release_metadata_raw": "2018 (1 hr 58 min)",
+        "status_note": null
+      },
+      "source_orders": {
+        "road_to_doomsday": 21
+      }
+    },
+    {
+      "id": "captain-marvel",
+      "order": 41,
+      "title": "Captain Marvel",
+      "subtitle": null,
+      "type": "Movie",
+      "release": {
+        "year": 2019,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": "2 hr 3 min",
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "main"
+      },
+      "section": "Legacy: 1990s",
+      "guidance": {
+        "watch_for": "It's 1995. Watch Fury before the eyepatch, note the pager, and don't trust anything you're told about the Skrulls.",
+        "watch_instruction": "1 Credit · STOP before end-credits — post-credit scene belongs after Infinity War"
+      },
+      "stop_point": {
+        "enabled": true,
+        "instruction": "1 Credit · STOP before end-credits — post-credit scene belongs after Infinity War",
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "A 1990s-set origin story that explains a mysterious object seen earlier in the MCU timeline.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "The pager introduced here is the same one Nick Fury uses in Infinity War's post-credits scene. The reveal about the Skrulls also connects forward into Secret Invasion and The Marvels."
+        },
+        "confidence": "confirmed",
+        "connection_type": [
+          "character",
+          "setup"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 334",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 23",
+          "road_order": 22
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 6.8,
+        "release_metadata_raw": "2019 (2 hr 3 min)",
+        "status_note": null
+      },
+      "source_orders": {
+        "road_to_doomsday": 22
+      }
+    },
+    {
+      "id": "wandavision-season-1",
+      "order": 47,
+      "title": "WandaVision (Season 1)",
+      "subtitle": "Season 1",
+      "type": "TV Show",
+      "release": {
+        "year": null,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": 9,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "main"
+      },
+      "section": "Phase 4 — The Blip & New Beginnings (2023)",
+      "guidance": {
+        "watch_for": "The sitcom formats aren't a gimmick — they're the text. Ask why each era looks the way it does. Two credit scenes, both required.",
+        "watch_instruction": "9 eps · STOP before Ep 9 mid-credit scene — it's a separate entry below"
+      },
+      "stop_point": {
+        "enabled": true,
+        "instruction": "9 eps · STOP before Ep 9 mid-credit scene — it's a separate entry below",
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "Explores Wanda's grief through a sitcom-style format that eventually connects to her next major appearance and to other future shows.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "Wanda's arc at the end of this season leads directly into Multiverse of Madness. Agatha gets her own spin-off series, and Wanda's son Billy is reportedly part of the storyline VisionQuest picks up. Monica Rambeau's ending here also connects to The Marvels."
+        },
+        "confidence": "relevant",
+        "connection_type": [
+          "character",
+          "setup"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 377",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 32",
+          "road_order": 31
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 8.2
+      },
+      "source_variants": [
+        "WandaVision"
+      ],
+      "source_orders": {
+        "road_to_doomsday": 31
+      }
+    },
+    {
+      "id": "black-widow",
+      "order": 51,
+      "title": "Black Widow",
+      "subtitle": null,
+      "type": "Movie",
+      "release": {
+        "year": 2021,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": "2 hr 14 min",
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "main"
+      },
+      "section": "Phase 3B — Civil War & Fallout (2016–2018)",
+      "guidance": {
+        "watch_for": "Natasha on the run in the gap between Civil War and Infinity War — this film fills that hole. Go in blind on Taskmaster. When the credits roll, mind the stop point below.",
+        "watch_instruction": "1 Credit · STOP before end-credits — post-credit scene belongs right before Hawkeye"
+      },
+      "stop_point": {
+        "enabled": true,
+        "instruction": "1 Credit · STOP before end-credits — post-credit scene belongs right before Hawkeye",
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "Fills in a gap in Natasha's story and introduces two characters who become important later.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "Yelena, Red Guardian, and Taskmaster all eventually connect to Thunderbolts and the New Avengers. A post-credits scene introduces Valentina for the first time, setting her on a path toward Yelena's storyline in Hawkeye."
+        },
+        "confidence": "established",
+        "connection_type": [
+          "character",
+          "post_credit"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 405",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 16",
+          "road_order": 15
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 7.2,
+        "release_metadata_raw": "2021 (2 hr 14 min)",
+        "status_note": "Moved here — the story happens right after Civil War. Introduces Yelena and Red Guardian (both in Doomsday)."
+      },
+      "source_orders": {
+        "road_to_doomsday": 15
+      }
+    }
+  ],
+  "prerequisites": {
+    "spider-man-no-way-home": [
+      "Spider-Man: Raimi/Webb optional side quest"
+    ],
+    "deadpool-and-wolverine": [
+      "Deadpool",
+      "Logan",
+      "Deadpool 2"
+    ],
+    "visionquest": [
+      "Avengers: Age of Ultron",
+      "WandaVision",
+      "Agatha All Along"
+    ]
+  },
+  "side_quests": [
+    {
+      "name": "Agents of S.H.I.E.L.D. Season 1",
+      "category": "side_quest",
+      "watch_order": "episodes 1–7, then Thor: The Dark World, then episodes 8–16, then The Winter Soldier, then episodes 17–22",
+      "source": "MCUWATCHLIST.docx",
+      "location": "paragraph 2139"
+    },
+    {
+      "name": "Luke Cage / Iron Fist / The Defenders / Jessica Jones Seasons 2–3",
+      "category": "side_quest",
+      "watch_order": "weave in by release order; The Defenders needs Luke Cage and Iron Fist Season 1 first",
+      "source": "MCUWATCHLIST.docx",
+      "location": "paragraph 2148"
+    },
+    {
+      "name": "Raimi and Webb Spider-Man films",
+      "category": "side_quest",
+      "watch_order": "slot right before No Way Home",
+      "source": "MCUWATCHLIST.docx",
+      "location": "paragraph 2173"
+    }
+  ]
+}

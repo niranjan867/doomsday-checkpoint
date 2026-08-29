@@ -1,0 +1,48 @@
+{
+  "universes": [
+    {
+      "id": "earth-616",
+      "name": "MCU / Earth-616",
+      "description": "The main Marvel Cinematic Universe continuity, from Iron Man (2008) onward. Confirmed designation per Kevin Feige and Marvel's Timeline Book.",
+      "confidence": "OFFICIAL",
+      "evidence": "web:53"
+    },
+    {
+      "id": "fantastic-four-timeline",
+      "name": "Fantastic Four Universe",
+      "description": "A visually distinct, retro-futuristic timeline shown in The Fantastic Four: First Steps, explicitly separate from Earth-616 per official statements and period styling.",
+      "confidence": "OFFICIAL",
+      "evidence": "web:17"
+    },
+    {
+      "id": "fox-xmen-continuity",
+      "name": "Fox X-Men Universe (legacy 20th Century Fox continuity)",
+      "description": "The pre-Disney-acquisition X-Men film continuity (2000-2020), including the Deadpool films. Folded into the broader multiverse conceptually via Deadpool & Wolverine.",
+      "confidence": "OFFICIAL (for films' own continuity); INFERRED (for multiverse folding mechanism)",
+      "evidence": "web:8,web:12"
+    },
+    {
+      "id": "raimi-spider-man",
+      "name": "Raimi Spider-Man Universe",
+      "description": "Sam Raimi's Spider-Man trilogy (2002-2007), referenced and visited in Spider-Man: No Way Home via multiversal breach.",
+      "confidence": "OFFICIAL",
+      "evidence": "web:54"
+    },
+    {
+      "id": "webb-spider-man",
+      "name": "Webb Spider-Man Universe (The Amazing Spider-Man)",
+      "description": "Marc Webb's Amazing Spider-Man films (2012-2014), similarly referenced and visited in No Way Home.",
+      "confidence": "OFFICIAL",
+      "evidence": "web:54"
+    },
+    {
+      "id": "tva-multiverse-branches",
+      "name": "TVA-observed Multiverse / Sacred Timeline branches",
+      "description": "The branching timeline structure established in Loki, where the Sacred Timeline (Earth-616) spawns infinite branches after He Who Remains' death; Loki now stewards these branches as of Loki Season 2.",
+      "confidence": "OFFICIAL",
+      "evidence": "web:49,web:50,web:51,web:53"
+    }
+  ],
+  "unconfirmed_universe_numbering": "This research does NOT assign specific numeric universe designations (e.g., Earth-838, Earth-199999) beyond what Marvel has itself officially confirmed, to avoid inventing unverified classifications.",
+  "convergence_mechanism_status": "UNKNOWN — Marvel Studios has not officially detailed the exact mechanism by which the Fox X-Men universe and the Fantastic Four universe converge with Earth-616 in Doomsday."
+}

@@ -1,0 +1,1644 @@
+{
+  "country": "IN",
+  "region": "India",
+  "last_verified": "2026-08-30",
+  "platforms": {
+    "primary": "JioHotstar"
+  },
+  "items": [
+    {
+      "id": "x-men",
+      "order": 1,
+      "title": "X-Men",
+      "type": "Movie",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "verified",
+          "format": "subscription",
+          "url": "https://www.hotstar.com/in/movies/x-men/1770000943",
+          "verified": true,
+          "verified_at": "2026-08-30",
+          "source": "JioHotstar India",
+          "notes": "Verified JioHotstar India streaming URL"
+        }
+      ]
+    },
+    {
+      "id": "x2-x-men-united",
+      "order": 2,
+      "title": "X2: X-Men United",
+      "type": "Movie",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "verified",
+          "format": "subscription",
+          "url": "https://www.hotstar.com/in/movies/x-men-united/1770000775",
+          "verified": true,
+          "verified_at": "2026-08-30",
+          "source": "JioHotstar India",
+          "notes": "Verified JioHotstar India streaming URL"
+        }
+      ]
+    },
+    {
+      "id": "x-men-the-last-stand",
+      "order": 3,
+      "title": "X-Men: The Last Stand",
+      "type": "Movie",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "verified",
+          "format": "subscription",
+          "url": "https://www.hotstar.com/in/movies/x-men-the-last-stand/1770000804",
+          "verified": true,
+          "verified_at": "2026-08-30",
+          "source": "JioHotstar India",
+          "notes": "Verified JioHotstar India streaming URL"
+        }
+      ]
+    },
+    {
+      "id": "iron-man",
+      "order": 4,
+      "title": "Iron Man",
+      "type": "Movie",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "verified",
+          "format": "subscription",
+          "url": "https://www.hotstar.com/in/movies/iron-man/1660000038",
+          "verified": true,
+          "verified_at": "2026-08-30",
+          "source": "JioHotstar India",
+          "notes": "Verified JioHotstar India streaming URL"
+        }
+      ]
+    },
+    {
+      "id": "the-incredible-hulk",
+      "order": 5,
+      "title": "The Incredible Hulk",
+      "type": "Movie",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "verified",
+          "format": "subscription",
+          "url": "https://www.hotstar.com/in/movies/the-incredible-hulk/1000046231",
+          "verified": true,
+          "verified_at": "2026-08-30",
+          "source": "JioHotstar India",
+          "notes": "Verified JioHotstar India streaming URL"
+        }
+      ]
+    },
+    {
+      "id": "iron-man-2",
+      "order": 6,
+      "title": "Iron Man 2",
+      "type": "Movie",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "verified",
+          "format": "subscription",
+          "url": "https://www.hotstar.com/in/movies/iron-man-2/1660000039",
+          "verified": true,
+          "verified_at": "2026-08-30",
+          "source": "JioHotstar India",
+          "notes": "Verified JioHotstar India streaming URL"
+        }
+      ]
+    },
+    {
+      "id": "iron-man-2-post-credit-scene",
+      "order": 7,
+      "title": "Iron Man 2 (Post-Credit Scene)",
+      "type": "Special",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "unverified",
+          "format": "subscription",
+          "url": null,
+          "verified": false,
+          "verified_at": "2026-08-30",
+          "source": "Unverified Fallback",
+          "notes": "Streaming availability not yet verified in India"
+        }
+      ]
+    },
+    {
+      "id": "thor",
+      "order": 8,
+      "title": "Thor",
+      "type": "Movie",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "verified",
+          "format": "subscription",
+          "url": "https://www.hotstar.com/in/movies/thor/1660000044",
+          "verified": true,
+          "verified_at": "2026-08-30",
+          "source": "JioHotstar India",
+          "notes": "Verified JioHotstar India streaming URL"
+        }
+      ]
+    },
+    {
+      "id": "thor-post-credit-scene",
+      "order": 9,
+      "title": "Thor (Post-Credit Scene)",
+      "type": "Special",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "unverified",
+          "format": "subscription",
+          "url": null,
+          "verified": false,
+          "verified_at": "2026-08-30",
+          "source": "Unverified Fallback",
+          "notes": "Streaming availability not yet verified in India"
+        }
+      ]
+    },
+    {
+      "id": "x-men-first-class",
+      "order": 10,
+      "title": "X-Men: First Class",
+      "type": "Movie",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "verified",
+          "format": "subscription",
+          "url": "https://www.hotstar.com/in/movies/x-men-first-class/1770000666",
+          "verified": true,
+          "verified_at": "2026-08-30",
+          "source": "JioHotstar India",
+          "notes": "Verified JioHotstar India streaming URL"
+        }
+      ]
+    },
+    {
+      "id": "captain-america-the-first-avenger",
+      "order": 11,
+      "title": "Captain America: The First Avenger",
+      "type": "Movie",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "verified",
+          "format": "subscription",
+          "url": "https://www.hotstar.com/in/movies/captain-america-the-first-avenger/1660000034",
+          "verified": true,
+          "verified_at": "2026-08-30",
+          "source": "JioHotstar India",
+          "notes": "Verified JioHotstar India streaming URL"
+        }
+      ]
+    },
+    {
+      "id": "captain-america-the-first-avenger-credits",
+      "order": 12,
+      "title": "Captain America: The First Avenger (Credits)",
+      "type": "Special",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "unverified",
+          "format": "subscription",
+          "url": null,
+          "verified": false,
+          "verified_at": "2026-08-30",
+          "source": "Unverified Fallback",
+          "notes": "Streaming availability not yet verified in India"
+        }
+      ]
+    },
+    {
+      "id": "the-avengers",
+      "order": 13,
+      "title": "The Avengers",
+      "type": "Movie",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "verified",
+          "format": "subscription",
+          "url": "https://www.hotstar.com/in/movies/marvels-the-avengers/1660000015",
+          "verified": true,
+          "verified_at": "2026-08-30",
+          "source": "JioHotstar India",
+          "notes": "Verified JioHotstar India streaming URL"
+        }
+      ]
+    },
+    {
+      "id": "iron-man-3",
+      "order": 14,
+      "title": "Iron Man 3",
+      "type": "Movie",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "verified",
+          "format": "subscription",
+          "url": "https://www.hotstar.com/in/movies/iron-man-3/1660000042",
+          "verified": true,
+          "verified_at": "2026-08-30",
+          "source": "JioHotstar India",
+          "notes": "Verified JioHotstar India streaming URL"
+        }
+      ]
+    },
+    {
+      "id": "the-wolverine",
+      "order": 15,
+      "title": "The Wolverine",
+      "type": "Movie",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "verified",
+          "format": "subscription",
+          "url": "https://www.hotstar.com/in/movies/the-wolverine/1770000445",
+          "verified": true,
+          "verified_at": "2026-08-30",
+          "source": "JioHotstar India",
+          "notes": "Verified JioHotstar India streaming URL"
+        }
+      ]
+    },
+    {
+      "id": "marvel-one-shot-agent-carter",
+      "order": 16,
+      "title": "Marvel One-Shot: Agent Carter",
+      "type": "Special",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "unverified",
+          "format": "subscription",
+          "url": null,
+          "verified": false,
+          "verified_at": "2026-08-30",
+          "source": "Unverified Fallback",
+          "notes": "Streaming availability not yet verified in India"
+        }
+      ]
+    },
+    {
+      "id": "thor-the-dark-world",
+      "order": 17,
+      "title": "Thor: The Dark World",
+      "type": "Movie",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "verified",
+          "format": "subscription",
+          "url": "https://www.hotstar.com/in/movies/thor-the-dark-world/1260018142",
+          "verified": true,
+          "verified_at": "2026-08-30",
+          "source": "JioHotstar India",
+          "notes": "Verified JioHotstar India streaming URL"
+        }
+      ]
+    },
+    {
+      "id": "captain-america-the-winter-soldier",
+      "order": 18,
+      "title": "Captain America: The Winter Soldier",
+      "type": "Movie",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "verified",
+          "format": "subscription",
+          "url": "https://www.hotstar.com/in/movies/captain-america-the-winter-soldier/1260016410",
+          "verified": true,
+          "verified_at": "2026-08-30",
+          "source": "JioHotstar India",
+          "notes": "Verified JioHotstar India streaming URL"
+        }
+      ]
+    },
+    {
+      "id": "x-men-days-of-future-past",
+      "order": 19,
+      "title": "X-Men: Days of Future Past",
+      "type": "Movie",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "verified",
+          "format": "subscription",
+          "url": "https://www.hotstar.com/in/movies/x-men-days-of-future-past/1770000446",
+          "verified": true,
+          "verified_at": "2026-08-30",
+          "source": "JioHotstar India",
+          "notes": "Verified JioHotstar India streaming URL"
+        }
+      ]
+    },
+    {
+      "id": "guardians-of-the-galaxy",
+      "order": 20,
+      "title": "Guardians of the Galaxy",
+      "type": "Movie",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "verified",
+          "format": "subscription",
+          "url": "https://www.hotstar.com/in/movies/guardians-of-the-galaxy/1260018294",
+          "verified": true,
+          "verified_at": "2026-08-30",
+          "source": "JioHotstar India",
+          "notes": "Verified JioHotstar India streaming URL"
+        }
+      ]
+    },
+    {
+      "id": "agent-carter-season-1",
+      "order": 21,
+      "title": "Agent Carter (Season 1)",
+      "type": "TV Show",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "unverified",
+          "format": "subscription",
+          "url": null,
+          "verified": false,
+          "verified_at": "2026-08-30",
+          "source": "Unverified Fallback",
+          "notes": "Streaming availability not yet verified in India"
+        }
+      ]
+    },
+    {
+      "id": "avengers-age-of-ultron",
+      "order": 22,
+      "title": "Avengers: Age of Ultron",
+      "type": "Movie",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "verified",
+          "format": "subscription",
+          "url": "https://www.hotstar.com/in/movies/marvels-avengers-age-of-ultron/1260018315",
+          "verified": true,
+          "verified_at": "2026-08-30",
+          "source": "JioHotstar India",
+          "notes": "Verified JioHotstar India streaming URL"
+        }
+      ]
+    },
+    {
+      "id": "ant-man",
+      "order": 23,
+      "title": "Ant-Man",
+      "type": "Movie",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "verified",
+          "format": "subscription",
+          "url": "https://www.hotstar.com/in/movies/ant-man/1260018141",
+          "verified": true,
+          "verified_at": "2026-08-30",
+          "source": "JioHotstar India",
+          "notes": "Verified JioHotstar India streaming URL"
+        }
+      ]
+    },
+    {
+      "id": "agent-carter-season-2",
+      "order": 24,
+      "title": "Agent Carter (Season 2)",
+      "type": "TV Show",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "unverified",
+          "format": "subscription",
+          "url": null,
+          "verified": false,
+          "verified_at": "2026-08-30",
+          "source": "Unverified Fallback",
+          "notes": "Streaming availability not yet verified in India"
+        }
+      ]
+    },
+    {
+      "id": "deadpool",
+      "order": 25,
+      "title": "Deadpool",
+      "type": "Movie",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "verified",
+          "format": "subscription",
+          "url": "https://www.hotstar.com/in/movies/deadpool/1770003257",
+          "verified": true,
+          "verified_at": "2026-08-30",
+          "source": "JioHotstar India",
+          "notes": "Verified JioHotstar India streaming URL"
+        }
+      ]
+    },
+    {
+      "id": "captain-america-civil-war",
+      "order": 26,
+      "title": "Captain America: Civil War",
+      "type": "Movie",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "verified",
+          "format": "subscription",
+          "url": "https://www.hotstar.com/in/movies/captain-america-civil-war/1260016768",
+          "verified": true,
+          "verified_at": "2026-08-30",
+          "source": "JioHotstar India",
+          "notes": "Verified JioHotstar India streaming URL"
+        }
+      ]
+    },
+    {
+      "id": "x-men-apocalypse",
+      "order": 27,
+      "title": "X-Men: Apocalypse",
+      "type": "Movie",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "verified",
+          "format": "subscription",
+          "url": "https://www.hotstar.com/in/movies/x-men-apocalypse/1770015391",
+          "verified": true,
+          "verified_at": "2026-08-30",
+          "source": "JioHotstar India",
+          "notes": "Verified JioHotstar India streaming URL"
+        }
+      ]
+    },
+    {
+      "id": "team-thor",
+      "order": 28,
+      "title": "Team Thor",
+      "type": "Special",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "unverified",
+          "format": "subscription",
+          "url": null,
+          "verified": false,
+          "verified_at": "2026-08-30",
+          "source": "Unverified Fallback",
+          "notes": "Streaming availability not yet verified in India"
+        }
+      ]
+    },
+    {
+      "id": "doctor-strange",
+      "order": 29,
+      "title": "Doctor Strange",
+      "type": "Movie",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "verified",
+          "format": "subscription",
+          "url": "https://www.hotstar.com/in/movies/doctor-strange/1260018179",
+          "verified": true,
+          "verified_at": "2026-08-30",
+          "source": "JioHotstar India",
+          "notes": "Verified JioHotstar India streaming URL"
+        }
+      ]
+    },
+    {
+      "id": "team-thor-part-2",
+      "order": 30,
+      "title": "Team Thor: Part 2",
+      "type": "Special",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "unverified",
+          "format": "subscription",
+          "url": null,
+          "verified": false,
+          "verified_at": "2026-08-30",
+          "source": "Unverified Fallback",
+          "notes": "Streaming availability not yet verified in India"
+        }
+      ]
+    },
+    {
+      "id": "logan",
+      "order": 31,
+      "title": "Logan",
+      "type": "Movie",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "unverified",
+          "format": "subscription",
+          "url": null,
+          "verified": false,
+          "verified_at": "2026-08-30",
+          "source": "Manual Audit",
+          "notes": "Streaming availability not yet verified on JioHotstar India"
+        }
+      ]
+    },
+    {
+      "id": "guardians-of-the-galaxy-vol-2",
+      "order": 32,
+      "title": "Guardians of the Galaxy Vol. 2",
+      "type": "Movie",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "verified",
+          "format": "subscription",
+          "url": "https://www.hotstar.com/in/movies/guardians-of-the-galaxy-vol-2/1260018295",
+          "verified": true,
+          "verified_at": "2026-08-30",
+          "source": "JioHotstar India",
+          "notes": "Verified JioHotstar India streaming URL"
+        }
+      ]
+    },
+    {
+      "id": "spider-man-homecoming",
+      "order": 33,
+      "title": "Spider-Man: Homecoming",
+      "type": "Movie",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "verified",
+          "format": "subscription",
+          "url": "https://www.hotstar.com/in/movies/spider-man-homecoming/1271667616",
+          "verified": true,
+          "verified_at": "2026-08-30",
+          "source": "JioHotstar India",
+          "notes": "Verified JioHotstar India streaming URL"
+        }
+      ]
+    },
+    {
+      "id": "thor-ragnarok",
+      "order": 34,
+      "title": "Thor: Ragnarok",
+      "type": "Movie",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "verified",
+          "format": "subscription",
+          "url": "https://www.hotstar.com/in/movies/thor-ragnarok/1660010577",
+          "verified": true,
+          "verified_at": "2026-08-30",
+          "source": "JioHotstar India",
+          "notes": "Verified JioHotstar India streaming URL"
+        }
+      ]
+    },
+    {
+      "id": "black-panther",
+      "order": 35,
+      "title": "Black Panther",
+      "type": "Movie",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "verified",
+          "format": "subscription",
+          "url": "https://www.hotstar.com/in/movies/black-panther/1660010672",
+          "verified": true,
+          "verified_at": "2026-08-30",
+          "source": "JioHotstar India",
+          "notes": "Verified JioHotstar India streaming URL"
+        }
+      ]
+    },
+    {
+      "id": "team-darryl",
+      "order": 36,
+      "title": "Team Darryl",
+      "type": "Special",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "unverified",
+          "format": "subscription",
+          "url": null,
+          "verified": false,
+          "verified_at": "2026-08-30",
+          "source": "Unverified Fallback",
+          "notes": "Streaming availability not yet verified in India"
+        }
+      ]
+    },
+    {
+      "id": "avengers-infinity-war",
+      "order": 37,
+      "title": "Avengers: Infinity War",
+      "type": "Movie",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "verified",
+          "format": "subscription",
+          "url": "https://www.hotstar.com/in/movies/avengers-infinity-war/1660010677",
+          "verified": true,
+          "verified_at": "2026-08-30",
+          "source": "JioHotstar India",
+          "notes": "Verified JioHotstar India streaming URL"
+        }
+      ]
+    },
+    {
+      "id": "deadpool-2",
+      "order": 38,
+      "title": "Deadpool 2",
+      "type": "Movie",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "verified",
+          "format": "subscription",
+          "url": "https://www.hotstar.com/in/movies/deadpool-2/1770020234",
+          "verified": true,
+          "verified_at": "2026-08-30",
+          "source": "JioHotstar India",
+          "notes": "Verified JioHotstar India streaming URL"
+        }
+      ]
+    },
+    {
+      "id": "ant-man-and-the-wasp",
+      "order": 39,
+      "title": "Ant-Man and the Wasp",
+      "type": "Movie",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "verified",
+          "format": "subscription",
+          "url": "https://www.hotstar.com/in/movies/ant-man-and-the-wasp/1660010696",
+          "verified": true,
+          "verified_at": "2026-08-30",
+          "source": "JioHotstar India",
+          "notes": "Verified JioHotstar India streaming URL"
+        }
+      ]
+    },
+    {
+      "id": "ant-man-and-the-wasp-all-credits",
+      "order": 40,
+      "title": "Ant-Man & The Wasp (All Credits)",
+      "type": "Special",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "unverified",
+          "format": "subscription",
+          "url": null,
+          "verified": false,
+          "verified_at": "2026-08-30",
+          "source": "Unverified Fallback",
+          "notes": "Streaming availability not yet verified in India"
+        }
+      ]
+    },
+    {
+      "id": "captain-marvel",
+      "order": 41,
+      "title": "Captain Marvel",
+      "type": "Movie",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "verified",
+          "format": "subscription",
+          "url": "https://www.hotstar.com/in/movies/captain-marvel/1260014878",
+          "verified": true,
+          "verified_at": "2026-08-30",
+          "source": "JioHotstar India",
+          "notes": "Verified JioHotstar India streaming URL"
+        }
+      ]
+    },
+    {
+      "id": "captain-marvel-post-credits-scene",
+      "order": 42,
+      "title": "Captain Marvel (Post-Credits Scene)",
+      "type": "Special",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "unverified",
+          "format": "subscription",
+          "url": null,
+          "verified": false,
+          "verified_at": "2026-08-30",
+          "source": "Unverified Fallback",
+          "notes": "Streaming availability not yet verified in India"
+        }
+      ]
+    },
+    {
+      "id": "avengers-endgame",
+      "order": 43,
+      "title": "Avengers: Endgame",
+      "type": "Movie",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "verified",
+          "format": "subscription",
+          "url": "https://www.hotstar.com/in/movies/avengers-endgame/1260013556",
+          "verified": true,
+          "verified_at": "2026-08-30",
+          "source": "JioHotstar India",
+          "notes": "Verified JioHotstar India streaming URL"
+        }
+      ]
+    },
+    {
+      "id": "dark-phoenix",
+      "order": 44,
+      "title": "Dark Phoenix",
+      "type": "Movie",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "verified",
+          "format": "subscription",
+          "url": "https://www.hotstar.com/in/movies/x-men-dark-phoenix/1260017860",
+          "verified": true,
+          "verified_at": "2026-08-30",
+          "source": "JioHotstar India",
+          "notes": "Verified JioHotstar India streaming URL"
+        }
+      ]
+    },
+    {
+      "id": "spider-man-far-from-home",
+      "order": 45,
+      "title": "Spider-Man: Far From Home",
+      "type": "Movie",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "verified",
+          "format": "subscription",
+          "url": "https://www.hotstar.com/in/movies/spider-man-far-from-home/1271663449",
+          "verified": true,
+          "verified_at": "2026-08-30",
+          "source": "JioHotstar India",
+          "notes": "Verified JioHotstar India streaming URL"
+        }
+      ]
+    },
+    {
+      "id": "peters-to-do-list",
+      "order": 46,
+      "title": "Peter's To-Do List",
+      "type": "Special",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "unverified",
+          "format": "subscription",
+          "url": null,
+          "verified": false,
+          "verified_at": "2026-08-30",
+          "source": "Unverified Fallback",
+          "notes": "Streaming availability not yet verified in India"
+        }
+      ]
+    },
+    {
+      "id": "wandavision-season-1",
+      "order": 47,
+      "title": "WandaVision (Season 1)",
+      "type": "TV Show",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "unverified",
+          "format": "subscription",
+          "url": null,
+          "verified": false,
+          "verified_at": "2026-08-30",
+          "source": "Unverified Fallback",
+          "notes": "Streaming availability not yet verified in India"
+        }
+      ]
+    },
+    {
+      "id": "wandavision-ep-9-mid-credit-scene",
+      "order": 48,
+      "title": "WandaVision (Ep 9 Mid-Credit Scene)",
+      "type": "Special",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "unverified",
+          "format": "subscription",
+          "url": null,
+          "verified": false,
+          "verified_at": "2026-08-30",
+          "source": "Unverified Fallback",
+          "notes": "Streaming availability not yet verified in India"
+        }
+      ]
+    },
+    {
+      "id": "the-falcon-and-the-winter-soldier-season-1",
+      "order": 49,
+      "title": "The Falcon and the Winter Soldier (Season 1)",
+      "type": "TV Show",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "unverified",
+          "format": "subscription",
+          "url": null,
+          "verified": false,
+          "verified_at": "2026-08-30",
+          "source": "Unverified Fallback",
+          "notes": "Streaming availability not yet verified in India"
+        }
+      ]
+    },
+    {
+      "id": "loki-season-1",
+      "order": 50,
+      "title": "Loki (Season 1)",
+      "type": "TV Show",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "unverified",
+          "format": "subscription",
+          "url": null,
+          "verified": false,
+          "verified_at": "2026-08-30",
+          "source": "Unverified Fallback",
+          "notes": "Streaming availability not yet verified in India"
+        }
+      ]
+    },
+    {
+      "id": "black-widow",
+      "order": 51,
+      "title": "Black Widow",
+      "type": "Movie",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "verified",
+          "format": "subscription",
+          "url": "https://www.hotstar.com/in/movies/black-widow/1260067485",
+          "verified": true,
+          "verified_at": "2026-08-30",
+          "source": "JioHotstar India",
+          "notes": "Verified JioHotstar India streaming URL"
+        }
+      ]
+    },
+    {
+      "id": "black-widow-post-credit-scene",
+      "order": 52,
+      "title": "Black Widow (Post-Credit Scene)",
+      "type": "Special",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "unverified",
+          "format": "subscription",
+          "url": null,
+          "verified": false,
+          "verified_at": "2026-08-30",
+          "source": "Unverified Fallback",
+          "notes": "Streaming availability not yet verified in India"
+        }
+      ]
+    },
+    {
+      "id": "what-if-season-1",
+      "order": 53,
+      "title": "What If...? (Season 1)",
+      "type": "TV Show",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "unverified",
+          "format": "subscription",
+          "url": null,
+          "verified": false,
+          "verified_at": "2026-08-30",
+          "source": "Unverified Fallback",
+          "notes": "Streaming availability not yet verified in India"
+        }
+      ]
+    },
+    {
+      "id": "shang-chi-and-the-legend-of-the-ten-rings",
+      "order": 54,
+      "title": "Shang-Chi and the Legend of the Ten Rings",
+      "type": "Movie",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "verified",
+          "format": "subscription",
+          "url": "https://www.hotstar.com/in/movies/shang-chi-and-the-legend-of-the-ten-rings/1260072682",
+          "verified": true,
+          "verified_at": "2026-08-30",
+          "source": "JioHotstar India",
+          "notes": "Verified JioHotstar India streaming URL"
+        }
+      ]
+    },
+    {
+      "id": "hawkeye-season-1",
+      "order": 55,
+      "title": "Hawkeye (Season 1)",
+      "type": "TV Show",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "verified",
+          "format": "subscription",
+          "url": "https://www.hotstar.com/in/shows/hawkeye/1260073683",
+          "verified": true,
+          "verified_at": "2026-08-30",
+          "source": "JioHotstar India",
+          "notes": "Verified JioHotstar India streaming URL"
+        }
+      ]
+    },
+    {
+      "id": "spider-man-no-way-home",
+      "order": 56,
+      "title": "Spider-Man: No Way Home",
+      "type": "Movie",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "verified",
+          "format": "subscription",
+          "url": "https://www.hotstar.com/in/movies/spider-man-no-way-home/1271661204",
+          "verified": true,
+          "verified_at": "2026-08-30",
+          "source": "JioHotstar India",
+          "notes": "Verified JioHotstar India streaming URL"
+        }
+      ]
+    },
+    {
+      "id": "doctor-strange-multiverse-of-madness",
+      "order": 57,
+      "title": "Doctor Strange: Multiverse of Madness",
+      "type": "Movie",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "verified",
+          "format": "subscription",
+          "url": "https://www.hotstar.com/in/movies/doctor-strange-in-the-multiverse-of-madness/1260103761",
+          "verified": true,
+          "verified_at": "2026-08-30",
+          "source": "JioHotstar India",
+          "notes": "Verified JioHotstar India streaming URL"
+        }
+      ]
+    },
+    {
+      "id": "ms-marvel-season-1",
+      "order": 58,
+      "title": "Ms. Marvel (Season 1)",
+      "type": "TV Show",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "unverified",
+          "format": "subscription",
+          "url": null,
+          "verified": false,
+          "verified_at": "2026-08-30",
+          "source": "Unverified Fallback",
+          "notes": "Streaming availability not yet verified in India"
+        }
+      ]
+    },
+    {
+      "id": "thor-love-and-thunder",
+      "order": 59,
+      "title": "Thor: Love and Thunder",
+      "type": "Movie",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "verified",
+          "format": "subscription",
+          "url": "https://www.hotstar.com/in/movies/thor-love-and-thunder/1260110008",
+          "verified": true,
+          "verified_at": "2026-08-30",
+          "source": "JioHotstar India",
+          "notes": "Verified JioHotstar India streaming URL"
+        }
+      ]
+    },
+    {
+      "id": "black-panther-wakanda-forever",
+      "order": 60,
+      "title": "Black Panther: Wakanda Forever",
+      "type": "Movie",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "verified",
+          "format": "subscription",
+          "url": "https://www.hotstar.com/in/movies/black-panther-wakanda-forever/1260118821",
+          "verified": true,
+          "verified_at": "2026-08-30",
+          "source": "JioHotstar India",
+          "notes": "Verified JioHotstar India streaming URL"
+        }
+      ]
+    },
+    {
+      "id": "ant-man-and-the-wasp-quantumania",
+      "order": 61,
+      "title": "Ant-Man and the Wasp: Quantumania",
+      "type": "Movie",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "unverified",
+          "format": "subscription",
+          "url": null,
+          "verified": false,
+          "verified_at": "2026-08-30",
+          "source": "Manual Audit",
+          "notes": "Streaming availability not yet verified on JioHotstar India"
+        }
+      ]
+    },
+    {
+      "id": "loki-season-2",
+      "order": 62,
+      "title": "Loki (Season 2)",
+      "type": "TV Show",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "unverified",
+          "format": "subscription",
+          "url": null,
+          "verified": false,
+          "verified_at": "2026-08-30",
+          "source": "Unverified Fallback",
+          "notes": "Streaming availability not yet verified in India"
+        }
+      ]
+    },
+    {
+      "id": "the-marvels",
+      "order": 63,
+      "title": "The Marvels",
+      "type": "Movie",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "verified",
+          "format": "subscription",
+          "url": "https://www.hotstar.com/in/movies/the-marvels/1260167860",
+          "verified": true,
+          "verified_at": "2026-08-30",
+          "source": "JioHotstar India",
+          "notes": "Verified JioHotstar India streaming URL"
+        }
+      ]
+    },
+    {
+      "id": "deadpool-and-wolverine",
+      "order": 64,
+      "title": "Deadpool & Wolverine",
+      "type": "Movie",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "verified",
+          "format": "subscription",
+          "url": "https://www.hotstar.com/in/movies/deadpool-and-wolverine/1271305185",
+          "verified": true,
+          "verified_at": "2026-08-30",
+          "source": "JioHotstar India",
+          "notes": "Verified JioHotstar India streaming URL"
+        }
+      ]
+    },
+    {
+      "id": "captain-america-brave-new-world",
+      "order": 65,
+      "title": "Captain America: Brave New World",
+      "type": "Movie",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "verified",
+          "format": "subscription",
+          "url": "https://www.hotstar.com/in/movies/captain-america-brave-new-world/1271337438",
+          "verified": true,
+          "verified_at": "2026-08-30",
+          "source": "JioHotstar India",
+          "notes": "Verified JioHotstar India streaming URL"
+        }
+      ]
+    },
+    {
+      "id": "thunderbolts",
+      "order": 66,
+      "title": "Thunderbolts*",
+      "type": "Movie",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "verified",
+          "format": "subscription",
+          "url": "https://www.hotstar.com/in/movies/thunderbolts/1271337437",
+          "verified": true,
+          "verified_at": "2026-08-30",
+          "source": "JioHotstar India",
+          "notes": "Verified JioHotstar India streaming URL"
+        }
+      ]
+    },
+    {
+      "id": "the-fantastic-four-first-steps",
+      "order": 67,
+      "title": "The Fantastic Four: First Steps",
+      "type": "Movie",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "verified",
+          "format": "subscription",
+          "url": "https://www.hotstar.com/in/movies/the-fantastic-four-first-steps/1271406275",
+          "verified": true,
+          "verified_at": "2026-08-30",
+          "source": "JioHotstar India",
+          "notes": "Verified JioHotstar India streaming URL"
+        }
+      ]
+    },
+    {
+      "id": "eyes-of-wakanda-season-1",
+      "order": 68,
+      "title": "Eyes of Wakanda (Season 1)",
+      "type": "TV Show",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "unverified",
+          "format": "subscription",
+          "url": null,
+          "verified": false,
+          "verified_at": "2026-08-30",
+          "source": "Unverified Fallback",
+          "notes": "Streaming availability not yet verified in India"
+        }
+      ]
+    },
+    {
+      "id": "marvel-zombies",
+      "order": 69,
+      "title": "Marvel Zombies",
+      "type": "TV Show",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "unverified",
+          "format": "subscription",
+          "url": null,
+          "verified": false,
+          "verified_at": "2026-08-30",
+          "source": "Unverified Fallback",
+          "notes": "Streaming availability not yet verified in India"
+        }
+      ]
+    },
+    {
+      "id": "spider-man-brand-new-day",
+      "order": 70,
+      "title": "Spider-Man: Brand New Day",
+      "type": "Movie",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": null,
+          "status": "upcoming",
+          "format": null,
+          "url": null,
+          "verified": true,
+          "verified_at": "2026-08-30",
+          "source": "Official Theatrical / Streaming Slate",
+          "notes": "Upcoming theatrical/streaming release — streaming availability not announced"
+        }
+      ]
+    },
+    {
+      "id": "avengers-endgame-encore",
+      "order": 71,
+      "title": "Avengers: Endgame Encore",
+      "type": "Movie",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "unverified",
+          "format": "subscription",
+          "url": null,
+          "verified": false,
+          "verified_at": "2026-08-30",
+          "source": "Unverified Fallback",
+          "notes": "Streaming availability not yet verified in India"
+        }
+      ]
+    },
+    {
+      "id": "avengers-doomsday",
+      "order": 72,
+      "title": "AVENGERS: DOOMSDAY",
+      "type": "Movie",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": null,
+          "status": "upcoming",
+          "format": null,
+          "url": null,
+          "verified": true,
+          "verified_at": "2026-08-30",
+          "source": "Official Theatrical / Streaming Slate",
+          "notes": "Upcoming theatrical/streaming release — streaming availability not announced"
+        }
+      ]
+    },
+    {
+      "id": "daredevil-season-1",
+      "order": null,
+      "title": "Daredevil Season 1",
+      "type": "TV Show",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "verified",
+          "format": "subscription",
+          "url": "https://www.hotstar.com/in/shows/marvels-daredevil/1260091261",
+          "verified": true,
+          "verified_at": "2026-08-30",
+          "source": "JioHotstar India",
+          "notes": "Verified JioHotstar India streaming URL"
+        }
+      ]
+    },
+    {
+      "id": "jessica-jones-season-1",
+      "order": null,
+      "title": "Jessica Jones Season 1",
+      "type": "TV Show",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "unverified",
+          "format": "subscription",
+          "url": null,
+          "verified": false,
+          "verified_at": "2026-08-30",
+          "source": "Unverified Fallback",
+          "notes": "Streaming availability not yet verified in India"
+        }
+      ]
+    },
+    {
+      "id": "daredevil-season-2",
+      "order": null,
+      "title": "Daredevil Season 2",
+      "type": "TV Show",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "verified",
+          "format": "subscription",
+          "url": "https://www.hotstar.com/in/shows/marvels-daredevil/1260091261",
+          "verified": true,
+          "verified_at": "2026-08-30",
+          "source": "JioHotstar India",
+          "notes": "Verified JioHotstar India streaming URL"
+        }
+      ]
+    },
+    {
+      "id": "the-punisher-season-1",
+      "order": null,
+      "title": "The Punisher Season 1",
+      "type": "TV Show",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "unverified",
+          "format": "subscription",
+          "url": null,
+          "verified": false,
+          "verified_at": "2026-08-30",
+          "source": "Unverified Fallback",
+          "notes": "Streaming availability not yet verified in India"
+        }
+      ]
+    },
+    {
+      "id": "daredevil-season-3",
+      "order": null,
+      "title": "Daredevil Season 3",
+      "type": "TV Show",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "verified",
+          "format": "subscription",
+          "url": "https://www.hotstar.com/in/shows/marvels-daredevil/1260091261",
+          "verified": true,
+          "verified_at": "2026-08-30",
+          "source": "JioHotstar India",
+          "notes": "Verified JioHotstar India streaming URL"
+        }
+      ]
+    },
+    {
+      "id": "the-punisher-season-2",
+      "order": null,
+      "title": "The Punisher Season 2",
+      "type": "TV Show",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "unverified",
+          "format": "subscription",
+          "url": null,
+          "verified": false,
+          "verified_at": "2026-08-30",
+          "source": "Unverified Fallback",
+          "notes": "Streaming availability not yet verified in India"
+        }
+      ]
+    },
+    {
+      "id": "hawkeye-episodes-1-5",
+      "order": null,
+      "title": "Hawkeye — episodes 1–5",
+      "type": "TV Show",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "verified",
+          "format": "subscription",
+          "url": "https://www.hotstar.com/in/shows/hawkeye/1260073683",
+          "verified": true,
+          "verified_at": "2026-08-30",
+          "source": "JioHotstar India",
+          "notes": "Verified JioHotstar India streaming URL"
+        }
+      ]
+    },
+    {
+      "id": "hawkeye-episode-6-finale",
+      "order": null,
+      "title": "Hawkeye — episode 6 (finale)",
+      "type": "TV Show",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "verified",
+          "format": "subscription",
+          "url": "https://www.hotstar.com/in/shows/hawkeye/1260073683",
+          "verified": true,
+          "verified_at": "2026-08-30",
+          "source": "JioHotstar India",
+          "notes": "Verified JioHotstar India streaming URL"
+        }
+      ]
+    },
+    {
+      "id": "guardians-of-the-galaxy-vol-3",
+      "order": null,
+      "title": "Guardians of the Galaxy Vol. 3",
+      "type": "Movie",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "unverified",
+          "format": "subscription",
+          "url": null,
+          "verified": false,
+          "verified_at": "2026-08-30",
+          "source": "Unverified Fallback",
+          "notes": "Streaming availability not yet verified in India"
+        }
+      ]
+    },
+    {
+      "id": "agatha-all-along",
+      "order": null,
+      "title": "Agatha All Along",
+      "type": "TV Show",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "unverified",
+          "format": "subscription",
+          "url": null,
+          "verified": false,
+          "verified_at": "2026-08-30",
+          "source": "Unverified Fallback",
+          "notes": "Streaming availability not yet verified in India"
+        }
+      ]
+    },
+    {
+      "id": "daredevil-born-again-season-1",
+      "order": null,
+      "title": "Daredevil: Born Again Season 1",
+      "type": "TV Show",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "unverified",
+          "format": "subscription",
+          "url": null,
+          "verified": false,
+          "verified_at": "2026-08-30",
+          "source": "Unverified Fallback",
+          "notes": "Streaming availability not yet verified in India"
+        }
+      ]
+    },
+    {
+      "id": "daredevil-born-again-season-2",
+      "order": null,
+      "title": "Daredevil: Born Again Season 2",
+      "type": "TV Show",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "unverified",
+          "format": "subscription",
+          "url": null,
+          "verified": false,
+          "verified_at": "2026-08-30",
+          "source": "Unverified Fallback",
+          "notes": "Streaming availability not yet verified in India"
+        }
+      ]
+    },
+    {
+      "id": "the-punisher-one-last-kill",
+      "order": null,
+      "title": "The Punisher: One Last Kill",
+      "type": "Special",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "unverified",
+          "format": "subscription",
+          "url": null,
+          "verified": false,
+          "verified_at": "2026-08-30",
+          "source": "Unverified Fallback",
+          "notes": "Streaming availability not yet verified in India"
+        }
+      ]
+    },
+    {
+      "id": "visionquest",
+      "order": null,
+      "title": "VisionQuest",
+      "type": "TV Show",
+      "availability": [
+        {
+          "country": "IN",
+          "platform": "JioHotstar",
+          "status": "unverified",
+          "format": "subscription",
+          "url": null,
+          "verified": false,
+          "verified_at": "2026-08-30",
+          "source": "Unverified Fallback",
+          "notes": "Streaming availability not yet verified in India"
+        }
+      ]
+    }
+  ]
+}

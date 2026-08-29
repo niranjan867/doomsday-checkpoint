@@ -1,0 +1,6315 @@
+{
+  "dataset_name": "MARVEL: CHECKPOINT — Master Data",
+  "source_of_truth": [
+    "MCUWATCHLIST.docx",
+    "roadtodoomsday-com-2026-08-29.xlsx"
+  ],
+  "canonical_order_basis": "72-item watchlist capture in MCUWATCHLIST.docx; article order retained separately as source_orders.road_to_doomsday",
+  "master_watchlist": [
+    {
+      "id": "x-men",
+      "order": 1,
+      "title": "X-Men",
+      "subtitle": null,
+      "type": "Movie",
+      "release": {
+        "year": 2000,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": "1 hr 44 min",
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Recommended",
+        "required": null,
+        "category": "main"
+      },
+      "section": "Legacy: The Fox X-Men Saga",
+      "guidance": {
+        "watch_for": "Welcome to Part IV homework. It's 2000 — superhero movies barely exist yet, and this is the film that restarted them. Meet the versions of Xavier and Magneto that Doomsday recruits.",
+        "watch_instruction": null
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "This is where the modern superhero movie era essentially began, and it introduces the Xavier and Magneto dynamic that continues to shape the X-Men story decades later.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "The actors playing Xavier and Magneto here (Patrick Stewart and Ian McKellen) are the same ones returning for Avengers: Doomsday, so this film shows you the original version of their friendship-turned-rivalry before it gets folded into the MCU."
+        },
+        "confidence": "confirmed",
+        "connection_type": [
+          "character",
+          "legacy"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 43",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 48",
+          "road_order": 47
+        }
+      ],
+      "source_metadata": {
+        "publisher": "FOX",
+        "rating": 7.0,
+        "release_metadata_raw": "2000 (1 hr 44 min)",
+        "status_note": null
+      },
+      "source_orders": {
+        "road_to_doomsday": 47
+      }
+    },
+    {
+      "id": "x2-x-men-united",
+      "order": 2,
+      "title": "X2: X-Men United",
+      "subtitle": null,
+      "type": "Movie",
+      "release": {
+        "year": 2003,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": "2 hr 14 min",
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Recommended",
+        "required": null,
+        "category": "main"
+      },
+      "section": "Legacy: The Fox X-Men Saga",
+      "guidance": {
+        "watch_for": "The Nightcrawler opening is still one of the best cold opens in the genre — and that's Alan Cumming, confirmed for Doomsday. Watch what happens to Jean at the end.",
+        "watch_instruction": "Alan Cumming’s Nightcrawler — confirmed for Doomsday."
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "Introduces two fan-favorite characters in their classic film versions and pushes Jean Grey toward a major turning point for the franchise.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "Nightcrawler and Mystique, played by Alan Cumming and Rebecca Romijn, are both confirmed to appear in Doomsday in these same roles. Jean's fate here also sets up the Phoenix storyline that later films build on."
+        },
+        "confidence": "confirmed",
+        "connection_type": [
+          "character",
+          "legacy"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 51",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 49",
+          "road_order": 48
+        }
+      ],
+      "source_metadata": {
+        "publisher": "FOX",
+        "rating": 7.0,
+        "release_metadata_raw": "2003 (2 hr 14 min)",
+        "status_note": "Alan Cumming’s Nightcrawler — confirmed for Doomsday."
+      },
+      "source_orders": {
+        "road_to_doomsday": 48
+      }
+    },
+    {
+      "id": "x-men-the-last-stand",
+      "order": 3,
+      "title": "X-Men: The Last Stand",
+      "subtitle": null,
+      "type": "Movie",
+      "release": {
+        "year": 2006,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": "1 hr 44 min",
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Recommended",
+        "required": null,
+        "category": "main"
+      },
+      "section": "Legacy: The Fox X-Men Saga",
+      "guidance": {
+        "watch_for": "The rough one — but required: Kelsey Grammer's Beast debuts here, and he's confirmed for Doomsday. Stay through the credits for a very sneaky scene.",
+        "watch_instruction": "Kelsey Grammer’s Beast — confirmed for Doomsday."
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "Closes out the original X-Men trilogy and introduces a character who's confirmed to return for Doomsday.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "Kelsey Grammer's Beast debuts here and is confirmed for Doomsday. A post-credits scene also plants the idea that Xavier can survive seemingly permanent losses — a trick the franchise leans on again later."
+        },
+        "confidence": "confirmed",
+        "connection_type": [
+          "character",
+          "legacy"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 59",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 50",
+          "road_order": 49
+        }
+      ],
+      "source_metadata": {
+        "publisher": "FOX",
+        "rating": 6.4,
+        "release_metadata_raw": "2006 (1 hr 44 min)",
+        "status_note": "Kelsey Grammer’s Beast — confirmed for Doomsday."
+      },
+      "source_orders": {
+        "road_to_doomsday": 49
+      }
+    },
+    {
+      "id": "iron-man",
+      "order": 4,
+      "title": "Iron Man",
+      "subtitle": null,
+      "type": "Movie",
+      "release": {
+        "year": 2008,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": "2 hr 6 min",
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "main"
+      },
+      "section": "Phase 1 — The Avengers Initiative (2008–2012)",
+      "guidance": {
+        "watch_for": "Remember the name of Coulson's agency, and note how the final press-conference line breaks the secret-identity rulebook every other superhero franchise follows. Stay for the credits.",
+        "watch_instruction": "Watch all credits."
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "This is the film that started it all, introducing Nick Fury, S.H.I.E.L.D., and the first hint of a bigger team-up down the line.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "The post-credits scene marks the true beginning of the MCU's shared universe. It also sets up the Ten Rings organization, which returns properly in Shang-Chi, and leaves a small detail about War Machine's suit that becomes relevant in the sequel."
+        },
+        "confidence": "confirmed",
+        "connection_type": [
+          "character",
+          "setup"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 67",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 2",
+          "road_order": 1
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 7.7,
+        "release_metadata_raw": "2008 (2 hr 6 min)",
+        "status_note": null
+      },
+      "source_orders": {
+        "road_to_doomsday": 1
+      }
+    },
+    {
+      "id": "the-incredible-hulk",
+      "order": 5,
+      "title": "The Incredible Hulk",
+      "subtitle": null,
+      "type": "Movie",
+      "release": {
+        "year": 2008,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": "1 hr 52 min",
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "main"
+      },
+      "section": "Phase 1 — The Avengers Initiative (2008–2012)",
+      "guidance": {
+        "watch_for": "The experiment that created Hulk was an attempt to recreate a WWII super-soldier program — file that away. Watch what drips into Samuel Sterns' head wound, and stay for the bar scene.",
+        "watch_instruction": "Watch all credits"
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "Once considered skippable, this film has quietly become useful preparation thanks to characters who resurface much later.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "General Ross returns in Civil War and later becomes Red Hulk in Brave New World. Samuel Sterns becomes The Leader in that same film, and Emil Blonsky reappears in Shang-Chi and She-Hulk. The story also overlaps in time with Iron Man 2."
+        },
+        "confidence": "established",
+        "connection_type": [
+          "character",
+          "prerequisite"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 74",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 3",
+          "road_order": 2
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 6.3,
+        "release_metadata_raw": "2008 (1 hr 52 min)",
+        "status_note": "No longer skippable: The Leader and Ross return in Brave New World, and Hulk is in Brand New Day."
+      },
+      "source_orders": {
+        "road_to_doomsday": 2
+      }
+    },
+    {
+      "id": "iron-man-2",
+      "order": 6,
+      "title": "Iron Man 2",
+      "subtitle": null,
+      "type": "Movie",
+      "release": {
+        "year": 2010,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": "2 hr 4 min",
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "main"
+      },
+      "section": "Phase 1 — The Avengers Initiative (2008–2012)",
+      "guidance": {
+        "watch_for": "Rhodey is played by a new actor (his first line winks at it). The new Stark legal employee is a much bigger deal than she seems. Late in the film, check the news monitor at S.H.I.E.L.D., and stay for the post-credits crater.",
+        "watch_instruction": "1 Credit · STOP before credits — the credits scene belongs RIGHT BEFORE Thor"
+      },
+      "stop_point": {
+        "enabled": true,
+        "instruction": "1 Credit · STOP before credits — the credits scene belongs RIGHT BEFORE Thor",
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "Introduces a major new character and expands Tony Stark's world in ways that ripple forward for years.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "Natasha Romanoff makes her debut here, eventually leading to Yelena and a spot on the Doomsday roster. War Machine officially arrives, and the film ends with a scene that connects directly into Thor."
+        },
+        "confidence": "established",
+        "connection_type": [
+          "character",
+          "post_credit"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 81",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 4",
+          "road_order": 3
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 6.9,
+        "release_metadata_raw": "2010 (2 hr 4 min)",
+        "status_note": null
+      },
+      "source_orders": {
+        "road_to_doomsday": 3
+      }
+    },
+    {
+      "id": "iron-man-2-post-credit-scene",
+      "order": 7,
+      "title": "Iron Man 2 (Post-Credit Scene)",
+      "subtitle": null,
+      "type": "Special",
+      "release": {
+        "year": null,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "special"
+      },
+      "section": "Phase 1 — The Avengers Initiative (2008–2012)",
+      "guidance": {
+        "watch_for": null,
+        "watch_instruction": null
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": false,
+        "connection": null,
+        "spoiler": {
+          "contains_spoiler": false,
+          "label": "Contains spoilers — tap to reveal",
+          "content": null
+        }
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 88",
+          "capture": "72-item watchlist"
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": null
+      }
+    },
+    {
+      "id": "thor",
+      "order": 8,
+      "title": "Thor",
+      "subtitle": null,
+      "type": "Movie",
+      "release": {
+        "year": 2011,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": "1 hr 55 min",
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "main"
+      },
+      "section": "Phase 1 — The Avengers Initiative (2008–2012)",
+      "guidance": {
+        "watch_for": "The agent with the bow in the crane is a future Avenger. 'Magic is just science we don't understand yet' is the load-bearing line for the whole cosmic side. Stay for the glowing cube.",
+        "watch_instruction": "1 Credit · STOP before credits — the credits scene belongs RIGHT BEFORE The Avengers"
+      },
+      "stop_point": {
+        "enabled": true,
+        "instruction": "1 Credit · STOP before credits — the credits scene belongs RIGHT BEFORE The Avengers",
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "Kicks off a character arc for Loki that eventually becomes central to the multiverse storylines, and introduces the cosmic side of the MCU.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "Loki's path from villain here to his own solo series and later a spot connected to Doomsday effectively starts in this movie. The Tesseract introduced here becomes a key object in Captain America and The Avengers."
+        },
+        "confidence": "established",
+        "connection_type": [
+          "character",
+          "multiverse"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 94",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 5",
+          "road_order": 4
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 6.8,
+        "release_metadata_raw": "2011 (1 hr 55 min)",
+        "status_note": null
+      },
+      "source_orders": {
+        "road_to_doomsday": 4
+      }
+    },
+    {
+      "id": "thor-post-credit-scene",
+      "order": 9,
+      "title": "Thor (Post-Credit Scene)",
+      "subtitle": null,
+      "type": "Special",
+      "release": {
+        "year": null,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "special"
+      },
+      "section": "Phase 1 — The Avengers Initiative (2008–2012)",
+      "guidance": {
+        "watch_for": null,
+        "watch_instruction": null
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": false,
+        "connection": null,
+        "spoiler": {
+          "contains_spoiler": false,
+          "label": "Contains spoilers — tap to reveal",
+          "content": null
+        }
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 101",
+          "capture": "72-item watchlist"
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": null
+      }
+    },
+    {
+      "id": "x-men-first-class",
+      "order": 10,
+      "title": "X-Men: First Class",
+      "subtitle": null,
+      "type": "Movie",
+      "release": {
+        "year": null,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Recommended",
+        "required": null,
+        "category": "main"
+      },
+      "section": "Legacy: The Fox X-Men Saga",
+      "guidance": {
+        "watch_for": null,
+        "watch_instruction": null
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": false,
+        "connection": null,
+        "spoiler": {
+          "contains_spoiler": false,
+          "label": "Contains spoilers — tap to reveal",
+          "content": null
+        }
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 107",
+          "capture": "72-item watchlist"
+        }
+      ],
+      "source_metadata": {
+        "publisher": "FOX",
+        "rating": 7.3
+      }
+    },
+    {
+      "id": "captain-america-the-first-avenger",
+      "order": 11,
+      "title": "Captain America: The First Avenger",
+      "subtitle": null,
+      "type": "Movie",
+      "release": {
+        "year": 2011,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": "2 hr 4 min",
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "main"
+      },
+      "section": "Legacy: WWII & The 1940s",
+      "guidance": {
+        "watch_for": "The inventor helping Steve is Tony Stark's father. Remember the best friend's name: Bucky. And yes, it ends in the present day.",
+        "watch_instruction": "1 Credit · STOP before credits — the credits scene belongs RIGHT BEFORE The Avengers"
+      },
+      "stop_point": {
+        "enabled": true,
+        "instruction": "1 Credit · STOP before credits — the credits scene belongs RIGHT BEFORE The Avengers",
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "Establishes the super-soldier program's origins and introduces a friendship that has major consequences for the whole saga.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "This film retroactively explains the science behind The Incredible Hulk's experiment. Bucky's apparent death here is the start of a storyline that continues through Civil War and Thunderbolts, and Peggy Carter's legacy echoes into the What If series."
+        },
+        "confidence": "established",
+        "connection_type": [
+          "character",
+          "setup"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 115",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 6",
+          "road_order": 5
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 7.0,
+        "release_metadata_raw": "2011 (2 hr 4 min)",
+        "status_note": null
+      },
+      "source_orders": {
+        "road_to_doomsday": 5
+      }
+    },
+    {
+      "id": "captain-america-the-first-avenger-credits",
+      "order": 12,
+      "title": "Captain America: The First Avenger (Credits)",
+      "subtitle": null,
+      "type": "Special",
+      "release": {
+        "year": null,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "special"
+      },
+      "section": "Phase 1 — The Avengers Initiative (2008–2012)",
+      "guidance": {
+        "watch_for": null,
+        "watch_instruction": null
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": false,
+        "connection": null,
+        "spoiler": {
+          "contains_spoiler": false,
+          "label": "Contains spoilers — tap to reveal",
+          "content": null
+        }
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 122",
+          "capture": "72-item watchlist"
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": null
+      }
+    },
+    {
+      "id": "the-avengers",
+      "order": 13,
+      "title": "The Avengers",
+      "subtitle": null,
+      "type": "Movie",
+      "release": {
+        "year": 2012,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": "2 hr 23 min",
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "main"
+      },
+      "section": "Phase 1 — The Avengers Initiative (2008–2012)",
+      "guidance": {
+        "watch_for": "Watch Coulson's arc closely, and stay through BOTH credit scenes — the mid-credits grin is the most important 10 seconds of the decade.",
+        "watch_instruction": "Watch all credits"
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "The team-up that started the shared-universe format, with a credits scene that quietly sets the tone for everything that follows.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "The mid-credits scene reveals Thanos, tying directly into the build-up toward Endgame. Loki's capture here also leads into Thor: The Dark World and eventually the Loki series. The Battle of New York becomes a defining event referenced across many later shows and films."
+        },
+        "confidence": "confirmed",
+        "connection_type": [
+          "character",
+          "post_credit",
+          "setup"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 128",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 7",
+          "road_order": 6
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 8.1,
+        "release_metadata_raw": "2012 (2 hr 23 min)",
+        "status_note": null
+      },
+      "source_orders": {
+        "road_to_doomsday": 6
+      }
+    },
+    {
+      "id": "iron-man-3",
+      "order": 14,
+      "title": "Iron Man 3",
+      "subtitle": null,
+      "type": "Movie",
+      "release": {
+        "year": 2013,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": "2 hr 10 min",
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "main"
+      },
+      "section": "Phase 2 — HYDRA & The Infinity Stones (2012–2015)",
+      "guidance": {
+        "watch_for": "Tony can't sleep since New York — that's the real plot. Go in unspoiled about the Mandarin and reserve judgment until the end.",
+        "watch_instruction": "Watch credits"
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "Explores the emotional aftermath of the first Avengers movie for Tony Stark, and plays with audience expectations around one of Iron Man's classic villains.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "The twist involving the Mandarin gets a proper resolution later in Shang-Chi, which reveals the real Ten Rings organization. Tony's anxiety here also becomes part of his long emotional arc that runs through Endgame."
+        },
+        "confidence": "established",
+        "connection_type": [
+          "character",
+          "story"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 135",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 8",
+          "road_order": 7
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 6.9,
+        "release_metadata_raw": "2013 (2 hr 10 min)",
+        "status_note": null
+      },
+      "source_orders": {
+        "road_to_doomsday": 7
+      }
+    },
+    {
+      "id": "the-wolverine",
+      "order": 15,
+      "title": "The Wolverine",
+      "subtitle": null,
+      "type": "Movie",
+      "release": {
+        "year": null,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Recommended",
+        "required": null,
+        "category": "main"
+      },
+      "section": "Legacy: The Fox X-Men Saga",
+      "guidance": {
+        "watch_for": null,
+        "watch_instruction": "Optional — bridges The Last Stand to Days of Future Past."
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": false,
+        "connection": null,
+        "spoiler": {
+          "contains_spoiler": false,
+          "label": "Contains spoilers — tap to reveal",
+          "content": null
+        }
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 142",
+          "capture": "72-item watchlist"
+        }
+      ],
+      "source_metadata": {
+        "publisher": "FOX",
+        "rating": 6.4
+      }
+    },
+    {
+      "id": "marvel-one-shot-agent-carter",
+      "order": 16,
+      "title": "Marvel One-Shot: Agent Carter",
+      "subtitle": null,
+      "type": "Special",
+      "release": {
+        "year": null,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "special"
+      },
+      "section": "Legacy: WWII & The 1940s",
+      "guidance": {
+        "watch_for": null,
+        "watch_instruction": "Short film"
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": false,
+        "connection": null,
+        "spoiler": {
+          "contains_spoiler": false,
+          "label": "Contains spoilers — tap to reveal",
+          "content": null
+        }
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 150",
+          "capture": "72-item watchlist"
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 7.2
+      }
+    },
+    {
+      "id": "thor-the-dark-world",
+      "order": 17,
+      "title": "Thor: The Dark World",
+      "subtitle": null,
+      "type": "Movie",
+      "release": {
+        "year": 2013,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": "1 hr 52 min",
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "main"
+      },
+      "section": "Phase 2 — HYDRA & The Infinity Stones (2012–2015)",
+      "guidance": {
+        "watch_for": "Keep your eye on the red stuff (the Aether) and everything Loki does in the back half. Mid-credits scene is required.",
+        "watch_instruction": "Watch all credits"
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "Introduces a second Infinity Stone and expands Thor's world with consequences that surface again years later.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "The Aether is revealed to be the Reality Stone. A mid-credits scene connects to Guardians of the Galaxy, and Jane's exposure to the Aether becomes relevant again in Love and Thunder."
+        },
+        "confidence": "established",
+        "connection_type": [
+          "story",
+          "setup"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 157",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 9",
+          "road_order": 8
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 6.5,
+        "release_metadata_raw": "2013 (1 hr 52 min)",
+        "status_note": null
+      },
+      "source_orders": {
+        "road_to_doomsday": 8
+      }
+    },
+    {
+      "id": "captain-america-the-winter-soldier",
+      "order": 18,
+      "title": "Captain America: The Winter Soldier",
+      "subtitle": null,
+      "type": "Movie",
+      "release": {
+        "year": 2014,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": "2 hr 16 min",
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "main"
+      },
+      "section": "Phase 2 — HYDRA & The Infinity Stones (2012–2015)",
+      "guidance": {
+        "watch_for": "The elevator scene is legend. Pay attention to who the Winter Soldier is, what happens to Fury, and the mid-credits twins.",
+        "watch_instruction": "Watch credits"
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "A major turning point that changes the shape of the MCU's spy-world storylines and introduces a future Captain America.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "The reveal that Hydra had infiltrated S.H.I.E.L.D. reshapes the entire universe and even affects the ongoing Agents of S.H.I.E.L.D. series mid-season. Sam Wilson begins his path toward becoming Captain America, and the twins introduced late in the film are Wanda and Pietro."
+        },
+        "confidence": "established",
+        "connection_type": [
+          "character",
+          "story"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 164",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 10",
+          "road_order": 9
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 7.7,
+        "release_metadata_raw": "2014 (2 hr 16 min)",
+        "status_note": null
+      },
+      "source_orders": {
+        "road_to_doomsday": 9
+      }
+    },
+    {
+      "id": "x-men-days-of-future-past",
+      "order": 19,
+      "title": "X-Men: Days of Future Past",
+      "subtitle": null,
+      "type": "Movie",
+      "release": {
+        "year": 2014,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": "2 hr 12 min",
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Recommended",
+        "required": null,
+        "category": "main"
+      },
+      "section": "Legacy: The Fox X-Men Saga",
+      "guidance": {
+        "watch_for": "Two casts, one timeline war. The Quicksilver kitchen scene earns its legend. Watch what the ending does to the previous six movies. (First Class right before this helps a lot.)",
+        "watch_instruction": "Strongly recommended — reshuffles the Fox timeline with the older cast. If you’re watching this, X-Men: First Class (2011) belongs right before it: half the film is that cast."
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "A time-travel story that reshapes the X-Men film timeline and gives the franchise a way to move forward.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "The ending effectively resets the Fox X-Men timeline, which explains away earlier continuity issues and closes out several characters' stories — some of which Doomsday reportedly reverses."
+        },
+        "confidence": "established",
+        "connection_type": [
+          "story",
+          "legacy"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 171",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 51",
+          "road_order": 50
+        }
+      ],
+      "source_metadata": {
+        "publisher": "FOX",
+        "rating": 7.5,
+        "release_metadata_raw": "2014 (2 hr 12 min)",
+        "status_note": "Strongly recommended — reshuffles the Fox timeline with the older cast. If you’re watching this, X-Men: First Class (2011) belongs right before it: half the film is that cast."
+      },
+      "source_orders": {
+        "road_to_doomsday": 50
+      }
+    },
+    {
+      "id": "guardians-of-the-galaxy",
+      "order": 20,
+      "title": "Guardians of the Galaxy",
+      "subtitle": null,
+      "type": "Movie",
+      "release": {
+        "year": 2014,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": "2 hr 1 min",
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "main"
+      },
+      "section": "Phase 2 — HYDRA & The Infinity Stones (2012–2015)",
+      "guidance": {
+        "watch_for": "A talking raccoon movie that shouldn't work and completely does. Note what's inside the orb and get your first proper look at Thanos.",
+        "watch_instruction": "Watch both credit scenes"
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "Introduces a whole new cosmic corner of the MCU and gives audiences their first real look at Thanos.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "The orb at the center of the story turns out to hold the Power Stone. The relationship between Gamora and Nebula also becomes important later, eventually paying off in one of Endgame's most emotional scenes."
+        },
+        "confidence": "established",
+        "connection_type": [
+          "story",
+          "character"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 179",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 11",
+          "road_order": 10
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 7.9,
+        "release_metadata_raw": "2014 (2 hr 1 min)",
+        "status_note": null
+      },
+      "source_orders": {
+        "road_to_doomsday": 10
+      }
+    },
+    {
+      "id": "agent-carter-season-1",
+      "order": 21,
+      "title": "Agent Carter (Season 1)",
+      "subtitle": "Season 1",
+      "type": "TV Show",
+      "release": {
+        "year": null,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "main"
+      },
+      "section": "Legacy: WWII & The 1940s",
+      "guidance": {
+        "watch_for": null,
+        "watch_instruction": "8 eps · 1946"
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": false,
+        "connection": null,
+        "spoiler": {
+          "contains_spoiler": false,
+          "label": "Contains spoilers — tap to reveal",
+          "content": null
+        }
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 186",
+          "capture": "72-item watchlist"
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 7.5
+      }
+    },
+    {
+      "id": "avengers-age-of-ultron",
+      "order": 22,
+      "title": "Avengers: Age of Ultron",
+      "subtitle": null,
+      "type": "Movie",
+      "release": {
+        "year": 2015,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": "2 hr 21 min",
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "main"
+      },
+      "section": "Phase 3A — Street Level Heroes (2015–2016)",
+      "guidance": {
+        "watch_for": "Wanda shows everyone visions — those images are seeds. Note the African nation mentioned, and the mid-credits gauntlet.",
+        "watch_instruction": "Watch the mid-credits scene (Thanos)."
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "Introduces Vision and expands the team's story in ways that later shows and Doomsday-era projects continue to build on.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "Ultron's return is reportedly a plot point in VisionQuest, making this film relevant setup. Vision's creation here leads directly into WandaVision, and the cracks in the team that form in this movie are what Civil War later breaks wide open."
+        },
+        "confidence": "relevant",
+        "connection_type": [
+          "character",
+          "setup"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 193",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 13",
+          "road_order": 12
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 7.3,
+        "release_metadata_raw": "2015 (2 hr 21 min)",
+        "status_note": "Ultron returns in VisionQuest — this is required setup."
+      },
+      "source_orders": {
+        "road_to_doomsday": 12
+      }
+    },
+    {
+      "id": "ant-man",
+      "order": 23,
+      "title": "Ant-Man",
+      "subtitle": null,
+      "type": "Movie",
+      "release": {
+        "year": 2015,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": "1 hr 57 min",
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "main"
+      },
+      "section": "Phase 3A — Street Level Heroes (2015–2016)",
+      "guidance": {
+        "watch_for": "A heist movie palate cleanser. Learn the Quantum Realm rules — they become the most important physics in the saga. Two credit scenes.",
+        "watch_instruction": "Watch credits"
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "A lighter heist movie that quietly introduces rules about the Quantum Realm that become important much later.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "The Quantum Realm rules established here become essential to Endgame's time-travel plan and later to Kang's storyline in Quantumania. Scott's daughter Cassie grows up to be part of the Doomsday roster."
+        },
+        "confidence": "established",
+        "connection_type": [
+          "story",
+          "character"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 200",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 14",
+          "road_order": 13
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 7.1,
+        "release_metadata_raw": "2015 (1 hr 57 min)",
+        "status_note": null
+      },
+      "source_orders": {
+        "road_to_doomsday": 13
+      }
+    },
+    {
+      "id": "agent-carter-season-2",
+      "order": 24,
+      "title": "Agent Carter (Season 2)",
+      "subtitle": "Season 2",
+      "type": "TV Show",
+      "release": {
+        "year": null,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "main"
+      },
+      "section": "Legacy: WWII & The 1940s",
+      "guidance": {
+        "watch_for": null,
+        "watch_instruction": "10 eps · 1947 Hollywood"
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": false,
+        "connection": null,
+        "spoiler": {
+          "contains_spoiler": false,
+          "label": "Contains spoilers — tap to reveal",
+          "content": null
+        }
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 207",
+          "capture": "72-item watchlist"
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 7.5
+      }
+    },
+    {
+      "id": "deadpool",
+      "order": 25,
+      "title": "Deadpool",
+      "subtitle": null,
+      "type": "Movie",
+      "release": {
+        "year": 2016,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": "1 hr 48 min",
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "main"
+      },
+      "section": "Phase 3B — Civil War & Fallout (2016–2018)",
+      "guidance": {
+        "watch_for": "R-rated, fourth-wall-demolishing, and aware of every franchise around it. Colossus is the straight man of the century.",
+        "watch_instruction": "Watch before Deadpool & Wolverine."
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "Introduces Wade Wilson's irreverent, fourth-wall-breaking style, which later becomes central to how his MCU crossover film works.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "Wade's self-aware humor and willingness to poke fun at his own franchise is exactly what Deadpool & Wolverine imports into the MCU, using the Fox universe's history as part of the joke."
+        },
+        "confidence": "established",
+        "connection_type": [
+          "character",
+          "legacy"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 214",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 52",
+          "road_order": 51
+        }
+      ],
+      "source_metadata": {
+        "publisher": "FOX",
+        "rating": 7.6,
+        "release_metadata_raw": "2016 (1 hr 48 min)",
+        "status_note": null
+      },
+      "source_orders": {
+        "road_to_doomsday": 51
+      }
+    },
+    {
+      "id": "captain-america-civil-war",
+      "order": 26,
+      "title": "Captain America: Civil War",
+      "subtitle": null,
+      "type": "Movie",
+      "release": {
+        "year": 2016,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": "2 hr 27 min",
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "main"
+      },
+      "section": "Phase 3B — Civil War & Fallout (2016–2018)",
+      "guidance": {
+        "watch_for": "The airport. Also: watch HOW Zemo operates — no powers, just grief and patience. Two major debuts arrive mid-film.",
+        "watch_instruction": "Watch credits"
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "Splits the Avengers apart over a major disagreement, with consequences that echo for years and introduces two future heroes.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "The Accords conflict is why the Avengers are scattered when Thanos eventually arrives. Zemo, introduced as the mastermind here, returns in Falcon and the Winter Soldier and later becomes relevant to Thunderbolts. Black Panther and Spider-Man both make their MCU debuts in this film."
+        },
+        "confidence": "established",
+        "connection_type": [
+          "story",
+          "character"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 226",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 15",
+          "road_order": 14
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 7.5,
+        "release_metadata_raw": "2016 (2 hr 27 min)",
+        "status_note": null
+      },
+      "source_orders": {
+        "road_to_doomsday": 14
+      }
+    },
+    {
+      "id": "x-men-apocalypse",
+      "order": 27,
+      "title": "X-Men: Apocalypse",
+      "subtitle": null,
+      "type": "Movie",
+      "release": {
+        "year": null,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Recommended",
+        "required": null,
+        "category": "main"
+      },
+      "section": "Legacy: The Fox X-Men Saga",
+      "guidance": {
+        "watch_for": null,
+        "watch_instruction": "Optional — continues the First Class and Days of Future Past timeline."
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": false,
+        "connection": null,
+        "spoiler": {
+          "contains_spoiler": false,
+          "label": "Contains spoilers — tap to reveal",
+          "content": null
+        }
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 233",
+          "capture": "72-item watchlist"
+        }
+      ],
+      "source_metadata": {
+        "publisher": "FOX",
+        "rating": 6.5
+      }
+    },
+    {
+      "id": "team-thor",
+      "order": 28,
+      "title": "Team Thor",
+      "subtitle": null,
+      "type": "Special",
+      "release": {
+        "year": null,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Optional",
+        "required": false,
+        "category": "special"
+      },
+      "section": "Phase 3B — Civil War & Fallout (2016–2018)",
+      "guidance": {
+        "watch_for": null,
+        "watch_instruction": "Comedic mockumentary — skippable."
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": false,
+        "connection": null,
+        "spoiler": {
+          "contains_spoiler": false,
+          "label": "Contains spoilers — tap to reveal",
+          "content": null
+        }
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 241",
+          "capture": "72-item watchlist"
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 7.2
+      }
+    },
+    {
+      "id": "doctor-strange",
+      "order": 29,
+      "title": "Doctor Strange",
+      "subtitle": null,
+      "type": "Movie",
+      "release": {
+        "year": 2016,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": "1 hr 55 min",
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "main"
+      },
+      "section": "Phase 3B — Civil War & Fallout (2016–2018)",
+      "guidance": {
+        "watch_for": "Pay attention to the Ancient One's warnings and the green amulet's rules. Mid-credits scene features a familiar hammer-holder.",
+        "watch_instruction": "Watch credits."
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "Introduces the mystical side of the MCU and reveals another Infinity Stone.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "The Eye of Agamotto is revealed to house the Time Stone. Mordo's turn at the end sets up his role in Multiverse of Madness, and the multiverse terminology introduced here becomes the foundation for the entire Multiverse Saga."
+        },
+        "confidence": "established",
+        "connection_type": [
+          "story",
+          "multiverse"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 248",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 17",
+          "road_order": 16
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 7.4,
+        "release_metadata_raw": "2016 (1 hr 55 min)",
+        "status_note": null
+      },
+      "source_orders": {
+        "road_to_doomsday": 16
+      }
+    },
+    {
+      "id": "team-thor-part-2",
+      "order": 30,
+      "title": "Team Thor: Part 2",
+      "subtitle": null,
+      "type": "Special",
+      "release": {
+        "year": null,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Optional",
+        "required": false,
+        "category": "special"
+      },
+      "section": "Phase 3B — Civil War & Fallout (2016–2018)",
+      "guidance": {
+        "watch_for": null,
+        "watch_instruction": "Comedic short — skippable."
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": false,
+        "connection": null,
+        "spoiler": {
+          "contains_spoiler": false,
+          "label": "Contains spoilers — tap to reveal",
+          "content": null
+        }
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 255",
+          "capture": "72-item watchlist"
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 6.9
+      }
+    },
+    {
+      "id": "logan",
+      "order": 31,
+      "title": "Logan",
+      "subtitle": null,
+      "type": "Movie",
+      "release": {
+        "year": 2017,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": "2 hr 17 min",
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Recommended",
+        "required": null,
+        "category": "main"
+      },
+      "section": "Legacy: Future (2029)",
+      "guidance": {
+        "watch_for": "2029. Heavy, R-rated, and the best film in the entire Fox library. Keep tissues within reach. Laura is the discovery.",
+        "watch_instruction": "Its ending is the emotional backdrop to Deadpool & Wolverine."
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "A standalone, emotionally heavy send-off for the classic Wolverine that later becomes important context for a very different kind of movie.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "Logan's death in this film is the emotional foundation that Deadpool & Wolverine is built to respond to. Watching it between the two Deadpool movies makes Deadpool 2's opening scene hit the way it's intended to."
+        },
+        "confidence": "established",
+        "connection_type": [
+          "character",
+          "legacy"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 262",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 53",
+          "road_order": 52
+        }
+      ],
+      "source_metadata": {
+        "publisher": "FOX",
+        "rating": 7.8,
+        "release_metadata_raw": "2017 (2 hr 17 min)",
+        "status_note": "Watch between the Deadpools — Deadpool 2’s opening scene is a direct response to Logan’s ending."
+      },
+      "source_orders": {
+        "road_to_doomsday": 52
+      }
+    },
+    {
+      "id": "guardians-of-the-galaxy-vol-2",
+      "order": 32,
+      "title": "Guardians of the Galaxy Vol. 2",
+      "subtitle": null,
+      "type": "Movie",
+      "release": {
+        "year": 2017,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": "2 hr 16 min",
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "main"
+      },
+      "section": "Phase 2 — HYDRA & The Infinity Stones (2012–2015)",
+      "guidance": {
+        "watch_for": "It's about fathers, all of it. There are FIVE credit scenes; the golden-cocoon one matters most.",
+        "watch_instruction": "Watch all 5 credits"
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "A story about family that plants a few small seeds for the next chapter of the Guardians' saga.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "One of the credit scenes hints at Adam Warlock, who properly arrives in Vol. 3. Yondu's arc here becomes the emotional foundation the whole trilogy eventually closes on."
+        },
+        "confidence": "established",
+        "connection_type": [
+          "story",
+          "post_credit"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 270",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 12",
+          "road_order": 11
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 7.6,
+        "release_metadata_raw": "2017 (2 hr 16 min)",
+        "status_note": "Moved up — set just months after Vol. 1, and nothing in between needs it. The family arc plays best back-to-back."
+      },
+      "source_orders": {
+        "road_to_doomsday": 11
+      }
+    },
+    {
+      "id": "spider-man-homecoming",
+      "order": 33,
+      "title": "Spider-Man: Homecoming",
+      "subtitle": null,
+      "type": "Movie",
+      "release": {
+        "year": 2017,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": "2 hr 13 min",
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "main"
+      },
+      "section": "Phase 3B — Civil War & Fallout (2016–2018)",
+      "guidance": {
+        "watch_for": "Peter's world is small on purpose — it's a high-school movie where the Avengers exist. The Vulture's opening grievance is the MCU critiquing itself.",
+        "watch_instruction": "Watch credits."
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "A grounded, high-school-set Spider-Man story that ties Peter's world to the aftermath of the first Avengers battle.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "The villain's motivation stems directly from the cleanup after the Battle of New York. Tony Stark's mentorship of Peter, introduced here, becomes an emotional through-line that carries real weight by Infinity War and Endgame."
+        },
+        "confidence": "established",
+        "connection_type": [
+          "character",
+          "story"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 277",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 18",
+          "road_order": 17
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 7.3,
+        "release_metadata_raw": "2017 (2 hr 13 min)",
+        "status_note": null
+      },
+      "source_orders": {
+        "road_to_doomsday": 17
+      }
+    },
+    {
+      "id": "thor-ragnarok",
+      "order": 34,
+      "title": "Thor: Ragnarok",
+      "subtitle": null,
+      "type": "Movie",
+      "release": {
+        "year": 2017,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": "2 hr 10 min",
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "main"
+      },
+      "section": "Phase 3C — Ragnarok & The Infinity War (2018)",
+      "guidance": {
+        "watch_for": "Total tonal reinvention. Watch what Hela reveals about Asgard's past, and how much status quo this movie is willing to burn. Mid-credits: a very large ship.",
+        "watch_instruction": "Watch credits."
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "A tonal shift for Thor that strips away almost everything familiar about the character, setting up his arc going into Infinity War.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "Thor loses his hammer, his hair, and his home in this film, all of which shape his emotional state in Infinity War. Valkyrie's story here leads to her eventually ruling New Asgard by Love and Thunder, and the film's final scene connects directly into Infinity War's opening moments."
+        },
+        "confidence": "established",
+        "connection_type": [
+          "character",
+          "setup"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 284",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 19",
+          "road_order": 18
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 7.6,
+        "release_metadata_raw": "2017 (2 hr 10 min)",
+        "status_note": null
+      },
+      "source_orders": {
+        "road_to_doomsday": 18
+      }
+    },
+    {
+      "id": "black-panther",
+      "order": 35,
+      "title": "Black Panther",
+      "subtitle": null,
+      "type": "Movie",
+      "release": {
+        "year": 2018,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": "2 hr 14 min",
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "main"
+      },
+      "section": "Phase 3B — Civil War & Fallout (2016–2018)",
+      "guidance": {
+        "watch_for": "Killmonger's argument is the point — the rare villain who's right about the problem, wrong about the answer. Two credit scenes.",
+        "watch_instruction": "Watch credits."
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "Introduces Wakanda properly and two characters confirmed to be part of the Doomsday cast.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "Shuri and M'Baku are both confirmed for Doomsday, and this film is their starting point. A post-credits scene shows Bucky recovering in Wakanda, which is part of why the Infinity War battle later takes place there."
+        },
+        "confidence": "confirmed",
+        "connection_type": [
+          "character",
+          "post_credit"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 291",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 20",
+          "road_order": 19
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 7.4,
+        "release_metadata_raw": "2018 (2 hr 14 min)",
+        "status_note": "Shuri and M’Baku are on the Doomsday roster."
+      },
+      "source_orders": {
+        "road_to_doomsday": 19
+      }
+    },
+    {
+      "id": "team-darryl",
+      "order": 36,
+      "title": "Team Darryl",
+      "subtitle": null,
+      "type": "Special",
+      "release": {
+        "year": null,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Optional",
+        "required": false,
+        "category": "special"
+      },
+      "section": "Phase 3C — Ragnarok & The Infinity War (2018)",
+      "guidance": {
+        "watch_for": null,
+        "watch_instruction": "Comedic short — skippable."
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": false,
+        "connection": null,
+        "spoiler": {
+          "contains_spoiler": false,
+          "label": "Contains spoilers — tap to reveal",
+          "content": null
+        }
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 298",
+          "capture": "72-item watchlist"
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 6.2
+      }
+    },
+    {
+      "id": "avengers-infinity-war",
+      "order": 37,
+      "title": "Avengers: Infinity War",
+      "subtitle": null,
+      "type": "Movie",
+      "release": {
+        "year": 2018,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": "2 hr 29 min",
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "main"
+      },
+      "section": "Phase 3C — Ragnarok & The Infinity War (2018)",
+      "guidance": {
+        "watch_for": "Opens seconds after Ragnarok's stinger. Keep a stones ledger. The ending is not a cliffhanger mistake — it's the design.",
+        "watch_instruction": "Watch main credits. PAUSE before post-credits."
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "The culmination of a decade of MCU storytelling, ending on a note that reshapes the rest of the saga.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "The Snap at the end of this film defines much of what follows in later phases, including the refugee crisis in Falcon and the Winter Soldier, Wanda's grief in WandaVision, and jokes about 'the blip' in later Spider-Man films."
+        },
+        "confidence": "confirmed",
+        "connection_type": [
+          "story",
+          "setup"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 305",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 21",
+          "road_order": 20
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 8.2,
+        "release_metadata_raw": "2018 (2 hr 29 min)",
+        "status_note": null
+      },
+      "source_orders": {
+        "road_to_doomsday": 20
+      }
+    },
+    {
+      "id": "deadpool-2",
+      "order": 38,
+      "title": "Deadpool 2",
+      "subtitle": null,
+      "type": "Movie",
+      "release": {
+        "year": 2018,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": "1 hr 59 min",
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "main"
+      },
+      "section": "Phase 3B — Civil War & Fallout (2016–2018)",
+      "guidance": {
+        "watch_for": "The cold open is a direct response to Logan — which is why Logan sits before it on this list. Cable arrives. Stay for the mid-credits, the most canon-mangling scene Fox ever made.",
+        "watch_instruction": "Watch before Deadpool & Wolverine."
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "Introduces a time-traveling character whose technology becomes relevant again in Wade's later MCU crossover.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "Cable's time-travel device becomes an important piece of the internal logic behind Deadpool & Wolverine. The family theme introduced here is also picked up again in that later film."
+        },
+        "confidence": "established",
+        "connection_type": [
+          "character",
+          "setup"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 312",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 54",
+          "road_order": 53
+        }
+      ],
+      "source_metadata": {
+        "publisher": "FOX",
+        "rating": 7.5,
+        "release_metadata_raw": "2018 (1 hr 59 min)",
+        "status_note": null
+      },
+      "source_orders": {
+        "road_to_doomsday": 53
+      }
+    },
+    {
+      "id": "ant-man-and-the-wasp",
+      "order": 39,
+      "title": "Ant-Man and the Wasp",
+      "subtitle": null,
+      "type": "Movie",
+      "release": {
+        "year": 2018,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": "1 hr 58 min",
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "main"
+      },
+      "section": "Phase 3C — Ragnarok & The Infinity War (2018)",
+      "guidance": {
+        "watch_for": "Lighter on purpose after Infinity War. The mid-credits scene is the entire reason this movie sits here — DO NOT skip the credits.",
+        "watch_instruction": "1 Credit · STOP before credits — the credits scene belongs RIGHT AFTER Infinity War"
+      },
+      "stop_point": {
+        "enabled": true,
+        "instruction": "1 Credit · STOP before credits — the credits scene belongs RIGHT AFTER Infinity War",
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "A lighter film after Infinity War, with a credits scene that connects directly into the aftermath of the Snap.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "The mid-credits scene shows Scott Lang trapped in the Quantum Realm at the exact moment the Snap happens, stranding him there while his family disappears. That accident becomes a key part of how Endgame's time heist works."
+        },
+        "confidence": "confirmed",
+        "connection_type": [
+          "post_credit",
+          "setup"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 320",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 22",
+          "road_order": 21
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 6.9,
+        "release_metadata_raw": "2018 (1 hr 58 min)",
+        "status_note": null
+      },
+      "source_orders": {
+        "road_to_doomsday": 21
+      }
+    },
+    {
+      "id": "ant-man-and-the-wasp-all-credits",
+      "order": 40,
+      "title": "Ant-Man & The Wasp (All Credits)",
+      "subtitle": null,
+      "type": "Special",
+      "release": {
+        "year": null,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "special"
+      },
+      "section": "Phase 3C — Ragnarok & The Infinity War (2018)",
+      "guidance": {
+        "watch_for": null,
+        "watch_instruction": null
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": false,
+        "connection": null,
+        "spoiler": {
+          "contains_spoiler": false,
+          "label": "Contains spoilers — tap to reveal",
+          "content": null
+        }
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 327",
+          "capture": "72-item watchlist"
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": null
+      }
+    },
+    {
+      "id": "captain-marvel",
+      "order": 41,
+      "title": "Captain Marvel",
+      "subtitle": null,
+      "type": "Movie",
+      "release": {
+        "year": 2019,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": "2 hr 3 min",
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "main"
+      },
+      "section": "Legacy: 1990s",
+      "guidance": {
+        "watch_for": "It's 1995. Watch Fury before the eyepatch, note the pager, and don't trust anything you're told about the Skrulls.",
+        "watch_instruction": "1 Credit · STOP before end-credits — post-credit scene belongs after Infinity War"
+      },
+      "stop_point": {
+        "enabled": true,
+        "instruction": "1 Credit · STOP before end-credits — post-credit scene belongs after Infinity War",
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "A 1990s-set origin story that explains a mysterious object seen earlier in the MCU timeline.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "The pager introduced here is the same one Nick Fury uses in Infinity War's post-credits scene. The reveal about the Skrulls also connects forward into Secret Invasion and The Marvels."
+        },
+        "confidence": "confirmed",
+        "connection_type": [
+          "character",
+          "setup"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 334",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 23",
+          "road_order": 22
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 6.8,
+        "release_metadata_raw": "2019 (2 hr 3 min)",
+        "status_note": null
+      },
+      "source_orders": {
+        "road_to_doomsday": 22
+      }
+    },
+    {
+      "id": "captain-marvel-post-credits-scene",
+      "order": 42,
+      "title": "Captain Marvel (Post-Credits Scene)",
+      "subtitle": null,
+      "type": "Special",
+      "release": {
+        "year": null,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "special"
+      },
+      "section": "Phase 3C — Ragnarok & The Infinity War (2018)",
+      "guidance": {
+        "watch_for": null,
+        "watch_instruction": null
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": false,
+        "connection": null,
+        "spoiler": {
+          "contains_spoiler": false,
+          "label": "Contains spoilers — tap to reveal",
+          "content": null
+        }
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 341",
+          "capture": "72-item watchlist"
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": null
+      }
+    },
+    {
+      "id": "avengers-endgame",
+      "order": 43,
+      "title": "Avengers: Endgame",
+      "subtitle": null,
+      "type": "Movie",
+      "release": {
+        "year": 2019,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": "3 hr 1 min",
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "main"
+      },
+      "section": "Phase 4 — The Blip & New Beginnings (2023)",
+      "guidance": {
+        "watch_for": "Three hours; clear your evening. Learn the time-travel rules — they're different from every movie they joke about. Then just let the last hour happen.",
+        "watch_instruction": "Block out 3 hours."
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "The emotional conclusion to the Infinity Saga, with a time-travel plot that has lasting consequences for several characters.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "The time heist accidentally creates a branching timeline, including a version of 2012 Loki who escapes with the Tesseract — this becomes the entire premise of the Loki series. Captain America's ending passes the shield to Sam Wilson, continuing into Falcon and the Winter Soldier and eventually toward Doomsday."
+        },
+        "confidence": "confirmed",
+        "connection_type": [
+          "character",
+          "multiverse",
+          "setup"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 348",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 24",
+          "road_order": 23
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 8.2,
+        "release_metadata_raw": "2019 (3 hr 1 min)",
+        "status_note": "Back in theaters Sept 25, 2026 — with an exclusive Doomsday preview attached. If you can time this stop to a big screen, do it."
+      },
+      "source_orders": {
+        "road_to_doomsday": 23
+      }
+    },
+    {
+      "id": "dark-phoenix",
+      "order": 44,
+      "title": "Dark Phoenix",
+      "subtitle": null,
+      "type": "Movie",
+      "release": {
+        "year": null,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Recommended",
+        "required": null,
+        "category": "main"
+      },
+      "section": "Legacy: The Fox X-Men Saga",
+      "guidance": {
+        "watch_for": null,
+        "watch_instruction": "Optional — the final film of the Fox X-Men saga."
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": false,
+        "connection": null,
+        "spoiler": {
+          "contains_spoiler": false,
+          "label": "Contains spoilers — tap to reveal",
+          "content": null
+        }
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 355",
+          "capture": "72-item watchlist"
+        }
+      ],
+      "source_metadata": {
+        "publisher": "FOX",
+        "rating": 6.0
+      }
+    },
+    {
+      "id": "spider-man-far-from-home",
+      "order": 45,
+      "title": "Spider-Man: Far From Home",
+      "subtitle": null,
+      "type": "Movie",
+      "release": {
+        "year": 2019,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": "2 hr 9 min",
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "main"
+      },
+      "section": "Phase 4 — The Blip & New Beginnings (2023)",
+      "guidance": {
+        "watch_for": "The world is processing the blip. Question everything Mysterio tells you. BOTH credit scenes are among the most consequential in the saga.",
+        "watch_instruction": "Watch credits."
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "Follows Peter Parker as the world adjusts to the aftermath of the Blip, with credit scenes that carry major consequences.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "The mid-credits scene reveals Peter's secret identity to the public, setting the entire plot of No Way Home in motion. The post-credits twist about Nick Fury also connects into Secret Invasion and The Marvels."
+        },
+        "confidence": "confirmed",
+        "connection_type": [
+          "character",
+          "post_credit"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 363",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 25",
+          "road_order": 24
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 7.4,
+        "release_metadata_raw": "2019 (2 hr 9 min)",
+        "status_note": null
+      },
+      "source_orders": {
+        "road_to_doomsday": 24
+      }
+    },
+    {
+      "id": "peters-to-do-list",
+      "order": 46,
+      "title": "Peter's To-Do List",
+      "subtitle": null,
+      "type": "Special",
+      "release": {
+        "year": null,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "special"
+      },
+      "section": "Phase 4 — The Blip & New Beginnings (2023)",
+      "guidance": {
+        "watch_for": null,
+        "watch_instruction": "Watch right before Far From Home."
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": false,
+        "connection": null,
+        "spoiler": {
+          "contains_spoiler": false,
+          "label": "Contains spoilers — tap to reveal",
+          "content": null
+        }
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 370",
+          "capture": "72-item watchlist"
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 7.0
+      }
+    },
+    {
+      "id": "wandavision-season-1",
+      "order": 47,
+      "title": "WandaVision (Season 1)",
+      "subtitle": "Season 1",
+      "type": "TV Show",
+      "release": {
+        "year": null,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": 9,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "main"
+      },
+      "section": "Phase 4 — The Blip & New Beginnings (2023)",
+      "guidance": {
+        "watch_for": "The sitcom formats aren't a gimmick — they're the text. Ask why each era looks the way it does. Two credit scenes, both required.",
+        "watch_instruction": "9 eps · STOP before Ep 9 mid-credit scene — it's a separate entry below"
+      },
+      "stop_point": {
+        "enabled": true,
+        "instruction": "9 eps · STOP before Ep 9 mid-credit scene — it's a separate entry below",
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "Explores Wanda's grief through a sitcom-style format that eventually connects to her next major appearance and to other future shows.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "Wanda's arc at the end of this season leads directly into Multiverse of Madness. Agatha gets her own spin-off series, and Wanda's son Billy is reportedly part of the storyline VisionQuest picks up. Monica Rambeau's ending here also connects to The Marvels."
+        },
+        "confidence": "relevant",
+        "connection_type": [
+          "character",
+          "setup"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 377",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 32",
+          "road_order": 31
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 8.2
+      },
+      "source_variants": [
+        "WandaVision"
+      ],
+      "source_orders": {
+        "road_to_doomsday": 31
+      }
+    },
+    {
+      "id": "wandavision-ep-9-mid-credit-scene",
+      "order": 48,
+      "title": "WandaVision (Ep 9 Mid-Credit Scene)",
+      "subtitle": null,
+      "type": "Special",
+      "release": {
+        "year": null,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "special"
+      },
+      "section": "Phase 4 — The Blip & New Beginnings (2023)",
+      "guidance": {
+        "watch_for": null,
+        "watch_instruction": null
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": false,
+        "connection": null,
+        "spoiler": {
+          "contains_spoiler": false,
+          "label": "Contains spoilers — tap to reveal",
+          "content": null
+        }
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 384",
+          "capture": "72-item watchlist"
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": null
+      }
+    },
+    {
+      "id": "the-falcon-and-the-winter-soldier-season-1",
+      "order": 49,
+      "title": "The Falcon and the Winter Soldier (Season 1)",
+      "subtitle": "Season 1",
+      "type": "TV Show",
+      "release": {
+        "year": null,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": 6,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "main"
+      },
+      "section": "Phase 4 — The Blip & New Beginnings (2023)",
+      "guidance": {
+        "watch_for": "A show about what the shield means. Watch John Walker carefully — your feelings about him will get complicated, and he's on the Doomsday roster.",
+        "watch_instruction": "6 eps"
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "Follows Sam Wilson as he decides what it means to carry Captain America's shield, introducing a rival Captain America along the way.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "Sam eventually becomes the MCU's Captain America, continuing into Brave New World and toward Doomsday. John Walker becomes U.S. Agent and later joins Thunderbolts. Valentina, introduced here, begins recruiting other characters throughout the timeline."
+        },
+        "confidence": "established",
+        "connection_type": [
+          "character",
+          "setup"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 391",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 33",
+          "road_order": 32
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 7.6
+      },
+      "source_variants": [
+        "The Falcon and the Winter Soldier"
+      ],
+      "source_orders": {
+        "road_to_doomsday": 32
+      }
+    },
+    {
+      "id": "loki-season-1",
+      "order": 50,
+      "title": "Loki (Season 1)",
+      "subtitle": "Season 1",
+      "type": "TV Show",
+      "release": {
+        "year": null,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": 6,
+        "watch_range": {
+          "start_episode": 1,
+          "end_episode": null
+        }
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "main"
+      },
+      "section": "Phase 4 — The Blip & New Beginnings (2023)",
+      "guidance": {
+        "watch_for": "Learn the TVA's rules — they're the constitution of the Multiverse Saga. Everything about He Who Remains' final choice matters enormously. Then STOP: Season 2 is step 47.",
+        "watch_instruction": "6 eps"
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "Establishes the rules of time and the multiverse that later films depend on, following a variant of Loki through a bureaucratic time agency.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "The season finale is what makes the branching multiverse seen in No Way Home and Multiverse of Madness possible in the first place. Concepts introduced here, like variants and the sacred timeline, become the foundation for the rest of the Multiverse Saga."
+        },
+        "confidence": "established",
+        "connection_type": [
+          "multiverse",
+          "setup"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 398",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 34",
+          "road_order": 33
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 8.2
+      },
+      "source_variants": [
+        "Loki Season 1 — ONLY"
+      ],
+      "source_orders": {
+        "road_to_doomsday": 33
+      }
+    },
+    {
+      "id": "black-widow",
+      "order": 51,
+      "title": "Black Widow",
+      "subtitle": null,
+      "type": "Movie",
+      "release": {
+        "year": 2021,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": "2 hr 14 min",
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "main"
+      },
+      "section": "Phase 3B — Civil War & Fallout (2016–2018)",
+      "guidance": {
+        "watch_for": "Natasha on the run in the gap between Civil War and Infinity War — this film fills that hole. Go in blind on Taskmaster. When the credits roll, mind the stop point below.",
+        "watch_instruction": "1 Credit · STOP before end-credits — post-credit scene belongs right before Hawkeye"
+      },
+      "stop_point": {
+        "enabled": true,
+        "instruction": "1 Credit · STOP before end-credits — post-credit scene belongs right before Hawkeye",
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "Fills in a gap in Natasha's story and introduces two characters who become important later.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "Yelena, Red Guardian, and Taskmaster all eventually connect to Thunderbolts and the New Avengers. A post-credits scene introduces Valentina for the first time, setting her on a path toward Yelena's storyline in Hawkeye."
+        },
+        "confidence": "established",
+        "connection_type": [
+          "character",
+          "post_credit"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 405",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 16",
+          "road_order": 15
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 7.2,
+        "release_metadata_raw": "2021 (2 hr 14 min)",
+        "status_note": "Moved here — the story happens right after Civil War. Introduces Yelena and Red Guardian (both in Doomsday)."
+      },
+      "source_orders": {
+        "road_to_doomsday": 15
+      }
+    },
+    {
+      "id": "black-widow-post-credit-scene",
+      "order": 52,
+      "title": "Black Widow (Post-Credit Scene)",
+      "subtitle": null,
+      "type": "Special",
+      "release": {
+        "year": null,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "special"
+      },
+      "section": "Phase 4 — Multiverse Opens (2024–2025)",
+      "guidance": {
+        "watch_for": null,
+        "watch_instruction": null
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": false,
+        "connection": null,
+        "spoiler": {
+          "contains_spoiler": false,
+          "label": "Contains spoilers — tap to reveal",
+          "content": null
+        }
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 412",
+          "capture": "72-item watchlist"
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": null
+      }
+    },
+    {
+      "id": "what-if-season-1",
+      "order": 53,
+      "title": "What If...? (Season 1)",
+      "subtitle": "Season 1",
+      "type": "TV Show",
+      "release": {
+        "year": null,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": 9,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Optional",
+        "required": false,
+        "category": "main"
+      },
+      "section": "Phase 4 — The Blip & New Beginnings (2023)",
+      "guidance": {
+        "watch_for": "Animated anthology; episodes stand alone. Episode 4 (Doctor Strange) is the one that's required homework.",
+        "watch_instruction": "9 eps"
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "An anthology series exploring alternate versions of MCU events, with one episode standing out as genuinely useful setup.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "The Doctor Strange episode introduces concepts that carry directly into Multiverse of Madness, including a version of Strange whose choices go badly wrong. The Watcher's rule about non-interference also becomes its own recurring idea."
+        },
+        "confidence": "relevant",
+        "connection_type": [
+          "multiverse",
+          "optional_context"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 419",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 35",
+          "road_order": 34
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 8.0
+      },
+      "source_variants": [
+        "What If...? Season 1"
+      ],
+      "source_orders": {
+        "road_to_doomsday": 34
+      }
+    },
+    {
+      "id": "shang-chi-and-the-legend-of-the-ten-rings",
+      "order": 54,
+      "title": "Shang-Chi and the Legend of the Ten Rings",
+      "subtitle": null,
+      "type": "Movie",
+      "release": {
+        "year": 2021,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": "2 hr 12 min",
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "main"
+      },
+      "section": "Phase 4 — Multiverse Opens (2024–2025)",
+      "guidance": {
+        "watch_for": "The bus fight announces the best hand-to-hand choreography in the MCU. Note how this movie fixes Iron Man 3's Mandarin. Both credit scenes are canon-heavy.",
+        "watch_instruction": "Watch credits."
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "Finally gives the real Ten Rings organization its proper introduction, resolving a loose thread from the very first Iron Man film.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "This movie reveals the actual Ten Rings organization, correcting the misdirection from Iron Man 3's Mandarin twist. Shang-Chi is confirmed for the Doomsday roster, and a mid-credits scene connects to She-Hulk."
+        },
+        "confidence": "confirmed",
+        "connection_type": [
+          "character",
+          "story"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 426",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 36",
+          "road_order": 35
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 7.5,
+        "release_metadata_raw": "2021 (2 hr 12 min)",
+        "status_note": "Shang-Chi is in Doomsday."
+      },
+      "source_orders": {
+        "road_to_doomsday": 35
+      }
+    },
+    {
+      "id": "hawkeye-season-1",
+      "order": 55,
+      "title": "Hawkeye (Season 1)",
+      "subtitle": "Season 1",
+      "type": "TV Show",
+      "release": {
+        "year": null,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": null,
+        "watch_range": {
+          "start_episode": 1,
+          "end_episode": 5
+        }
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "main"
+      },
+      "section": "Phase 4 — Multiverse Opens (2024–2025)",
+      "guidance": {
+        "watch_for": null,
+        "watch_instruction": "6 eps"
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": false,
+        "connection": null,
+        "spoiler": {
+          "contains_spoiler": false,
+          "label": "Contains spoilers — tap to reveal",
+          "content": null
+        }
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 433",
+          "capture": "72-item watchlist"
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 7.8
+      }
+    },
+    {
+      "id": "spider-man-no-way-home",
+      "order": 56,
+      "title": "Spider-Man: No Way Home",
+      "subtitle": null,
+      "type": "Movie",
+      "release": {
+        "year": 2021,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": "2 hr 28 min",
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "main"
+      },
+      "section": "Phase 4 — Multiverse Opens (2024–2025)",
+      "guidance": {
+        "watch_for": "The multiverse rules from Loki S1 are now movie-canon. Say nothing to anyone who hasn't seen it. Stay through absolutely everything.",
+        "watch_instruction": "Watch the Tobey & Andrew Spider-Man films first for the full payoff."
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "A multiverse-spanning Spider-Man story that resets Peter's world completely, with consequences that carry into his next chapter.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "Peter's world is wiped clean by the end of the film, which is the starting point for Brand New Day. The film also connects to Daredevil through a cameo, and its villains are pulled from the pre-MCU Spider-Man films — optional viewing that adds context but isn't required."
+        },
+        "confidence": "established",
+        "connection_type": [
+          "character",
+          "multiverse",
+          "prerequisite"
+        ]
+      },
+      "prerequisites": [
+        "Spider-Man: Raimi/Webb optional side quest"
+      ],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 440",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 38",
+          "road_order": 37
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 7.9,
+        "release_metadata_raw": "2021 (2 hr 28 min)",
+        "status_note": null
+      },
+      "source_orders": {
+        "road_to_doomsday": 37
+      }
+    },
+    {
+      "id": "doctor-strange-multiverse-of-madness",
+      "order": 57,
+      "title": "Doctor Strange: Multiverse of Madness",
+      "subtitle": null,
+      "type": "Movie",
+      "release": {
+        "year": null,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "main"
+      },
+      "section": "Phase 4 — Multiverse Opens (2024–2025)",
+      "guidance": {
+        "watch_for": "Requires WandaVision — seriously. Learn the word 'incursion.' The Illuminati sequence rewards everything you've watched. Two stingers.",
+        "watch_instruction": "Requires WandaVision (31); benefits from What If (34)."
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "Introduces the concept of incursions — universes colliding — which becomes central to where the Multiverse Saga is heading.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "This film defines incursions, the core idea behind the upcoming Secret Wars. Wanda's story reaches its darkest point here, and America Chavez joins the wider cast of young heroes being introduced across the saga."
+        },
+        "confidence": "established",
+        "connection_type": [
+          "multiverse",
+          "story"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 447",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 40",
+          "road_order": 39
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 7.2,
+        "article_title_variant": "Doctor Strange in the Multiverse of Madness"
+      },
+      "source_variants": [
+        "Doctor Strange in the Multiverse of Madness",
+        "Doctor Strange in the Multiverse of Madness"
+      ],
+      "source_variant_note": "The uploaded sources use these two title forms in different files; they were treated as the same master entity because they occupy the same watch-order context, while the source-specific title is preserved in provenance.",
+      "source_orders": {
+        "road_to_doomsday": 39
+      }
+    },
+    {
+      "id": "ms-marvel-season-1",
+      "order": 58,
+      "title": "Ms. Marvel (Season 1)",
+      "subtitle": "Season 1",
+      "type": "TV Show",
+      "release": {
+        "year": null,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": 6,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Recommended",
+        "required": null,
+        "category": "main"
+      },
+      "section": "Phase 4 — Multiverse Opens (2024–2025)",
+      "guidance": {
+        "watch_for": "The most charming show on the list. Note what the bangle does, and what the final scene says about Kamala's genes. The mid-credits scene is REQUIRED for The Marvels.",
+        "watch_instruction": "6 eps"
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "Introduces Kamala Khan and her powers, setting up her role in a future team-up film.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "Kamala co-leads The Marvels, and the mid-credits scene here is the direct setup for that film. Her enthusiasm as a fan also positions her as someone who starts recruiting the next generation of young heroes."
+        },
+        "confidence": "established",
+        "connection_type": [
+          "character",
+          "post_credit"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 454",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 41",
+          "road_order": 40
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 6.3
+      },
+      "source_variants": [
+        "Ms. Marvel"
+      ],
+      "source_orders": {
+        "road_to_doomsday": 40
+      }
+    },
+    {
+      "id": "thor-love-and-thunder",
+      "order": 59,
+      "title": "Thor: Love and Thunder",
+      "subtitle": null,
+      "type": "Movie",
+      "release": {
+        "year": 2022,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": "1 hr 59 min",
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "main"
+      },
+      "section": "Phase 4 — Multiverse Opens (2024–2025)",
+      "guidance": {
+        "watch_for": "Gorr is the best part — Christian Bale playing it completely straight. Jane's arc pays off Thor 2, of all movies. Mid-credits introduces a Doomsday-era player.",
+        "watch_instruction": "Thor is in Doomsday; mid-credits teases Hercules."
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "Shows Thor in a more settled, fatherly place by the end of the film, and leaves a stinger hinting at a future ally.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "Thor ends the movie in the state he reportedly carries into Doomsday. A credits scene introduces Hercules, played by Brett Goldstein, though his exact role going forward hasn't been confirmed yet."
+        },
+        "confidence": "relevant",
+        "connection_type": [
+          "character",
+          "post_credit"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 461",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 42",
+          "road_order": 41
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 6.4,
+        "release_metadata_raw": "2022 (1 hr 59 min)",
+        "status_note": "Thor is in Doomsday; mid-credits teases Hercules."
+      },
+      "source_orders": {
+        "road_to_doomsday": 41
+      }
+    },
+    {
+      "id": "black-panther-wakanda-forever",
+      "order": 60,
+      "title": "Black Panther: Wakanda Forever",
+      "subtitle": null,
+      "type": "Movie",
+      "release": {
+        "year": 2022,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": "2 hr 41 min",
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "main"
+      },
+      "section": "Phase 4 — Multiverse Opens (2024–2025)",
+      "guidance": {
+        "watch_for": "A film about grief, made inside real grief. Talokan is the MCU's best-realized new civilization since Wakanda itself. Mid-credits scene will get you.",
+        "watch_instruction": "Namor, Namora, and Attuma are all confirmed for Doomsday."
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "Introduces Namor and the underwater nation of Talokan, while passing the Black Panther mantle to a new character.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "Namor, Namora, and Attuma are all confirmed for the Doomsday cast, making this their origin story. Shuri takes up the Black Panther mantle, and Riri Williams is introduced here before headlining Ironheart."
+        },
+        "confidence": "confirmed",
+        "connection_type": [
+          "character",
+          "story"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 468",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 43",
+          "road_order": 42
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 7.0,
+        "release_metadata_raw": "2022 (2 hr 41 min)",
+        "status_note": "Namor, Namora, and Attuma are all confirmed for Doomsday."
+      },
+      "source_orders": {
+        "road_to_doomsday": 42
+      }
+    },
+    {
+      "id": "ant-man-and-the-wasp-quantumania",
+      "order": 61,
+      "title": "Ant-Man and the Wasp: Quantumania",
+      "subtitle": null,
+      "type": "Movie",
+      "release": {
+        "year": 2023,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": "2 hr 5 min",
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "main"
+      },
+      "section": "Phase 4 — Multiverse Opens (2024–2025)",
+      "guidance": {
+        "watch_for": "Kang, properly this time. Yes, that's MODOK. Both stingers matter for step 47.",
+        "watch_instruction": "Cassie Lang is on the Doomsday roster."
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "Properly introduces Kang and expands the Quantum Realm, while confirming another character for the Doomsday roster.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "Cassie Lang suits up in this film and is confirmed for the Doomsday roster. A stinger involving the Council of Kangs originally set up a larger multiversal dynasty storyline that Marvel has since shifted direction on."
+        },
+        "confidence": "confirmed",
+        "connection_type": [
+          "character",
+          "multiverse"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 475",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 44",
+          "road_order": 43
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 6.2,
+        "release_metadata_raw": "2023 (2 hr 5 min)",
+        "status_note": "Cassie Lang is on the Doomsday roster."
+      },
+      "source_orders": {
+        "road_to_doomsday": 43
+      }
+    },
+    {
+      "id": "loki-season-2",
+      "order": 62,
+      "title": "Loki (Season 2)",
+      "subtitle": "Season 2",
+      "type": "TV Show",
+      "release": {
+        "year": null,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": 6,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "main"
+      },
+      "section": "Phase 5 — The Multiverse War (2025–2026)",
+      "guidance": {
+        "watch_for": "Victor Timely walks in from Quantumania's stinger. Learn what the loom is. And the ending — sit with it. It's the most consequential in the whole streaming slate.",
+        "watch_instruction": "6 eps"
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "Wraps up Loki's personal arc by placing him in a position that's expected to matter a great deal for the wider Multiverse Saga.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "By the end of the season, Loki is reportedly holding the multiverse together structurally, which is expected to be significant for both Doomsday and Secret Wars. The TVA is repositioned as a guardian institution for the timelines going forward."
+        },
+        "confidence": "relevant",
+        "connection_type": [
+          "multiverse",
+          "future"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 482",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 45",
+          "road_order": 44
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 8.2
+      },
+      "source_variants": [
+        "Loki Season 2"
+      ],
+      "source_orders": {
+        "road_to_doomsday": 44
+      }
+    },
+    {
+      "id": "the-marvels",
+      "order": 63,
+      "title": "The Marvels",
+      "subtitle": null,
+      "type": "Movie",
+      "release": {
+        "year": 2023,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": "1 hr 45 min",
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Recommended",
+        "required": null,
+        "category": "main"
+      },
+      "section": "Phase 4 — Multiverse Opens (2024–2025)",
+      "guidance": {
+        "watch_for": "Light, fast, and 105 minutes. The body-swap rules reward Ms. Marvel homework. The mid-credits scene is your single biggest Doomsday breadcrumb.",
+        "watch_instruction": "The mid-credits scene is your first real Doomsday breadcrumb (X-Men universe)."
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "A team-up film for three heroes that ends with a surprising crossover into unfamiliar territory.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "Monica Rambeau ends the film stranded in another universe, where she's greeted by a version of Beast from the X-Men. This is the first real crossover point between the MCU and the Fox X-Men universe."
+        },
+        "confidence": "confirmed",
+        "connection_type": [
+          "character",
+          "multiverse"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 489",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 47",
+          "road_order": 46
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 5.9,
+        "release_metadata_raw": "2023 (1 hr 45 min)",
+        "status_note": "The mid-credits scene is your first real Doomsday breadcrumb (X-Men universe)."
+      },
+      "source_orders": {
+        "road_to_doomsday": 46
+      }
+    },
+    {
+      "id": "deadpool-and-wolverine",
+      "order": 64,
+      "title": "Deadpool & Wolverine",
+      "subtitle": null,
+      "type": "Movie",
+      "release": {
+        "year": 2024,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": "2 hr 8 min",
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "main"
+      },
+      "section": "Phase 5 — The Multiverse War (2025–2026)",
+      "guidance": {
+        "watch_for": "The TVA from Loki shows up — your two universes formally meet. Expect a cameo festival with real emotional stakes underneath. Learn the term 'anchor being.'",
+        "watch_instruction": "Watch Logan before this for full impact."
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "The film that formally brings the Fox X-Men universe into the MCU's multiverse, explaining how those characters can now be part of the wider story.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "This is the key crossover point between the Fox-era characters and the MCU's multiverse, which is how the X-Men appearing in Doomsday makes sense. Both Wade and Logan end the film alive and now exist within the MCU's world."
+        },
+        "confidence": "confirmed",
+        "connection_type": [
+          "character",
+          "multiverse",
+          "legacy"
+        ]
+      },
+      "prerequisites": [
+        "Deadpool",
+        "Logan",
+        "Deadpool 2"
+      ],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 496",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 55",
+          "road_order": 54
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 7.6,
+        "release_metadata_raw": "2024 (2 hr 8 min)",
+        "status_note": "The film that officially pulls the Fox universe into the MCU multiverse."
+      },
+      "source_orders": {
+        "road_to_doomsday": 54
+      }
+    },
+    {
+      "id": "captain-america-brave-new-world",
+      "order": 65,
+      "title": "Captain America: Brave New World",
+      "subtitle": null,
+      "type": "Movie",
+      "release": {
+        "year": 2025,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": "1 hr 58 min",
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "main"
+      },
+      "section": "Phase 5 — The Multiverse War (2025–2026)",
+      "guidance": {
+        "watch_for": "Sam's first film as Captain America — no serum, all judgment. Seventeen-year-old threads from The Incredible Hulk finally pay off. Red Hulk is exactly what the poster promised.",
+        "watch_instruction": "Sam’s new Avengers initiative, Red Hulk, and Joaquin Torres (Doomsday roster)."
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "Wraps up a few lingering storylines from earlier films while introducing a new material that plays into future conflicts.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "Samuel Sterns and General Ross both reach the end of arcs that started back in 2008's Incredible Hulk. Adamantium is introduced into the MCU, mined from a dead Celestial, tying back to Eternals. Sam Wilson also begins forming his own team, which later collides with Valentina's group in Doomsday."
+        },
+        "confidence": "established",
+        "connection_type": [
+          "character",
+          "setup"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 503",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 57",
+          "road_order": 56
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 6.0,
+        "release_metadata_raw": "2025 (1 hr 58 min)",
+        "status_note": "Sam’s new Avengers initiative, Red Hulk, and Joaquin Torres (Doomsday roster)."
+      },
+      "source_orders": {
+        "road_to_doomsday": 56
+      }
+    },
+    {
+      "id": "thunderbolts",
+      "order": 66,
+      "title": "Thunderbolts*",
+      "subtitle": null,
+      "type": "Movie",
+      "release": {
+        "year": 2025,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": "2 hr 7 min",
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "main"
+      },
+      "section": "Phase 5 — The Multiverse War (2025–2026)",
+      "guidance": {
+        "watch_for": "The misfit roster is the point — count how many you've met across this list. Sentry/Void goes somewhere darker than expected. STAY through everything: the post-credits is the single most direct Doomsday setup in the slate.",
+        "watch_instruction": "DO NOT SKIP — the New Avengers are the backbone of the Doomsday roster. The post-credits scene is the direct bridge to Doomsday."
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "Brings together a team of morally complicated characters who officially become the New Avengers by the end of the film.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "The team that forms here — Yelena, Bucky, Red Guardian, U.S. Agent, Ghost, and Sentry — becomes one of the most important groups heading into Doomsday. A post-credits scene featuring a ship with a distinctive '4' logo directly hints at the next film."
+        },
+        "confidence": "confirmed",
+        "connection_type": [
+          "character",
+          "post_credit",
+          "direct"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 510",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 59",
+          "road_order": 58
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 7.3,
+        "release_metadata_raw": "2025 (2 hr 7 min)",
+        "status_note": "DO NOT SKIP — the New Avengers are the backbone of the Doomsday roster. The post-credits scene is the direct bridge to Doomsday."
+      },
+      "source_orders": {
+        "road_to_doomsday": 58
+      }
+    },
+    {
+      "id": "the-fantastic-four-first-steps",
+      "order": 67,
+      "title": "The Fantastic Four: First Steps",
+      "subtitle": null,
+      "type": "Movie",
+      "release": {
+        "year": 2025,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": "1 hr 55 min",
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "main"
+      },
+      "section": "Phase 6 — Doomsday (2026)",
+      "guidance": {
+        "watch_for": "A retro-futurist 1960s Earth that isn't the main timeline — that's on purpose. Galactus is treated with total seriousness. The mid-credits scene is THE bridge to Doomsday.",
+        "watch_instruction": "DO NOT SKIP — the post-credits scene leads directly into Doomsday."
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "Introduces the Fantastic Four to the MCU, and Marvel has officially confirmed this film leads directly into Avengers: Doomsday.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "The mid-credits scene reveals that Doctor Doom has taken a specific interest in Franklin Richards, and the scene explicitly states that the Fantastic Four will return in Avengers: Doomsday. Marvel has confirmed this connection publicly, making it one of the most essential pieces of preparation before the film."
+        },
+        "confidence": "confirmed",
+        "connection_type": [
+          "direct",
+          "character",
+          "post_credit"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 517",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 60",
+          "road_order": 59
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 7.0,
+        "release_metadata_raw": "2025 (1 hr 55 min)",
+        "status_note": "DO NOT SKIP — the post-credits scene leads directly into Doomsday."
+      },
+      "source_orders": {
+        "road_to_doomsday": 59
+      }
+    },
+    {
+      "id": "eyes-of-wakanda-season-1",
+      "order": 68,
+      "title": "Eyes of Wakanda (Season 1)",
+      "subtitle": "Season 1",
+      "type": "TV Show",
+      "release": {
+        "year": null,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "main"
+      },
+      "section": "Phase 3B — Civil War & Fallout (2016–2018)",
+      "guidance": {
+        "watch_for": null,
+        "watch_instruction": "4 animated eps ~30min · Watch right before Black Panther — its ending shows how T'Challa gets his weapons."
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": false,
+        "connection": null,
+        "spoiler": {
+          "contains_spoiler": false,
+          "label": "Contains spoilers — tap to reveal",
+          "content": null
+        }
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 524",
+          "capture": "72-item watchlist"
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 6.2
+      }
+    },
+    {
+      "id": "marvel-zombies",
+      "order": 69,
+      "title": "Marvel Zombies",
+      "subtitle": null,
+      "type": "TV Show",
+      "release": {
+        "year": null,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Unconfirmed",
+        "required": null,
+        "category": "main"
+      },
+      "section": "Phase 4 — Multiverse Opens (2024–2025)",
+      "guidance": {
+        "watch_for": null,
+        "watch_instruction": "4 animated eps"
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": false,
+        "connection": null,
+        "spoiler": {
+          "contains_spoiler": false,
+          "label": "Contains spoilers — tap to reveal",
+          "content": null
+        }
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 531",
+          "capture": "72-item watchlist"
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 7.3
+      }
+    },
+    {
+      "id": "spider-man-brand-new-day",
+      "order": 70,
+      "title": "Spider-Man: Brand New Day",
+      "subtitle": null,
+      "type": "Movie",
+      "release": {
+        "year": 2026,
+        "date": "July 29, 2026",
+        "period": null,
+        "status": "Now in theaters"
+      },
+      "watch": {
+        "duration": "2 hr 24 min",
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Recommended",
+        "required": null,
+        "category": "main"
+      },
+      "section": "Phase 6 — Doomsday (2026)",
+      "guidance": {
+        "watch_for": "Set four years after No Way Home — Peter is still living inside that ending. Watch how the Born Again homework pays off at street level, keep an eye on Ned's new app, and stay through the credits: one scene, at the very end, and it's a breadcrumb.",
+        "watch_instruction": "The penultimate stop — with Hulk, the Punisher, and a New Avengers handshake."
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "Follows Peter Parker in a new chapter of his story, with crossovers that connect to the New Avengers and hints about what's still ahead.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "Peter crosses paths with Black Widow from the New Avengers, tying his story into the Thunderbolts thread. A new character's reported identity plants a possible seed for the X-Men era, and a post-credits tease points toward Secret Wars rather than Doomsday itself, since Spider-Man isn't on Doomsday's announced cast list."
+        },
+        "confidence": "relevant",
+        "connection_type": [
+          "character",
+          "post_credit",
+          "future"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 538",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 63",
+          "road_order": 62
+        },
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "MCUWATCHLIST.docx paragraph 563-565",
+          "source_kind": "upcoming_release_block"
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 8.0,
+        "release_metadata_raw": "Now in theaters (~2 hr 24 min)",
+        "status_note": "The penultimate stop — with Hulk, the Punisher, and a New Avengers handshake."
+      },
+      "source_orders": {
+        "road_to_doomsday": 62
+      }
+    },
+    {
+      "id": "avengers-endgame-encore",
+      "order": 71,
+      "title": "Avengers: Endgame Encore",
+      "subtitle": null,
+      "type": "Movie",
+      "release": {
+        "year": null,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "main"
+      },
+      "section": "Phase 4 — The Blip & New Beginnings (2023)",
+      "guidance": {
+        "watch_for": null,
+        "watch_instruction": null
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": false,
+        "connection": null,
+        "spoiler": {
+          "contains_spoiler": false,
+          "label": "Contains spoilers — tap to reveal",
+          "content": null
+        }
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 545",
+          "capture": "72-item watchlist"
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": null
+      }
+    },
+    {
+      "id": "avengers-doomsday",
+      "order": 72,
+      "title": "AVENGERS: DOOMSDAY",
+      "subtitle": null,
+      "type": "Movie",
+      "release": {
+        "year": 2026,
+        "date": "December 18, 2026",
+        "period": null,
+        "status": "confirmed"
+      },
+      "watch": {
+        "duration": null,
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "main"
+      },
+      "section": "Phase 6 — Doomsday (2026)",
+      "guidance": {
+        "watch_for": null,
+        "watch_instruction": null
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": false,
+        "connection": null,
+        "spoiler": {
+          "contains_spoiler": false,
+          "label": "Contains spoilers — tap to reveal",
+          "content": null
+        }
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [
+        {
+          "field": "release.date",
+          "values": [
+            "December 16, 2026",
+            "December 18, 2026"
+          ],
+          "sources": [
+            "MCUWATCHLIST.docx upcoming block",
+            "MCUWATCHLIST.docx written guide"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 552",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "MCUWATCHLIST.docx paragraph 558-560",
+          "source_kind": "upcoming_release_block"
+        },
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 2090-2093",
+          "source_kind": "written_guide_release_metadata"
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": null
+      },
+      "resolution_note": "Resolved to December 18, 2026 per official Marvel sources (marvel.com, Disney, and multiple current news outlets, verified August 2026). The December 16, 2026 value from the source document's upcoming-releases block is retained in source_conflicts for provenance."
+    },
+    {
+      "id": "daredevil-season-1",
+      "order": null,
+      "title": "Daredevil Season 1",
+      "subtitle": "Season 1",
+      "type": "TV Show",
+      "release": {
+        "year": 2015,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": 13,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": null,
+        "required": null,
+        "category": "main"
+      },
+      "section": null,
+      "guidance": {
+        "watch_for": "Prestige-TV Marvel: darker, slower, R-adjacent. The single-take hallway fight in episode 2 is the thesis. Fisk gets villain-of-the-decade treatment.",
+        "watch_instruction": null
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "Introduces Matt Murdock and Wilson Fisk in their Netflix-era forms, both of whom eventually cross over into the main MCU timeline.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "Fisk later appears in Hawkeye and Echo before becoming a major MCU villain, while Matt Murdock gets a cameo before starring in Born Again. Born Again assumes familiarity with the events of this series."
+        },
+        "confidence": "established",
+        "connection_type": [
+          "character",
+          "prerequisite"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 26",
+          "road_order": 25
+        }
+      ],
+      "source_metadata": {
+        "release_metadata_raw": "2015 (13 eps)",
+        "status_note": null
+      },
+      "source_orders": {
+        "road_to_doomsday": 25
+      }
+    },
+    {
+      "id": "jessica-jones-season-1",
+      "order": null,
+      "title": "Jessica Jones Season 1",
+      "subtitle": "Season 1",
+      "type": "TV Show",
+      "release": {
+        "year": 2015,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": 13,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": null,
+        "required": null,
+        "category": "main"
+      },
+      "section": null,
+      "guidance": {
+        "watch_for": "A noir detective show that happens to have powers in it. Kilgrave is the scariest villain in the entire list. Heavy themes, handled seriously.",
+        "watch_instruction": "Jessica appears in Born Again Season 2."
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "A darker, noir-style street-level story that introduces a character who returns in a later MCU series.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "Jessica appears again in Born Again Season 2, which is why this series is considered required viewing. Luke Cage also makes his debut here."
+        },
+        "confidence": "established",
+        "connection_type": [
+          "character",
+          "prerequisite"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 27",
+          "road_order": 26
+        }
+      ],
+      "source_metadata": {
+        "release_metadata_raw": "2015 (13 eps)",
+        "status_note": "Jessica appears in Born Again Season 2."
+      },
+      "source_orders": {
+        "road_to_doomsday": 26
+      }
+    },
+    {
+      "id": "daredevil-season-2",
+      "order": null,
+      "title": "Daredevil Season 2",
+      "subtitle": "Season 2",
+      "type": "TV Show",
+      "release": {
+        "year": 2016,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": 13,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": null,
+        "required": null,
+        "category": "main"
+      },
+      "section": null,
+      "guidance": {
+        "watch_for": "The first half is a courtroom war over a new character called the Punisher — that arc is the reason this season is required.",
+        "watch_instruction": "Introduces the Punisher."
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "Introduces the Punisher in his most personal, grounded form, setting up multiple future stories built around his character.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "Frank Castle's trial in this season leads into two full seasons of The Punisher, a 2026 special, and his eventual appearance in Brand New Day."
+        },
+        "confidence": "established",
+        "connection_type": [
+          "character",
+          "prerequisite"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 28",
+          "road_order": 27
+        }
+      ],
+      "source_metadata": {
+        "release_metadata_raw": "2016 (13 eps)",
+        "status_note": "Introduces the Punisher."
+      },
+      "source_orders": {
+        "road_to_doomsday": 27
+      }
+    },
+    {
+      "id": "the-punisher-season-1",
+      "order": null,
+      "title": "The Punisher Season 1",
+      "subtitle": "Season 1",
+      "type": "TV Show",
+      "release": {
+        "year": 2017,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": 13,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": null,
+        "required": null,
+        "category": "main"
+      },
+      "section": null,
+      "guidance": {
+        "watch_for": "The heaviest show on the list — war trauma, treated seriously. Micro is the co-lead. Not a superhero show and doesn't want to be.",
+        "watch_instruction": null
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "Continues Frank Castle's story on his own terms, setting up events that carry into his next season.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "Frank's arc here leads directly into The Punisher: One Last Kill and eventually Brand New Day. Billy Russo's fate at the end of this season directly sets up Season 2."
+        },
+        "confidence": "established",
+        "connection_type": [
+          "character",
+          "prerequisite"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 29",
+          "road_order": 28
+        }
+      ],
+      "source_metadata": {
+        "release_metadata_raw": "2017 (13 eps)",
+        "status_note": null
+      },
+      "source_orders": {
+        "road_to_doomsday": 28
+      }
+    },
+    {
+      "id": "daredevil-season-3",
+      "order": null,
+      "title": "Daredevil Season 3",
+      "subtitle": "Season 3",
+      "type": "TV Show",
+      "release": {
+        "year": 2018,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": 13,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": null,
+        "required": null,
+        "category": "main"
+      },
+      "section": null,
+      "guidance": {
+        "watch_for": "The best season of Netflix Marvel. Bullseye's introduction, a legendary prison one-shot, and Fisk running the board from confinement.",
+        "watch_instruction": null
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "Sets up the direct lead-in to the current Daredevil series, with all three of its main figures carrying straight into it.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "Matt, Fisk, and Bullseye all continue directly from where this season leaves off into Daredevil: Born Again — watching them back to back makes Born Again's opening far more impactful."
+        },
+        "confidence": "established",
+        "connection_type": [
+          "character",
+          "prerequisite"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 30",
+          "road_order": 29
+        }
+      ],
+      "source_metadata": {
+        "release_metadata_raw": "2018 (13 eps)",
+        "status_note": null
+      },
+      "source_orders": {
+        "road_to_doomsday": 29
+      }
+    },
+    {
+      "id": "the-punisher-season-2",
+      "order": null,
+      "title": "The Punisher Season 2",
+      "subtitle": "Season 2",
+      "type": "TV Show",
+      "release": {
+        "year": 2019,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": 13,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": null,
+        "required": null,
+        "category": "main"
+      },
+      "section": null,
+      "guidance": {
+        "watch_for": "The messiest of the Netflix run, but it closes Frank's chapter — and his state of mind here is where the 2026 special picks him up.",
+        "watch_instruction": null
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "Closes out Frank Castle's most recent chapter before his story picks back up in the current MCU timeline.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "This is the last stop before Frank reappears during the Born Again era and eventually in Brand New Day. His state of mind by the end of this season carries directly into One Last Kill."
+        },
+        "confidence": "established",
+        "connection_type": [
+          "character",
+          "prerequisite"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 31",
+          "road_order": 30
+        }
+      ],
+      "source_metadata": {
+        "release_metadata_raw": "2019 (13 eps)",
+        "status_note": null
+      },
+      "source_orders": {
+        "road_to_doomsday": 30
+      }
+    },
+    {
+      "id": "hawkeye-episodes-1-5",
+      "order": null,
+      "title": "Hawkeye — episodes 1–5",
+      "subtitle": "Episodes 1–5",
+      "type": "TV Show",
+      "release": {
+        "year": 2021,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": null,
+        "watch_range": {
+          "start_episode": 1,
+          "end_episode": 5
+        }
+      },
+      "classification": {
+        "importance": null,
+        "required": null,
+        "category": "main"
+      },
+      "section": null,
+      "guidance": {
+        "watch_for": "Yelena arrives — if you rewatched the Black Widow post-credits, you know why. Street-level Christmas vibes. STOP after episode 5's final shot.",
+        "watch_instruction": null
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "Introduces Kate Bishop and continues Clint Barton's story after the events of Endgame.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "Kate Bishop joins a growing group of young heroes forming alongside Cassie Lang and Kamala Khan. The Ronin storyline also resolves a loose thread from Clint's actions during the Blip. A reveal near the end of Episode 5 is the reason Spider-Man: No Way Home is recommended before the finale."
+        },
+        "confidence": "established",
+        "connection_type": [
+          "character",
+          "prerequisite"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 37",
+          "road_order": 36
+        }
+      ],
+      "source_metadata": {
+        "release_metadata_raw": "2021",
+        "status_note": null
+      },
+      "source_orders": {
+        "road_to_doomsday": 36
+      }
+    },
+    {
+      "id": "hawkeye-episode-6-finale",
+      "order": null,
+      "title": "Hawkeye — episode 6 (finale)",
+      "subtitle": "Episode 6 (finale)",
+      "type": "TV Show",
+      "release": {
+        "year": 2021,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": null,
+        "watch_range": {
+          "start_episode": 6,
+          "end_episode": 6
+        }
+      },
+      "classification": {
+        "importance": null,
+        "required": null,
+        "category": "main"
+      },
+      "section": null,
+      "guidance": {
+        "watch_for": "Watch the Black Widow post-credits scene right before this if you haven't — then enjoy the payoff. The boss reveal connects two corners of the universe.",
+        "watch_instruction": "Yelena and Kingpin collide; both matter going forward. Now rewatch the Black Widow post-credits scene."
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "Wraps up Clint and Kate's story while formally introducing a major MCU villain.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "Kingpin makes his full MCU debut here, leading into Echo and later Born Again. Yelena and Clint also resolve their conflict tied to Natasha's death. Between Kate, Yelena, Cassie, and Kamala, this finale adds to a growing pattern of young heroes being set up for future stories."
+        },
+        "confidence": "established",
+        "connection_type": [
+          "character",
+          "prerequisite"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 39",
+          "road_order": 38
+        }
+      ],
+      "source_metadata": {
+        "release_metadata_raw": "2021",
+        "status_note": "Yelena and Kingpin collide; both matter going forward. Now rewatch the Black Widow post-credits scene."
+      },
+      "source_orders": {
+        "road_to_doomsday": 38
+      }
+    },
+    {
+      "id": "guardians-of-the-galaxy-vol-3",
+      "order": null,
+      "title": "Guardians of the Galaxy Vol. 3",
+      "subtitle": null,
+      "type": "Movie",
+      "release": {
+        "year": 2023,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": "2 hr 30 min",
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": null,
+        "required": null,
+        "category": "main"
+      },
+      "section": null,
+      "guidance": {
+        "watch_for": "Rocket's backstory, finally — and it's brutal. Bring tissues for a raccoon. Stay for both scenes.",
+        "watch_instruction": null
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "A farewell for the original Guardians lineup, with a mostly self-contained ending that wraps up their story.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "The team disbands by the end, Rocket takes over as captain, and Quill returns to Earth with a promise to come back. Adam Warlock joins the group. This is one of the few storylines that resolves fully on its own."
+        },
+        "confidence": "established",
+        "connection_type": [
+          "character",
+          "legacy"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 46",
+          "road_order": 45
+        }
+      ],
+      "source_metadata": {
+        "release_metadata_raw": "2023 (2 hr 30 min)",
+        "status_note": null
+      },
+      "source_orders": {
+        "road_to_doomsday": 45
+      }
+    },
+    {
+      "id": "agatha-all-along",
+      "order": null,
+      "title": "Agatha All Along",
+      "subtitle": null,
+      "type": "TV Show",
+      "release": {
+        "year": 2024,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": 9,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": null,
+        "required": null,
+        "category": "main"
+      },
+      "section": null,
+      "guidance": {
+        "watch_for": "A witch-heist show with a mid-season reveal that recontextualizes everything. The two-part finale reshuffles the board again. Aubrey Plaza, no notes.",
+        "watch_instruction": "Billy Maximoff’s story is expected to feed VisionQuest."
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "A spin-off following Agatha Harkness that reveals a surprising twist about a teenage character introduced late in the season.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "The teenager turns out to be Billy Maximoff, Wanda's son, alive and reportedly connected to a storyline VisionQuest is expected to pick up. Wiccan, as Billy is known, joins the group of young heroes being introduced across several shows."
+        },
+        "confidence": "relevant",
+        "connection_type": [
+          "character",
+          "future"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 56",
+          "road_order": 55
+        }
+      ],
+      "source_metadata": {
+        "release_metadata_raw": "2024 (9 eps)",
+        "status_note": "Billy Maximoff’s story is expected to feed VisionQuest."
+      },
+      "source_orders": {
+        "road_to_doomsday": 55
+      }
+    },
+    {
+      "id": "daredevil-born-again-season-1",
+      "order": null,
+      "title": "Daredevil: Born Again Season 1",
+      "subtitle": "Season 1",
+      "type": "TV Show",
+      "release": {
+        "year": 2025,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": 9,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": null,
+        "required": null,
+        "category": "main"
+      },
+      "section": null,
+      "guidance": {
+        "watch_for": "The Netflix seasons are assumed knowledge. Watch what Fisk does with legitimate power, and how long Matt tries not to be Daredevil.",
+        "watch_instruction": null
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "Brings Daredevil fully into the mainline MCU, pitting Matt Murdock against Wilson Fisk in his new role as mayor.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "The political conflict between Fisk and a retired Matt continues into Season 2, which crosses over with Brand New Day. Bullseye's return also resolves plot threads left open from Daredevil Season 3."
+        },
+        "confidence": "established",
+        "connection_type": [
+          "character",
+          "story"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 58",
+          "road_order": 57
+        }
+      ],
+      "source_metadata": {
+        "release_metadata_raw": "2025 (9 eps)",
+        "status_note": null
+      },
+      "source_orders": {
+        "road_to_doomsday": 57
+      }
+    },
+    {
+      "id": "daredevil-born-again-season-2",
+      "order": null,
+      "title": "Daredevil: Born Again Season 2",
+      "subtitle": "Season 2",
+      "type": "TV Show",
+      "release": {
+        "year": 2026,
+        "date": null,
+        "period": "Mar–May 2026",
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": 8,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": null,
+        "required": null,
+        "category": "main"
+      },
+      "section": null,
+      "guidance": {
+        "watch_for": "New York fully under Fisk's control, Jessica Jones back in play, and a finale built to hand off to a certain theatrical release. Finish ALL episodes before step 70.",
+        "watch_instruction": null
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "Continues the Fisk-versus-Matt storyline with a crossover into the wider Spider-Man corner of the MCU.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "This season crosses over directly with Spider-Man: Brand New Day, connecting the street-level shows to the movies for the first time. It also closes out a chapter of the Matt-Fisk conflict and sets Frank Castle's arc moving into One Last Kill."
+        },
+        "confidence": "established",
+        "connection_type": [
+          "character",
+          "story"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 61",
+          "road_order": 60
+        }
+      ],
+      "source_metadata": {
+        "release_metadata_raw": "Mar–May 2026 (8 eps)",
+        "status_note": null
+      },
+      "source_orders": {
+        "road_to_doomsday": 60
+      }
+    },
+    {
+      "id": "the-punisher-one-last-kill",
+      "order": null,
+      "title": "The Punisher: One Last Kill",
+      "subtitle": null,
+      "type": "Special",
+      "release": {
+        "year": 2026,
+        "date": "May 12, 2026",
+        "period": "May 2026",
+        "status": "Special"
+      },
+      "watch": {
+        "duration": null,
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": null,
+        "required": null,
+        "category": "special"
+      },
+      "section": null,
+      "guidance": {
+        "watch_for": "A one-shot special: Frank Castle, one last job, feature length. Bridges the Netflix legacy into the current slate.",
+        "watch_instruction": "Frank Castle appears in Brand New Day."
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "A special that positions Frank Castle exactly where he needs to be for his appearance in Brand New Day.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "This special, along with the Born Again seasons, brings Frank's story fully up to date so his arc lines up with what Brand New Day needs from him."
+        },
+        "confidence": "established",
+        "connection_type": [
+          "character",
+          "prerequisite"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 62",
+          "road_order": 61
+        },
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "MCUWATCHLIST.docx paragraph 567-569",
+          "source_kind": "upcoming_release_block"
+        }
+      ],
+      "source_metadata": {
+        "release_metadata_raw": "May 2026 special",
+        "status_note": "Frank Castle appears in Brand New Day."
+      },
+      "source_orders": {
+        "road_to_doomsday": 61
+      }
+    },
+    {
+      "id": "visionquest",
+      "order": null,
+      "title": "VisionQuest",
+      "subtitle": null,
+      "type": "TV Show",
+      "release": {
+        "year": 2026,
+        "date": null,
+        "period": null,
+        "status": "Streaming"
+      },
+      "watch": {
+        "duration": null,
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": null,
+        "required": null,
+        "category": "main"
+      },
+      "section": null,
+      "guidance": {
+        "watch_for": "Set about a year after WandaVision — White Vision has had time to sit with the memories he recovered. James Spader returns as Ultron. Watch your WandaVision prereqs first.",
+        "watch_instruction": "Vision vs. Ultron; reportedly ties into Secret Wars. Prereqs: Age of Ultron, WandaVision, and Agatha All Along. On the release-order road, this is the final stop before Doomsday."
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "A series expected to resolve a major loose thread from WandaVision involving Vision, with a reported connection to a future multiversal storyline.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "White Vision's unresolved arc from WandaVision is expected to be resolved here, and Ultron's reported return is said to tie into the upcoming Secret Wars. This is considered one of the most plot-relevant pieces of streaming content still to release before Doomsday."
+        },
+        "confidence": "relevant",
+        "connection_type": [
+          "character",
+          "future"
+        ]
+      },
+      "prerequisites": [
+        "Avengers: Age of Ultron",
+        "WandaVision",
+        "Agatha All Along"
+      ],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 64",
+          "road_order": 63
+        }
+      ],
+      "source_metadata": {
+        "release_metadata_raw": "Streaming Oct 16, 2026 (Disney+)",
+        "status_note": "Vision vs. Ultron; reportedly ties into Secret Wars. Prereqs: Age of Ultron, WandaVision, and Agatha All Along. On the release-order road, this is the final stop before Doomsday."
+      },
+      "source_orders": {
+        "road_to_doomsday": 63
+      }
+    }
+  ],
+  "side_quests": [
+    {
+      "name": "Agents of S.H.I.E.L.D. Season 1",
+      "category": "side_quest",
+      "watch_order": "episodes 1–7, then Thor: The Dark World, then episodes 8–16, then The Winter Soldier, then episodes 17–22",
+      "source": "MCUWATCHLIST.docx",
+      "location": "paragraph 2139"
+    },
+    {
+      "name": "Luke Cage / Iron Fist / The Defenders / Jessica Jones Seasons 2–3",
+      "category": "side_quest",
+      "watch_order": "weave in by release order; The Defenders needs Luke Cage and Iron Fist Season 1 first",
+      "source": "MCUWATCHLIST.docx",
+      "location": "paragraph 2148"
+    },
+    {
+      "name": "Raimi and Webb Spider-Man films",
+      "category": "side_quest",
+      "watch_order": "slot right before No Way Home",
+      "source": "MCUWATCHLIST.docx",
+      "location": "paragraph 2173"
+    }
+  ],
+  "views": {
+    "complete_watch_order": [
+      "x-men",
+      "x2-x-men-united",
+      "x-men-the-last-stand",
+      "iron-man",
+      "the-incredible-hulk",
+      "iron-man-2",
+      "iron-man-2-post-credit-scene",
+      "thor",
+      "thor-post-credit-scene",
+      "x-men-first-class",
+      "captain-america-the-first-avenger",
+      "captain-america-the-first-avenger-credits",
+      "the-avengers",
+      "iron-man-3",
+      "the-wolverine",
+      "marvel-one-shot-agent-carter",
+      "thor-the-dark-world",
+      "captain-america-the-winter-soldier",
+      "x-men-days-of-future-past",
+      "guardians-of-the-galaxy",
+      "agent-carter-season-1",
+      "avengers-age-of-ultron",
+      "ant-man",
+      "agent-carter-season-2",
+      "deadpool",
+      "captain-america-civil-war",
+      "x-men-apocalypse",
+      "team-thor",
+      "doctor-strange",
+      "team-thor-part-2",
+      "logan",
+      "guardians-of-the-galaxy-vol-2",
+      "spider-man-homecoming",
+      "thor-ragnarok",
+      "black-panther",
+      "team-darryl",
+      "avengers-infinity-war",
+      "deadpool-2",
+      "ant-man-and-the-wasp",
+      "ant-man-and-the-wasp-all-credits",
+      "captain-marvel",
+      "captain-marvel-post-credits-scene",
+      "avengers-endgame",
+      "dark-phoenix",
+      "spider-man-far-from-home",
+      "peters-to-do-list",
+      "wandavision-season-1",
+      "wandavision-ep-9-mid-credit-scene",
+      "the-falcon-and-the-winter-soldier-season-1",
+      "loki-season-1",
+      "black-widow",
+      "black-widow-post-credit-scene",
+      "what-if-season-1",
+      "shang-chi-and-the-legend-of-the-ten-rings",
+      "hawkeye-season-1",
+      "spider-man-no-way-home",
+      "doctor-strange-multiverse-of-madness",
+      "ms-marvel-season-1",
+      "thor-love-and-thunder",
+      "black-panther-wakanda-forever",
+      "ant-man-and-the-wasp-quantumania",
+      "loki-season-2",
+      "the-marvels",
+      "deadpool-and-wolverine",
+      "captain-america-brave-new-world",
+      "thunderbolts",
+      "the-fantastic-four-first-steps",
+      "eyes-of-wakanda-season-1",
+      "marvel-zombies",
+      "spider-man-brand-new-day",
+      "avengers-endgame-encore",
+      "avengers-doomsday"
+    ],
+    "article_only_source_entries": [
+      "daredevil-season-1",
+      "jessica-jones-season-1",
+      "daredevil-season-2",
+      "the-punisher-season-1",
+      "daredevil-season-3",
+      "the-punisher-season-2",
+      "hawkeye-episodes-1-5",
+      "hawkeye-episode-6-finale",
+      "guardians-of-the-galaxy-vol-3",
+      "agatha-all-along",
+      "daredevil-born-again-season-1",
+      "daredevil-born-again-season-2",
+      "the-punisher-one-last-kill",
+      "visionquest"
+    ],
+    "movies_only": [
+      "x-men",
+      "x2-x-men-united",
+      "x-men-the-last-stand",
+      "iron-man",
+      "the-incredible-hulk",
+      "iron-man-2",
+      "thor",
+      "x-men-first-class",
+      "captain-america-the-first-avenger",
+      "the-avengers",
+      "iron-man-3",
+      "the-wolverine",
+      "thor-the-dark-world",
+      "captain-america-the-winter-soldier",
+      "x-men-days-of-future-past",
+      "guardians-of-the-galaxy",
+      "avengers-age-of-ultron",
+      "ant-man",
+      "deadpool",
+      "captain-america-civil-war",
+      "x-men-apocalypse",
+      "doctor-strange",
+      "logan",
+      "guardians-of-the-galaxy-vol-2",
+      "spider-man-homecoming",
+      "thor-ragnarok",
+      "black-panther",
+      "avengers-infinity-war",
+      "deadpool-2",
+      "ant-man-and-the-wasp",
+      "captain-marvel",
+      "avengers-endgame",
+      "dark-phoenix",
+      "spider-man-far-from-home",
+      "black-widow",
+      "shang-chi-and-the-legend-of-the-ten-rings",
+      "spider-man-no-way-home",
+      "doctor-strange-multiverse-of-madness",
+      "thor-love-and-thunder",
+      "black-panther-wakanda-forever",
+      "ant-man-and-the-wasp-quantumania",
+      "the-marvels",
+      "deadpool-and-wolverine",
+      "captain-america-brave-new-world",
+      "thunderbolts",
+      "the-fantastic-four-first-steps",
+      "spider-man-brand-new-day",
+      "avengers-endgame-encore",
+      "avengers-doomsday",
+      "guardians-of-the-galaxy-vol-3"
+    ],
+    "tv_shows_only": [
+      "agent-carter-season-1",
+      "agent-carter-season-2",
+      "wandavision-season-1",
+      "the-falcon-and-the-winter-soldier-season-1",
+      "loki-season-1",
+      "what-if-season-1",
+      "hawkeye-season-1",
+      "ms-marvel-season-1",
+      "loki-season-2",
+      "eyes-of-wakanda-season-1",
+      "marvel-zombies",
+      "daredevil-season-1",
+      "jessica-jones-season-1",
+      "daredevil-season-2",
+      "the-punisher-season-1",
+      "daredevil-season-3",
+      "the-punisher-season-2",
+      "hawkeye-episodes-1-5",
+      "hawkeye-episode-6-finale",
+      "agatha-all-along",
+      "daredevil-born-again-season-1",
+      "daredevil-born-again-season-2",
+      "visionquest"
+    ],
+    "specials_only": [
+      "iron-man-2-post-credit-scene",
+      "thor-post-credit-scene",
+      "captain-america-the-first-avenger-credits",
+      "marvel-one-shot-agent-carter",
+      "team-thor",
+      "team-thor-part-2",
+      "team-darryl",
+      "ant-man-and-the-wasp-all-credits",
+      "captain-marvel-post-credits-scene",
+      "peters-to-do-list",
+      "wandavision-ep-9-mid-credit-scene",
+      "black-widow-post-credit-scene",
+      "the-punisher-one-last-kill"
+    ],
+    "essential": [
+      "iron-man",
+      "the-incredible-hulk",
+      "iron-man-2",
+      "iron-man-2-post-credit-scene",
+      "thor",
+      "thor-post-credit-scene",
+      "captain-america-the-first-avenger",
+      "captain-america-the-first-avenger-credits",
+      "the-avengers",
+      "iron-man-3",
+      "marvel-one-shot-agent-carter",
+      "thor-the-dark-world",
+      "captain-america-the-winter-soldier",
+      "guardians-of-the-galaxy",
+      "agent-carter-season-1",
+      "avengers-age-of-ultron",
+      "ant-man",
+      "agent-carter-season-2",
+      "deadpool",
+      "captain-america-civil-war",
+      "doctor-strange",
+      "guardians-of-the-galaxy-vol-2",
+      "spider-man-homecoming",
+      "thor-ragnarok",
+      "black-panther",
+      "avengers-infinity-war",
+      "deadpool-2",
+      "ant-man-and-the-wasp",
+      "ant-man-and-the-wasp-all-credits",
+      "captain-marvel",
+      "captain-marvel-post-credits-scene",
+      "avengers-endgame",
+      "spider-man-far-from-home",
+      "peters-to-do-list",
+      "wandavision-season-1",
+      "wandavision-ep-9-mid-credit-scene",
+      "the-falcon-and-the-winter-soldier-season-1",
+      "loki-season-1",
+      "black-widow",
+      "black-widow-post-credit-scene",
+      "shang-chi-and-the-legend-of-the-ten-rings",
+      "hawkeye-season-1",
+      "spider-man-no-way-home",
+      "doctor-strange-multiverse-of-madness",
+      "thor-love-and-thunder",
+      "black-panther-wakanda-forever",
+      "ant-man-and-the-wasp-quantumania",
+      "loki-season-2",
+      "deadpool-and-wolverine",
+      "captain-america-brave-new-world",
+      "thunderbolts",
+      "the-fantastic-four-first-steps",
+      "eyes-of-wakanda-season-1",
+      "avengers-endgame-encore",
+      "avengers-doomsday"
+    ],
+    "recommended": [
+      "x-men",
+      "x2-x-men-united",
+      "x-men-the-last-stand",
+      "x-men-first-class",
+      "the-wolverine",
+      "x-men-days-of-future-past",
+      "x-men-apocalypse",
+      "logan",
+      "dark-phoenix",
+      "ms-marvel-season-1",
+      "the-marvels",
+      "spider-man-brand-new-day"
+    ],
+    "optional": [
+      "team-thor",
+      "team-thor-part-2",
+      "team-darryl",
+      "what-if-season-1"
+    ],
+    "unconfirmed": [
+      "marvel-zombies"
+    ],
+    "stop_points": [
+      "iron-man-2",
+      "thor",
+      "captain-america-the-first-avenger",
+      "ant-man-and-the-wasp",
+      "captain-marvel",
+      "wandavision-season-1",
+      "black-widow"
+    ],
+    "doomsday_connections": [
+      "x-men",
+      "x2-x-men-united",
+      "x-men-the-last-stand",
+      "iron-man",
+      "the-incredible-hulk",
+      "iron-man-2",
+      "thor",
+      "captain-america-the-first-avenger",
+      "the-avengers",
+      "iron-man-3",
+      "thor-the-dark-world",
+      "captain-america-the-winter-soldier",
+      "x-men-days-of-future-past",
+      "guardians-of-the-galaxy",
+      "avengers-age-of-ultron",
+      "ant-man",
+      "deadpool",
+      "captain-america-civil-war",
+      "doctor-strange",
+      "logan",
+      "guardians-of-the-galaxy-vol-2",
+      "spider-man-homecoming",
+      "thor-ragnarok",
+      "black-panther",
+      "avengers-infinity-war",
+      "deadpool-2",
+      "ant-man-and-the-wasp",
+      "captain-marvel",
+      "avengers-endgame",
+      "spider-man-far-from-home",
+      "wandavision-season-1",
+      "the-falcon-and-the-winter-soldier-season-1",
+      "loki-season-1",
+      "black-widow",
+      "what-if-season-1",
+      "shang-chi-and-the-legend-of-the-ten-rings",
+      "spider-man-no-way-home",
+      "doctor-strange-multiverse-of-madness",
+      "ms-marvel-season-1",
+      "thor-love-and-thunder",
+      "black-panther-wakanda-forever",
+      "ant-man-and-the-wasp-quantumania",
+      "loki-season-2",
+      "the-marvels",
+      "deadpool-and-wolverine",
+      "captain-america-brave-new-world",
+      "thunderbolts",
+      "the-fantastic-four-first-steps",
+      "spider-man-brand-new-day",
+      "daredevil-season-1",
+      "jessica-jones-season-1",
+      "daredevil-season-2",
+      "the-punisher-season-1",
+      "daredevil-season-3",
+      "the-punisher-season-2",
+      "hawkeye-episodes-1-5",
+      "hawkeye-episode-6-finale",
+      "guardians-of-the-galaxy-vol-3",
+      "agatha-all-along",
+      "daredevil-born-again-season-1",
+      "daredevil-born-again-season-2",
+      "the-punisher-one-last-kill",
+      "visionquest"
+    ],
+    "spoiler_content": [
+      "x-men",
+      "x2-x-men-united",
+      "x-men-the-last-stand",
+      "iron-man",
+      "the-incredible-hulk",
+      "iron-man-2",
+      "thor",
+      "captain-america-the-first-avenger",
+      "the-avengers",
+      "iron-man-3",
+      "thor-the-dark-world",
+      "captain-america-the-winter-soldier",
+      "x-men-days-of-future-past",
+      "guardians-of-the-galaxy",
+      "avengers-age-of-ultron",
+      "ant-man",
+      "deadpool",
+      "captain-america-civil-war",
+      "doctor-strange",
+      "logan",
+      "guardians-of-the-galaxy-vol-2",
+      "spider-man-homecoming",
+      "thor-ragnarok",
+      "black-panther",
+      "avengers-infinity-war",
+      "deadpool-2",
+      "ant-man-and-the-wasp",
+      "captain-marvel",
+      "avengers-endgame",
+      "spider-man-far-from-home",
+      "wandavision-season-1",
+      "the-falcon-and-the-winter-soldier-season-1",
+      "loki-season-1",
+      "black-widow",
+      "what-if-season-1",
+      "shang-chi-and-the-legend-of-the-ten-rings",
+      "spider-man-no-way-home",
+      "doctor-strange-multiverse-of-madness",
+      "ms-marvel-season-1",
+      "thor-love-and-thunder",
+      "black-panther-wakanda-forever",
+      "ant-man-and-the-wasp-quantumania",
+      "loki-season-2",
+      "the-marvels",
+      "deadpool-and-wolverine",
+      "captain-america-brave-new-world",
+      "thunderbolts",
+      "the-fantastic-four-first-steps",
+      "spider-man-brand-new-day",
+      "daredevil-season-1",
+      "jessica-jones-season-1",
+      "daredevil-season-2",
+      "the-punisher-season-1",
+      "daredevil-season-3",
+      "the-punisher-season-2",
+      "hawkeye-episodes-1-5",
+      "hawkeye-episode-6-finale",
+      "guardians-of-the-galaxy-vol-3",
+      "agatha-all-along",
+      "daredevil-born-again-season-1",
+      "daredevil-born-again-season-2",
+      "the-punisher-one-last-kill",
+      "visionquest"
+    ],
+    "prerequisites": {
+      "spider-man-no-way-home": [
+        "Spider-Man: Raimi/Webb optional side quest"
+      ],
+      "deadpool-and-wolverine": [
+        "Deadpool",
+        "Logan",
+        "Deadpool 2"
+      ],
+      "visionquest": [
+        "Avengers: Age of Ultron",
+        "WandaVision",
+        "Agatha All Along"
+      ]
+    }
+  },
+  "data_audit": {
+    "source_files": 2,
+    "main_watchlist_entries": 72,
+    "road_to_doomsday_rows": 63,
+    "exact_title_matches_merged": 42,
+    "article_only_entries": 14,
+    "master_unique_entities": 86,
+    "movie_entries": 50,
+    "tv_show_entries": 23,
+    "special_entries": 13,
+    "main_road_entries": 72,
+    "side_quest_entries": 3,
+    "essential": 55,
+    "recommended": 12,
+    "optional": 4,
+    "unconfirmed": 1,
+    "stop_points": 7,
+    "doomsday_connections": 63,
+    "spoiler_sections": 63,
+    "prerequisite_relationships": 7,
+    "duplicates_merged": 49,
+    "conflicts_found": 1,
+    "conflicts": [
+      {
+        "id": "avengers-doomsday",
+        "title": "AVENGERS: DOOMSDAY",
+        "conflicts": [
+          {
+            "field": "release.date",
+            "values": [
+              "December 16, 2026",
+              "December 18, 2026"
+            ],
+            "sources": [
+              "MCUWATCHLIST.docx upcoming block",
+              "MCUWATCHLIST.docx written guide"
+            ]
+          }
+        ]
+      }
+    ],
+    "missing_information": "null values are retained where the uploaded sources do not provide the field; no outside values were added.",
+    "variant_matches_merged": 7,
+    "total_title_matches_merged": 49
+  },
+  "raw_source_inventory": {
+    "MCUWATCHLIST.docx": [
+      "order",
+      "raw_type",
+      "title",
+      "importance",
+      "publisher",
+      "rating",
+      "card_note",
+      "section",
+      "source_paragraph"
+    ],
+    "roadtodoomsday-com-2026-08-29.xlsx": [
+      "data",
+      "data2",
+      "data3",
+      "data6",
+      "data7"
+    ]
+  },
+  "data_loss_report": {
+    "preserved": [
+      "all 72 main watchlist cards",
+      "all 63 XLSX rows",
+      "unique fields from both sources",
+      "watch-for text",
+      "tie-in text",
+      "status notes",
+      "card notes",
+      "ratings",
+      "publisher badges",
+      "sections",
+      "source orders",
+      "provenance",
+      "side-quest instructions",
+      "explicit prerequisites"
+    ],
+    "normalized": [
+      "whitespace and extraction artifacts",
+      "FILM→Movie",
+      "TV→TV Show",
+      "SPC→Special",
+      "numeric rating values",
+      "release metadata parsing"
+    ],
+    "merged": "Exact-title matches between the 72-item watchlist and the 63-row XLSX were merged; source-specific values remain in sources/source_metadata.",
+    "removed": "Only clear website/UI scraping artifacts from the structured entity layer; no movie/show metadata was removed."
+  },
+  "field_inventory": {
+    "canonical_entity_fields": [
+      "id",
+      "order",
+      "title",
+      "subtitle",
+      "type",
+      "release",
+      "watch",
+      "classification",
+      "section",
+      "guidance",
+      "stop_point",
+      "doomsday",
+      "prerequisites",
+      "universe",
+      "source_conflicts",
+      "sources",
+      "source_metadata"
+    ],
+    "source_specific_fields": [
+      "publisher",
+      "rating",
+      "card_note",
+      "release_metadata_raw",
+      "status_note",
+      "watch_for",
+      "how_it_ties_in",
+      "road_order",
+      "source_paragraph",
+      "source_row"
+    ],
+    "analysis_notes": [
+      "Only the two uploaded source files were used. No web/external knowledge was used."
+    ]
+  }
+}

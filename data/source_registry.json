@@ -1,0 +1,196 @@
+{
+  "sources": [
+    {
+      "id": "web:1",
+      "claim": "Avengers: Doomsday release date Dec 18, 2026; cast list",
+      "source": "Marvel.com official movie page",
+      "source_type": "OFFICIAL",
+      "access_date": "2026-08-30",
+      "confidence": "OFFICIAL"
+    },
+    {
+      "id": "web:2",
+      "claim": "Avengers: Doomsday full cast list and release date",
+      "source": "Wikipedia (Avengers: Doomsday)",
+      "source_type": "REFERENCE",
+      "access_date": "2026-08-30",
+      "confidence": "REPORTED"
+    },
+    {
+      "id": "web:3",
+      "claim": "Avengers: Doomsday official synopsis and cast",
+      "source": "Disney Movies (movies.disney.com)",
+      "source_type": "OFFICIAL",
+      "access_date": "2026-08-30",
+      "confidence": "OFFICIAL"
+    },
+    {
+      "id": "web:6",
+      "claim": "Character names matched to each confirmed actor",
+      "source": "ABC News / GMA",
+      "source_type": "HIGH-QUALITY REPORTING",
+      "access_date": "2026-08-30",
+      "confidence": "REPORTED"
+    },
+    {
+      "id": "web:7",
+      "claim": "D23 Expo reveal details, additional cast (Attuma, Namora, Wesley Holloway)",
+      "source": "Entertainment Weekly",
+      "source_type": "HIGH-QUALITY REPORTING",
+      "access_date": "2026-08-30",
+      "confidence": "REPORTED"
+    },
+    {
+      "id": "web:8",
+      "claim": "Legacy X-Men actors officially confirmed integrated into MCU (Stewart, McKellen, Marsden, Grammer, Romijn, Cumming, Tatum)",
+      "source": "Hypebeast",
+      "source_type": "HIGH-QUALITY REPORTING",
+      "access_date": "2026-08-30",
+      "confidence": "REPORTED"
+    },
+    {
+      "id": "web:12",
+      "claim": "D23 trailer reveals first MCU X-Men team castings",
+      "source": "ComicBook.com",
+      "source_type": "HIGH-QUALITY REPORTING",
+      "access_date": "2026-08-30",
+      "confidence": "REPORTED"
+    },
+    {
+      "id": "web:16",
+      "claim": "Fantastic Four: First Steps post-credits sets up Doomsday",
+      "source": "Los Angeles Times",
+      "source_type": "HIGH-QUALITY REPORTING",
+      "access_date": "2026-08-30",
+      "confidence": "REPORTED"
+    },
+    {
+      "id": "web:17",
+      "claim": "Post-credits scene details, Russo Bros directed it, speculation on Doom-Reed connection",
+      "source": "GQ",
+      "source_type": "HIGH-QUALITY REPORTING",
+      "access_date": "2026-08-30",
+      "confidence": "REPORTED"
+    },
+    {
+      "id": "web:18",
+      "claim": "Mid-credits scene detailed description (Sue Storm, Franklin, Doom)",
+      "source": "Yahoo Entertainment",
+      "source_type": "HIGH-QUALITY REPORTING",
+      "access_date": "2026-08-30",
+      "confidence": "REPORTED"
+    },
+    {
+      "id": "web:19",
+      "claim": "Thunderbolts* post-credits scene: New Avengers rebrand, Fantastic Four ship arrival, Sam Wilson feud",
+      "source": "Wikipedia (Thunderbolts*)",
+      "source_type": "REFERENCE",
+      "access_date": "2026-08-30",
+      "confidence": "REPORTED"
+    },
+    {
+      "id": "web:24",
+      "claim": "Director Matt Shakman confirms Russo Bros directed and shot the post-credits scene during Doomsday production",
+      "source": "Entertainment Weekly",
+      "source_type": "HIGH-QUALITY REPORTING",
+      "access_date": "2026-08-30",
+      "confidence": "REPORTED"
+    },
+    {
+      "id": "web:29",
+      "claim": "Thunderbolts post-credits scene runtime (2:54), New Avengers vs Sam Wilson trademark dispute",
+      "source": "TheGamer",
+      "source_type": "HIGH-QUALITY REPORTING",
+      "access_date": "2026-08-30",
+      "confidence": "REPORTED"
+    },
+    {
+      "id": "web:30",
+      "claim": "Detailed post-credits scene breakdown, Bob/Sentry status",
+      "source": "Laughing Place",
+      "source_type": "HIGH-QUALITY REPORTING",
+      "access_date": "2026-08-30",
+      "confidence": "REPORTED"
+    },
+    {
+      "id": "web:31",
+      "claim": "Phase Six film list, Avengers: Secret Wars date Dec 17 2027, Doomsday post-production status",
+      "source": "Wikipedia (MCU Phase Six)",
+      "source_type": "REFERENCE",
+      "access_date": "2026-08-30",
+      "confidence": "REPORTED"
+    },
+    {
+      "id": "web:39",
+      "claim": "Secret Wars is the only MCU movie in 2027; Feige quote on quality over quantity",
+      "source": "IGN",
+      "source_type": "HIGH-QUALITY REPORTING",
+      "access_date": "2026-08-30",
+      "confidence": "REPORTED"
+    },
+    {
+      "id": "web:45",
+      "claim": "JioHotstar Marvel Movies collection listing",
+      "source": "Official JioHotstar (hotstar.com/in)",
+      "source_type": "OFFICIAL",
+      "access_date": "2026-08-30",
+      "confidence": "OFFICIAL"
+    },
+    {
+      "id": "web:48",
+      "claim": "JioHotstar official Marvel studio catalog page",
+      "source": "Official JioHotstar (hotstar.com/in/studios/marvel)",
+      "source_type": "OFFICIAL",
+      "access_date": "2026-08-30",
+      "confidence": "OFFICIAL"
+    },
+    {
+      "id": "web:49",
+      "claim": "Loki Season 2 episode count, release dates, ending summary",
+      "source": "Wikipedia (Loki season 2)",
+      "source_type": "REFERENCE",
+      "access_date": "2026-08-30",
+      "confidence": "REPORTED"
+    },
+    {
+      "id": "web:50",
+      "claim": "Loki S2 finale ending explained: Sacred Timeline, Loom failure",
+      "source": "TVLine",
+      "source_type": "HIGH-QUALITY REPORTING",
+      "access_date": "2026-08-30",
+      "confidence": "REPORTED"
+    },
+    {
+      "id": "web:51",
+      "claim": "Loki S2 finale: Loki becomes Yggdrasil-embodiment, multiverse guardian",
+      "source": "GamesRadar",
+      "source_type": "HIGH-QUALITY REPORTING",
+      "access_date": "2026-08-30",
+      "confidence": "REPORTED"
+    },
+    {
+      "id": "web:54",
+      "claim": "India-focused pre-Doomsday watch recommendations, JioHotstar availability for several titles",
+      "source": "Times Now News",
+      "source_type": "HIGH-QUALITY REPORTING",
+      "access_date": "2026-08-30",
+      "confidence": "REPORTED"
+    },
+    {
+      "id": "web:55-59",
+      "claim": "Thunderbolts* JioHotstar digital release Aug 27 2025, languages (English, Hindi, Tamil, Telugu)",
+      "source": "Herzindagi, OTTPlay, News18, PanAsiaBiz, News24",
+      "source_type": "HIGH-QUALITY REPORTING",
+      "access_date": "2026-08-30",
+      "confidence": "REPORTED"
+    },
+    {
+      "id": "web:15",
+      "claim": "India theatrical release languages for Doomsday: English, Hindi, Tamil, Telugu",
+      "source": "Times of India",
+      "source_type": "HIGH-QUALITY REPORTING",
+      "access_date": "2026-08-30",
+      "confidence": "REPORTED"
+    }
+  ]
+}

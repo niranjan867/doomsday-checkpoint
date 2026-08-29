@@ -1,0 +1,95 @@
+{
+  "entries": [
+    {
+      "entity_id": "the-avengers",
+      "title": "The Avengers",
+      "has_post_credit_scene": true,
+      "has_mid_credit_scene": false,
+      "scene_relevance": "HIGH",
+      "leads_to": "Avengers: Infinity War",
+      "foreshadows": "Thanos as the overarching Infinity Saga villain",
+      "introduces": "Thanos (visually)"
+    },
+    {
+      "entity_id": "ant-man-and-the-wasp",
+      "title": "Ant-Man and the Wasp",
+      "has_post_credit_scene": true,
+      "has_mid_credit_scene": true,
+      "scene_relevance": "HIGH",
+      "leads_to": "Avengers: Endgame / Quantumania",
+      "foreshadows": "The Decimation / Snap trapping Scott Lang in the Quantum Realm",
+      "introduces": "Quantum Realm time vortex mechanics"
+    },
+    {
+      "entity_id": "avengers-infinity-war",
+      "title": "Avengers: Infinity War",
+      "has_post_credit_scene": true,
+      "has_mid_credit_scene": false,
+      "scene_relevance": "HIGH",
+      "leads_to": "Captain Marvel / Avengers: Endgame",
+      "foreshadows": "Captain Marvel's MCU arrival post-Snap",
+      "introduces": "Nick Fury's pager signal"
+    },
+    {
+      "entity_id": "black-panther",
+      "title": "Black Panther",
+      "has_post_credit_scene": false,
+      "has_mid_credit_scene": true,
+      "scene_relevance": "MODERATE",
+      "leads_to": "Avengers: Infinity War",
+      "foreshadows": "T'Challa's public reveal of Wakanda's technology to the world",
+      "introduces": "Wakanda's global outreach initiative"
+    },
+    {
+      "entity_id": "black-widow",
+      "title": "Black Widow",
+      "has_post_credit_scene": true,
+      "has_mid_credit_scene": false,
+      "scene_relevance": "HIGH",
+      "leads_to": "Hawkeye / Thunderbolts*",
+      "foreshadows": "Valentina Allegra de Fontaine targeting Hawkeye and recruiting Yelena for the New Avengers / Thunderbolts",
+      "introduces": "Valentina's ongoing black-ops recruitment initiative"
+    },
+    {
+      "entity_id": "shang-chi-and-the-legend-of-the-ten-rings",
+      "title": "Shang-Chi and the Legend of the Ten Rings",
+      "has_post_credit_scene": true,
+      "has_mid_credit_scene": true,
+      "scene_relevance": "MODERATE",
+      "leads_to": "Unresolved as of Doomsday's announced plot",
+      "foreshadows": "The Ten Rings' unknown signal/origin being investigated by Wong, Banner, and Captain Marvel",
+      "introduces": "The Ten Rings as a cosmic beacon of unknown significance"
+    },
+    {
+      "entity_id": "black-panther-wakanda-forever",
+      "title": "Black Panther: Wakanda Forever",
+      "has_post_credit_scene": true,
+      "has_mid_credit_scene": false,
+      "scene_relevance": "MODERATE",
+      "leads_to": "Shuri's ongoing arc as Black Panther",
+      "foreshadows": "Shuri's healing/succession as the new Black Panther, confirmed for Doomsday",
+      "introduces": "Prince T'Challa (emotional closure)"
+    },
+    {
+      "entity_id": "the-fantastic-four-first-steps",
+      "title": "The Fantastic Four: First Steps",
+      "has_post_credit_scene": true,
+      "has_mid_credit_scene": true,
+      "scene_relevance": "CRITICAL",
+      "leads_to": "Avengers: Doomsday",
+      "foreshadows": "Doctor Doom's interest in Franklin Richards and the coming conflict with the Fantastic Four",
+      "introduces": "Doctor Doom (visually, face concealed)"
+    },
+    {
+      "entity_id": "thunderbolts",
+      "title": "Thunderbolts*",
+      "has_post_credit_scene": true,
+      "has_mid_credit_scene": true,
+      "scene_relevance": "CRITICAL",
+      "leads_to": "Avengers: Doomsday / The Fantastic Four: First Steps (paired reveal)",
+      "foreshadows": "The Fantastic Four's arrival in Earth-616, and the New Avengers vs. Sam Wilson's Avengers rivalry",
+      "introduces": "The New Avengers team name; the trademark dispute subplot"
+    }
+  ],
+  "paired_reveal_note": "Thunderbolts* (released May 2025) and The Fantastic Four: First Steps (released July 2025) form a matched narrative pair: Thunderbolts' post-credits scene shows the Fantastic Four's ship arriving in Earth-616, while First Steps' mid-credits scene (set in the Fantastic Four's own timeline) shows Doom approaching Franklin Richards 4 years later. These are NOT strictly sequential — they depict parallel/converging timelines, and both were directed by the Russo brothers during Doomsday production."
+}

@@ -1,0 +1,68 @@
+{
+  "audit_timestamp": "2026-08-29T17:56:44.838Z",
+  "dataset_version": "2.0.0",
+  "total_entities": 86,
+  "canonical_checkpoints": 72,
+  "article_only_entities": 14,
+  "entity_breakdown": {
+    "movies": 50,
+    "tv_shows": 23,
+    "specials": 13
+  },
+  "importance_breakdown": {
+    "essential": 55,
+    "recommended": 12,
+    "optional": 4,
+    "unconfirmed": 1,
+    "article_only": 14
+  },
+  "duplicates": [],
+  "merged_records": [],
+  "missing_values": [],
+  "source_conflicts": [
+    {
+      "entity": "avengers-doomsday",
+      "field": "release_date",
+      "values": [
+        "2026-12-16",
+        "2026-12-18"
+      ],
+      "sources": [
+        "MCUWATCHLIST.docx (paragraph 2176)",
+        "roadtodoomsday-com-2026-08-29.csv"
+      ],
+      "status": "conflict",
+      "resolution": null,
+      "note": "Preserved international/US theatrical release date variance without silent overwrite"
+    }
+  ],
+  "invalid_references": [],
+  "incorrect_values": [],
+  "normalizations": [
+    {
+      "category": "importance",
+      "description": "Normalized importance values to canonical vocabulary: Essential, Recommended, Optional, Unconfirmed"
+    },
+    {
+      "category": "runtime",
+      "description": "Standardized runtime strings to consistent Xh Ym / X eps formats"
+    },
+    {
+      "category": "universe",
+      "description": "Normalized universe labels to MCU (Earth-616), Earth-828, Earth-10005, and null"
+    },
+    {
+      "category": "streaming",
+      "description": "Standardized India (IN) region context; preserved all uncertain URLs as null without fabrication"
+    },
+    {
+      "category": "title_logo",
+      "description": "Preserved title_logo as null across all entities to ensure robust typographic fallback rendering"
+    }
+  ],
+  "broken_assets": [],
+  "unverified_claims": [],
+  "streaming_issues": [],
+  "spoiler_issues": [],
+  "ordering_issues": []
+}

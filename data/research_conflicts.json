@@ -1,0 +1,34 @@
+{
+  "conflicts": [
+    {
+      "claim": "Avengers: Doomsday theatrical release date",
+      "source_A": "Marvel.com / Disney Movies / Wikipedia / most English-language reporting",
+      "value_A": "December 18, 2026",
+      "source_B": "journaldugeek.com (French outlet)",
+      "value_B": "December 16, 2026 (article states '16 décembre 2026')",
+      "preferred_value": "December 18, 2026",
+      "reason": "Overwhelming majority of Tier 1 (Marvel.com, Disney) and Tier 2 sources confirm December 18, 2026; the December 16 date appears to be a transcription variant, likely reflecting a regional release variance or reporting error rather than an official date change",
+      "confidence": "OFFICIAL"
+    },
+    {
+      "claim": "Doctor Doom's identity/origin relationship to Reed Richards",
+      "source_A": "GQ, Polygon (theorize Doom is a Reed Richards variant from the Fantastic Four timeline)",
+      "value_A": "Speculative theory: Doom = alternate Reed Richards",
+      "source_B": "Marvel Studios official statements",
+      "value_B": "No official confirmation of Doom's exact origin as of the D23 trailer (August 2026); only that Doom has 'a personal history' with the Fantastic Four per the special-look trailer",
+      "preferred_value": "UNKNOWN — treat the Reed-variant theory as SPECULATION, not fact",
+      "reason": "No Tier 1 source confirms this backstory; it is fan/press theorizing based on visual and narrative cues only",
+      "confidence": "SPECULATION"
+    },
+    {
+      "claim": "Exact narrative mechanism bringing Fox X-Men characters into Doomsday's MCU story",
+      "source_A": "Various fan/press outlets speculate TVA, multiverse collapse, or Krakoa-style incursion",
+      "value_A": "Multiple competing theories, none official",
+      "source_B": "Marvel Studios official marketing (trailers, press releases)",
+      "value_B": "No mechanism explained; only that the characters/actors are confirmed cast members",
+      "preferred_value": "UNKNOWN",
+      "reason": "Marvel has deliberately withheld plot mechanics ahead of release; treating any specific theory as fact would misrepresent the current evidence",
+      "confidence": "UNKNOWN"
+    }
+  ]
+}

@@ -1,0 +1,314 @@
+{
+  "characters": [
+    {
+      "id": "doctor-doom",
+      "name": "Doctor Doom / Victor von Doom",
+      "universe": "Fantastic Four Universe",
+      "origin_title": "The Fantastic Four: First Steps",
+      "origin_entity_id": "the-fantastic-four-first-steps",
+      "key_appearances": [
+        "the-fantastic-four-first-steps"
+      ],
+      "doomsday_role": "Primary antagonist of Avengers: Doomsday",
+      "evidence_type": "OFFICIAL",
+      "confidence": "CONFIRMED",
+      "speculation_notes": "Fan and press theories suggesting Doom is an alternate Reed Richards variant are strictly SPECULATION; official statements only confirm a personal history with the Fantastic Four."
+    },
+    {
+      "id": "reed-richards",
+      "name": "Reed Richards / Mister Fantastic",
+      "universe": "Fantastic Four Universe",
+      "origin_title": "The Fantastic Four: First Steps",
+      "origin_entity_id": "the-fantastic-four-first-steps",
+      "key_appearances": [
+        "the-fantastic-four-first-steps"
+      ],
+      "doomsday_role": "Core Fantastic Four protagonist confronting Doctor Doom",
+      "evidence_type": "OFFICIAL",
+      "confidence": "CONFIRMED",
+      "speculation_notes": null
+    },
+    {
+      "id": "sue-storm",
+      "name": "Sue Storm / Invisible Woman",
+      "universe": "Fantastic Four Universe",
+      "origin_title": "The Fantastic Four: First Steps",
+      "origin_entity_id": "the-fantastic-four-first-steps",
+      "key_appearances": [
+        "the-fantastic-four-first-steps"
+      ],
+      "doomsday_role": "Core Fantastic Four protagonist; mother of Franklin Richards",
+      "evidence_type": "OFFICIAL",
+      "confidence": "CONFIRMED",
+      "speculation_notes": null
+    },
+    {
+      "id": "franklin-richards",
+      "name": "Franklin Richards",
+      "universe": "Fantastic Four Universe",
+      "origin_title": "The Fantastic Four: First Steps",
+      "origin_entity_id": "the-fantastic-four-first-steps",
+      "key_appearances": [
+        "the-fantastic-four-first-steps"
+      ],
+      "doomsday_role": "Target of Doctor Doom's interest in the First Steps mid-credits scene",
+      "evidence_type": "REPORTED",
+      "confidence": "ESTABLISHED",
+      "speculation_notes": null
+    },
+    {
+      "id": "valentina-allegra-de-fontaine",
+      "name": "Contessa Valentina Allegra de Fontaine",
+      "universe": "MCU / Earth-616",
+      "origin_title": "The Falcon and the Winter Soldier",
+      "origin_entity_id": "the-falcon-and-the-winter-soldier",
+      "key_appearances": [
+        "the-falcon-and-the-winter-soldier",
+        "black-widow",
+        "black-panther-wakanda-forever",
+        "thunderbolts"
+      ],
+      "doomsday_role": "Director of the CIA; orchestrator of the Thunderbolts / New Avengers team",
+      "evidence_type": "OFFICIAL",
+      "confidence": "CONFIRMED",
+      "speculation_notes": null
+    },
+    {
+      "id": "loki",
+      "name": "Loki / God of Stories",
+      "universe": "TVA-observed Multiverse / Sacred Timeline branches",
+      "origin_title": "Thor / The Avengers / Loki (Season 1)",
+      "origin_entity_id": "loki-season-1",
+      "key_appearances": [
+        "the-avengers",
+        "thor-ragnarok",
+        "avengers-infinity-war",
+        "avengers-endgame",
+        "loki-season-1",
+        "loki-season-2"
+      ],
+      "doomsday_role": "Multiverse anchor holding timeline branches as Yggdrasil",
+      "evidence_type": "OFFICIAL",
+      "confidence": "CONFIRMED",
+      "speculation_notes": null
+    },
+    {
+      "id": "sam-wilson",
+      "name": "Sam Wilson / Captain America",
+      "universe": "MCU / Earth-616",
+      "origin_title": "Captain America: The Winter Soldier",
+      "origin_entity_id": "captain-america-the-winter-soldier",
+      "key_appearances": [
+        "captain-america-the-winter-soldier",
+        "captain-america-civil-war",
+        "avengers-infinity-war",
+        "avengers-endgame",
+        "the-falcon-and-the-winter-soldier",
+        "captain-america-brave-new-world"
+      ],
+      "doomsday_role": "Leader of Earth-616 Avengers facing global crisis and New Avengers dispute",
+      "evidence_type": "OFFICIAL",
+      "confidence": "CONFIRMED",
+      "speculation_notes": null
+    },
+    {
+      "id": "bucky-barnes",
+      "name": "Bucky Barnes / Winter Soldier",
+      "universe": "MCU / Earth-616",
+      "origin_title": "Captain America: The First Avenger",
+      "origin_entity_id": "captain-america-the-first-avenger",
+      "key_appearances": [
+        "captain-america-the-first-avenger",
+        "captain-america-the-winter-soldier",
+        "captain-america-civil-war",
+        "the-falcon-and-the-winter-soldier",
+        "thunderbolts"
+      ],
+      "doomsday_role": "Congressional leader / Thunderbolts operative in Earth-616",
+      "evidence_type": "OFFICIAL",
+      "confidence": "CONFIRMED",
+      "speculation_notes": null
+    },
+    {
+      "id": "shuri",
+      "name": "Shuri / Black Panther",
+      "universe": "MCU / Earth-616",
+      "origin_title": "Black Panther",
+      "origin_entity_id": "black-panther",
+      "key_appearances": [
+        "black-panther",
+        "avengers-infinity-war",
+        "avengers-endgame",
+        "black-panther-wakanda-forever"
+      ],
+      "doomsday_role": "Wakandan sovereign and Black Panther confirmed for Doomsday cast",
+      "evidence_type": "OFFICIAL",
+      "confidence": "CONFIRMED",
+      "speculation_notes": null
+    },
+    {
+      "id": "namor",
+      "name": "Namor the Sub-Mariner / K'uk'ulkan",
+      "universe": "MCU / Earth-616",
+      "origin_title": "Black Panther: Wakanda Forever",
+      "origin_entity_id": "black-panther-wakanda-forever",
+      "key_appearances": [
+        "black-panther-wakanda-forever"
+      ],
+      "doomsday_role": "Talokan ruler confirmed for Doomsday cast",
+      "evidence_type": "OFFICIAL",
+      "confidence": "CONFIRMED",
+      "speculation_notes": null
+    },
+    {
+      "id": "shang-chi",
+      "name": "Shang-Chi / Shaun",
+      "universe": "MCU / Earth-616",
+      "origin_title": "Shang-Chi and the Legend of the Ten Rings",
+      "origin_entity_id": "shang-chi-and-the-legend-of-the-ten-rings",
+      "key_appearances": [
+        "shang-chi-and-the-legend-of-the-ten-rings"
+      ],
+      "doomsday_role": "Ten Rings wielder confirmed for Doomsday cast",
+      "evidence_type": "OFFICIAL",
+      "confidence": "CONFIRMED",
+      "speculation_notes": null
+    },
+    {
+      "id": "yelena-belova",
+      "name": "Yelena Belova / White Widow",
+      "universe": "MCU / Earth-616",
+      "origin_title": "Black Widow",
+      "origin_entity_id": "black-widow",
+      "key_appearances": [
+        "black-widow",
+        "hawkeye",
+        "thunderbolts"
+      ],
+      "doomsday_role": "Thunderbolts / New Avengers operative during Earth-616 incursion",
+      "evidence_type": "OFFICIAL",
+      "confidence": "CONFIRMED",
+      "speculation_notes": null
+    },
+    {
+      "id": "john-walker",
+      "name": "John Walker / U.S. Agent",
+      "universe": "MCU / Earth-616",
+      "origin_title": "The Falcon and the Winter Soldier",
+      "origin_entity_id": "the-falcon-and-the-winter-soldier",
+      "key_appearances": [
+        "the-falcon-and-the-winter-soldier",
+        "thunderbolts"
+      ],
+      "doomsday_role": "Thunderbolts operative recruited by Valentina for the New Avengers roster",
+      "evidence_type": "OFFICIAL",
+      "confidence": "CONFIRMED",
+      "speculation_notes": null
+    },
+    {
+      "id": "professor-x",
+      "name": "Charles Xavier / Professor X",
+      "universe": "Fox X-Men Universe (legacy 20th Century Fox continuity)",
+      "origin_title": "X-Men (2000)",
+      "origin_entity_id": "x-men",
+      "key_appearances": [
+        "x-men",
+        "x2-x-men-united",
+        "x-men-days-of-future-past",
+        "doctor-strange-in-the-multiverse-of-madness"
+      ],
+      "doomsday_role": "Legacy X-Men leader confirmed for Doomsday cast",
+      "evidence_type": "REPORTED",
+      "confidence": "CONFIRMED",
+      "speculation_notes": "Exact narrative mechanism bringing Fox characters into MCU is UNKNOWN."
+    },
+    {
+      "id": "magneto",
+      "name": "Erik Lehnsherr / Magneto",
+      "universe": "Fox X-Men Universe (legacy 20th Century Fox continuity)",
+      "origin_title": "X-Men (2000)",
+      "origin_entity_id": "x-men",
+      "key_appearances": [
+        "x-men",
+        "x2-x-men-united",
+        "x-men-days-of-future-past"
+      ],
+      "doomsday_role": "Legacy mutant leader confirmed for Doomsday cast",
+      "evidence_type": "REPORTED",
+      "confidence": "CONFIRMED",
+      "speculation_notes": "Exact narrative mechanism bringing Fox characters into MCU is UNKNOWN."
+    },
+    {
+      "id": "cyclops",
+      "name": "Scott Summers / Cyclops",
+      "universe": "Fox X-Men Universe (legacy 20th Century Fox continuity)",
+      "origin_title": "X-Men (2000)",
+      "origin_entity_id": "x-men",
+      "key_appearances": [
+        "x-men",
+        "x2-x-men-united"
+      ],
+      "doomsday_role": "Legacy X-Men field leader confirmed for Doomsday cast",
+      "evidence_type": "REPORTED",
+      "confidence": "CONFIRMED",
+      "speculation_notes": null
+    },
+    {
+      "id": "mystique",
+      "name": "Raven Darkhölme / Mystique",
+      "universe": "Fox X-Men Universe (legacy 20th Century Fox continuity)",
+      "origin_title": "X-Men (2000)",
+      "origin_entity_id": "x-men",
+      "key_appearances": [
+        "x-men",
+        "x2-x-men-united"
+      ],
+      "doomsday_role": "Legacy mutant shapeshifter confirmed for Doomsday cast",
+      "evidence_type": "REPORTED",
+      "confidence": "CONFIRMED",
+      "speculation_notes": null
+    },
+    {
+      "id": "beast",
+      "name": "Hank McCoy / Beast",
+      "universe": "Fox X-Men Universe (legacy 20th Century Fox continuity)",
+      "origin_title": "X-Men: The Last Stand / The Marvels",
+      "origin_entity_id": "the-marvels",
+      "key_appearances": [
+        "the-marvels"
+      ],
+      "doomsday_role": "X-Men scientist confirmed across Fox legacy and The Marvels mid-credits",
+      "evidence_type": "OFFICIAL",
+      "confidence": "CONFIRMED",
+      "speculation_notes": null
+    },
+    {
+      "id": "nightcrawler",
+      "name": "Kurt Wagner / Nightcrawler",
+      "universe": "Fox X-Men Universe (legacy 20th Century Fox continuity)",
+      "origin_title": "X2: X-Men United",
+      "origin_entity_id": "x2-x-men-united",
+      "key_appearances": [
+        "x2-x-men-united"
+      ],
+      "doomsday_role": "Legacy mutant teleporter confirmed for Doomsday cast",
+      "evidence_type": "REPORTED",
+      "confidence": "CONFIRMED",
+      "speculation_notes": null
+    },
+    {
+      "id": "gambit",
+      "name": "Remy LeBeau / Gambit",
+      "universe": "Fox X-Men Universe (legacy 20th Century Fox continuity)",
+      "origin_title": "Deadpool & Wolverine",
+      "origin_entity_id": "deadpool-and-wolverine",
+      "key_appearances": [
+        "deadpool-and-wolverine"
+      ],
+      "doomsday_role": "Kinetic card wielder confirmed in Deadpool & Wolverine and Doomsday cast",
+      "evidence_type": "REPORTED",
+      "confidence": "CONFIRMED",
+      "speculation_notes": null
+    }
+  ]
+}

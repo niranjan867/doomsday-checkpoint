@@ -1,0 +1,26 @@
+{
+  "audit_performed": "2026-08-30",
+  "checks": {
+    "duplicate_titles": "None found — each title appears once with normalized naming (e.g., 'Loki (Season 1)' and 'Loki (Season 2)' treated as distinct checkpoints of the same series, not duplicates)",
+    "release_date_accuracy": "Cross-checked against Marvel.com, Disney Movies, and Wikipedia for all core titles; Avengers: Doomsday confirmed Dec 18, 2026 across Tier 1 sources; one French-language outlet listed Dec 16, flagged as a conflict rather than silently corrected",
+    "episode_counts": "Loki Season 2 confirmed at 6 episodes per Wikipedia and cross-referenced recap coverage; other TV series episode counts were NOT independently verified in this research pass due to scope constraints and are marked accordingly where included",
+    "universe_assignments": "No numeric Earth-### designations invented; only Marvel-confirmed universe names used (Earth-616, Fantastic Four Universe as a distinct timeline, Fox X-Men Universe)",
+    "canon_claims": "Netflix-era street-level shows are NOT classified as MCU canon except Daredevil: Born Again, which retroactively confirms Earth-616 status for Daredevil/Kingpin; this distinction is preserved rather than flattening all Marvel TV into one continuity",
+    "doomsday_connections_unsupported": "Rumored/speculative claims (Doom as Reed variant, exact X-Men crossover mechanism) are explicitly separated into a speculation category and never merged into confirmed connections",
+    "rumors_as_facts_check": "PASSED — all speculative claims are labeled SPECULATION or UNKNOWN in dedicated fields, never presented as OFFICIAL or FACT",
+    "outdated_information_check": "Release dates and cast lists checked against August 2026 sources (D23 Expo, most recent trailers); older 2024-2025 dated-delay information (e.g., Kang Dynasty renaming, prior 2025 release dates) is presented as historical context, not current fact",
+    "streaming_link_accuracy": "Only URLs fetched directly from official JioHotstar pages are presented as verified; secondary-report-only claims (e.g., Spider-Man: No Way Home, Loki JioHotstar availability) are flagged as unverified rather than given fabricated URLs",
+    "india_availability_check": "Distinguished AVAILABLE (directly observed on JioHotstar listing pages) from UNKNOWN (reported by secondary sources but not independently fetched)",
+    "spoiler_leakage_check": "All major twists (Doom's mid-credits appearance, Loki S2 ending, Wanda's Illuminati killing spree, No Way Home's ending) are placed exclusively in 'spoiler' fields, never in 'watch_for' fields",
+    "broken_prerequisites_check": "No title lists a prerequisite that doesn't itself appear in the master dataset",
+    "impossible_watch_order_check": "Doomsday order numbering only applied to main-road titles; no circular or contradictory sequencing found",
+    "missing_post_credit_dependencies_check": "The Fantastic Four: First Steps <-> Thunderbolts* paired reveal is explicitly documented as a matched, non-strictly-sequential pair rather than a simple linear dependency",
+    "inconsistent_character_names_check": "Character names normalized to 'Full Name/Alias' format consistently (e.g., 'Sam Wilson/Captain America') across all records"
+  },
+  "known_limitations": [
+    "Netflix/street-level Marvel India streaming availability was not independently verified for most titles beyond Daredevil: Born Again's canon status; marked UNKNOWN rather than guessed",
+    "Full episode-by-episode breakdowns for WandaVision, Hawkeye, Ms. Marvel, She-Hulk, Secret Invasion, Echo, Agatha All Along, and Ironheart were not exhaustively researched in this pass because none showed strong confirmed Doomsday-specific relevance in available reporting; they are captured only at the 'optional context' level, not itemized in full per the requested schema, to avoid fabricating unverified detail",
+    "Doctor Strange, Guardians of the Galaxy, Ant-Man, Eternals, and Captain Marvel franchises were reviewed for relevance but not given full individual records, since no confirmed Doomsday-specific connective tissue was found beyond general 'prior Avengers precedent' — consistent with the instruction not to force connections",
+    "Chronological (in-universe) ordering for the full 39-title set was approximated at the 'core' level rather than scene-by-scene, since exact in-story dating for every title (especially Fox X-Men prequel-timeline films) requires deeper canon research than the available sources supported in this pass"
+  ]
+}

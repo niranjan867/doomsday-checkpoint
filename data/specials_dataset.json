@@ -1,0 +1,748 @@
+{
+  "dataset": "DOOMSDAY CHECKPOINT — Specials Dataset",
+  "description": "All 13 Marvel one-shot and special presentation entities (12 canonical + 1 article-only) synchronized with master dataset",
+  "updated_at": "2026-08-29T17:59:08.226Z",
+  "items": [
+    {
+      "id": "iron-man-2-post-credit-scene",
+      "order": 7,
+      "title": "Iron Man 2 (Post-Credit Scene)",
+      "subtitle": null,
+      "type": "Special",
+      "release": {
+        "year": null,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "special"
+      },
+      "section": "Phase 1 — The Avengers Initiative (2008–2012)",
+      "guidance": {
+        "watch_for": null,
+        "watch_instruction": null
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": false,
+        "connection": null,
+        "spoiler": {
+          "contains_spoiler": false,
+          "label": "Contains spoilers — tap to reveal",
+          "content": null
+        }
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 88",
+          "capture": "72-item watchlist"
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": null
+      }
+    },
+    {
+      "id": "thor-post-credit-scene",
+      "order": 9,
+      "title": "Thor (Post-Credit Scene)",
+      "subtitle": null,
+      "type": "Special",
+      "release": {
+        "year": null,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "special"
+      },
+      "section": "Phase 1 — The Avengers Initiative (2008–2012)",
+      "guidance": {
+        "watch_for": null,
+        "watch_instruction": null
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": false,
+        "connection": null,
+        "spoiler": {
+          "contains_spoiler": false,
+          "label": "Contains spoilers — tap to reveal",
+          "content": null
+        }
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 101",
+          "capture": "72-item watchlist"
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": null
+      }
+    },
+    {
+      "id": "captain-america-the-first-avenger-credits",
+      "order": 12,
+      "title": "Captain America: The First Avenger (Credits)",
+      "subtitle": null,
+      "type": "Special",
+      "release": {
+        "year": null,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "special"
+      },
+      "section": "Phase 1 — The Avengers Initiative (2008–2012)",
+      "guidance": {
+        "watch_for": null,
+        "watch_instruction": null
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": false,
+        "connection": null,
+        "spoiler": {
+          "contains_spoiler": false,
+          "label": "Contains spoilers — tap to reveal",
+          "content": null
+        }
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 122",
+          "capture": "72-item watchlist"
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": null
+      }
+    },
+    {
+      "id": "marvel-one-shot-agent-carter",
+      "order": 16,
+      "title": "Marvel One-Shot: Agent Carter",
+      "subtitle": null,
+      "type": "Special",
+      "release": {
+        "year": null,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "special"
+      },
+      "section": "Legacy: WWII & The 1940s",
+      "guidance": {
+        "watch_for": null,
+        "watch_instruction": "Short film"
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": false,
+        "connection": null,
+        "spoiler": {
+          "contains_spoiler": false,
+          "label": "Contains spoilers — tap to reveal",
+          "content": null
+        }
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 150",
+          "capture": "72-item watchlist"
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 7.2
+      }
+    },
+    {
+      "id": "team-thor",
+      "order": 28,
+      "title": "Team Thor",
+      "subtitle": null,
+      "type": "Special",
+      "release": {
+        "year": null,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Optional",
+        "required": false,
+        "category": "special"
+      },
+      "section": "Phase 3B — Civil War & Fallout (2016–2018)",
+      "guidance": {
+        "watch_for": null,
+        "watch_instruction": "Comedic mockumentary — skippable."
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": false,
+        "connection": null,
+        "spoiler": {
+          "contains_spoiler": false,
+          "label": "Contains spoilers — tap to reveal",
+          "content": null
+        }
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 241",
+          "capture": "72-item watchlist"
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 7.2
+      }
+    },
+    {
+      "id": "team-thor-part-2",
+      "order": 30,
+      "title": "Team Thor: Part 2",
+      "subtitle": null,
+      "type": "Special",
+      "release": {
+        "year": null,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Optional",
+        "required": false,
+        "category": "special"
+      },
+      "section": "Phase 3B — Civil War & Fallout (2016–2018)",
+      "guidance": {
+        "watch_for": null,
+        "watch_instruction": "Comedic short — skippable."
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": false,
+        "connection": null,
+        "spoiler": {
+          "contains_spoiler": false,
+          "label": "Contains spoilers — tap to reveal",
+          "content": null
+        }
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 255",
+          "capture": "72-item watchlist"
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 6.9
+      }
+    },
+    {
+      "id": "team-darryl",
+      "order": 36,
+      "title": "Team Darryl",
+      "subtitle": null,
+      "type": "Special",
+      "release": {
+        "year": null,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Optional",
+        "required": false,
+        "category": "special"
+      },
+      "section": "Phase 3C — Ragnarok & The Infinity War (2018)",
+      "guidance": {
+        "watch_for": null,
+        "watch_instruction": "Comedic short — skippable."
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": false,
+        "connection": null,
+        "spoiler": {
+          "contains_spoiler": false,
+          "label": "Contains spoilers — tap to reveal",
+          "content": null
+        }
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 298",
+          "capture": "72-item watchlist"
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 6.2
+      }
+    },
+    {
+      "id": "ant-man-and-the-wasp-all-credits",
+      "order": 40,
+      "title": "Ant-Man & The Wasp (All Credits)",
+      "subtitle": null,
+      "type": "Special",
+      "release": {
+        "year": null,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "special"
+      },
+      "section": "Phase 3C — Ragnarok & The Infinity War (2018)",
+      "guidance": {
+        "watch_for": null,
+        "watch_instruction": null
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": false,
+        "connection": null,
+        "spoiler": {
+          "contains_spoiler": false,
+          "label": "Contains spoilers — tap to reveal",
+          "content": null
+        }
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 327",
+          "capture": "72-item watchlist"
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": null
+      }
+    },
+    {
+      "id": "captain-marvel-post-credits-scene",
+      "order": 42,
+      "title": "Captain Marvel (Post-Credits Scene)",
+      "subtitle": null,
+      "type": "Special",
+      "release": {
+        "year": null,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "special"
+      },
+      "section": "Phase 3C — Ragnarok & The Infinity War (2018)",
+      "guidance": {
+        "watch_for": null,
+        "watch_instruction": null
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": false,
+        "connection": null,
+        "spoiler": {
+          "contains_spoiler": false,
+          "label": "Contains spoilers — tap to reveal",
+          "content": null
+        }
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 341",
+          "capture": "72-item watchlist"
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": null
+      }
+    },
+    {
+      "id": "peters-to-do-list",
+      "order": 46,
+      "title": "Peter's To-Do List",
+      "subtitle": null,
+      "type": "Special",
+      "release": {
+        "year": null,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "special"
+      },
+      "section": "Phase 4 — The Blip & New Beginnings (2023)",
+      "guidance": {
+        "watch_for": null,
+        "watch_instruction": "Watch right before Far From Home."
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": false,
+        "connection": null,
+        "spoiler": {
+          "contains_spoiler": false,
+          "label": "Contains spoilers — tap to reveal",
+          "content": null
+        }
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 370",
+          "capture": "72-item watchlist"
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 7
+      }
+    },
+    {
+      "id": "wandavision-ep-9-mid-credit-scene",
+      "order": 48,
+      "title": "WandaVision (Ep 9 Mid-Credit Scene)",
+      "subtitle": null,
+      "type": "Special",
+      "release": {
+        "year": null,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "special"
+      },
+      "section": "Phase 4 — The Blip & New Beginnings (2023)",
+      "guidance": {
+        "watch_for": null,
+        "watch_instruction": null
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": false,
+        "connection": null,
+        "spoiler": {
+          "contains_spoiler": false,
+          "label": "Contains spoilers — tap to reveal",
+          "content": null
+        }
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 384",
+          "capture": "72-item watchlist"
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": null
+      }
+    },
+    {
+      "id": "black-widow-post-credit-scene",
+      "order": 52,
+      "title": "Black Widow (Post-Credit Scene)",
+      "subtitle": null,
+      "type": "Special",
+      "release": {
+        "year": null,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "special"
+      },
+      "section": "Phase 4 — Multiverse Opens (2024–2025)",
+      "guidance": {
+        "watch_for": null,
+        "watch_instruction": null
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": false,
+        "connection": null,
+        "spoiler": {
+          "contains_spoiler": false,
+          "label": "Contains spoilers — tap to reveal",
+          "content": null
+        }
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 412",
+          "capture": "72-item watchlist"
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": null
+      }
+    },
+    {
+      "id": "the-punisher-one-last-kill",
+      "order": null,
+      "title": "The Punisher: One Last Kill",
+      "subtitle": null,
+      "type": "Special",
+      "release": {
+        "year": 2026,
+        "date": "May 12, 2026",
+        "period": "May 2026",
+        "status": "Special"
+      },
+      "watch": {
+        "duration": null,
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": null,
+        "required": null,
+        "category": "special"
+      },
+      "section": null,
+      "guidance": {
+        "watch_for": "A one-shot special: Frank Castle, one last job, feature length. Bridges the Netflix legacy into the current slate.",
+        "watch_instruction": "Frank Castle appears in Brand New Day."
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "A special that positions Frank Castle exactly where he needs to be for his appearance in Brand New Day.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "This special, along with the Born Again seasons, brings Frank's story fully up to date so his arc lines up with what Brand New Day needs from him."
+        },
+        "confidence": "established",
+        "connection_type": [
+          "character",
+          "prerequisite"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 62",
+          "road_order": 61
+        },
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "MCUWATCHLIST.docx paragraph 567-569",
+          "source_kind": "upcoming_release_block"
+        }
+      ],
+      "source_metadata": {
+        "release_metadata_raw": "May 2026 special",
+        "status_note": "Frank Castle appears in Brand New Day."
+      },
+      "source_orders": {
+        "road_to_doomsday": 61
+      }
+    }
+  ]
+}

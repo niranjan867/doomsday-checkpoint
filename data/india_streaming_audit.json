@@ -1,0 +1,49 @@
+{
+  "canonical_checkpoints": 72,
+  "article_only_checkpoints": 14,
+  "total_entities": 86,
+  "supplied_entries": 50,
+  "matched_entities": 54,
+  "verified_jiohotstar_canonical": 45,
+  "verified_jiohotstar_article": 5,
+  "verified_jiohotstar_total": 50,
+  "upcoming_canonical": 2,
+  "unverified_canonical": 25,
+  "unverified_article": 9,
+  "invalid_urls": 0,
+  "duplicate_urls": [
+    {
+      "url": "https://www.hotstar.com/in/shows/hawkeye/1260073683",
+      "entity_ids": [
+        "hawkeye-season-1",
+        "hawkeye-episodes-1-5",
+        "hawkeye-episode-6-finale"
+      ],
+      "is_series_reuse": true
+    },
+    {
+      "url": "https://www.hotstar.com/in/shows/marvels-daredevil/1260091261",
+      "entity_ids": [
+        "daredevil-season-1",
+        "daredevil-season-2",
+        "daredevil-season-3"
+      ],
+      "is_series_reuse": true
+    }
+  ],
+  "potential_mismatches": [],
+  "manual_review_items": [
+    {
+      "id": "logan",
+      "order": 31,
+      "title": "Logan",
+      "reason": "Needs independent India URL verification"
+    },
+    {
+      "id": "ant-man-and-the-wasp-quantumania",
+      "order": 61,
+      "title": "Ant-Man and the Wasp: Quantumania",
+      "reason": "Needs independent India URL verification"
+    }
+  ]
+}

@@ -1,0 +1,1503 @@
+{
+  "dataset": "DOOMSDAY CHECKPOINT — TV Shows Dataset",
+  "description": "All 23 Marvel television series and seasonal checkpoint entities (11 canonical + 12 article-only) synchronized with master dataset",
+  "updated_at": "2026-08-29T17:59:08.225Z",
+  "items": [
+    {
+      "id": "agent-carter-season-1",
+      "order": 21,
+      "title": "Agent Carter (Season 1)",
+      "subtitle": "Season 1",
+      "type": "TV Show",
+      "release": {
+        "year": null,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "main"
+      },
+      "section": "Legacy: WWII & The 1940s",
+      "guidance": {
+        "watch_for": null,
+        "watch_instruction": "8 eps · 1946"
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": false,
+        "connection": null,
+        "spoiler": {
+          "contains_spoiler": false,
+          "label": "Contains spoilers — tap to reveal",
+          "content": null
+        }
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 186",
+          "capture": "72-item watchlist"
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 7.5
+      }
+    },
+    {
+      "id": "agent-carter-season-2",
+      "order": 24,
+      "title": "Agent Carter (Season 2)",
+      "subtitle": "Season 2",
+      "type": "TV Show",
+      "release": {
+        "year": null,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "main"
+      },
+      "section": "Legacy: WWII & The 1940s",
+      "guidance": {
+        "watch_for": null,
+        "watch_instruction": "10 eps · 1947 Hollywood"
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": false,
+        "connection": null,
+        "spoiler": {
+          "contains_spoiler": false,
+          "label": "Contains spoilers — tap to reveal",
+          "content": null
+        }
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 207",
+          "capture": "72-item watchlist"
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 7.5
+      }
+    },
+    {
+      "id": "wandavision-season-1",
+      "order": 47,
+      "title": "WandaVision (Season 1)",
+      "subtitle": "Season 1",
+      "type": "TV Show",
+      "release": {
+        "year": null,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": 9,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "main"
+      },
+      "section": "Phase 4 — The Blip & New Beginnings (2023)",
+      "guidance": {
+        "watch_for": "The sitcom formats aren't a gimmick — they're the text. Ask why each era looks the way it does. Two credit scenes, both required.",
+        "watch_instruction": "9 eps · STOP before Ep 9 mid-credit scene — it's a separate entry below"
+      },
+      "stop_point": {
+        "enabled": true,
+        "instruction": "9 eps · STOP before Ep 9 mid-credit scene — it's a separate entry below",
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "Explores Wanda's grief through a sitcom-style format that eventually connects to her next major appearance and to other future shows.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "Wanda's arc at the end of this season leads directly into Multiverse of Madness. Agatha gets her own spin-off series, and Wanda's son Billy is reportedly part of the storyline VisionQuest picks up. Monica Rambeau's ending here also connects to The Marvels."
+        },
+        "confidence": "relevant",
+        "connection_type": [
+          "character",
+          "setup"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 377",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 32",
+          "road_order": 31
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 8.2
+      },
+      "source_variants": [
+        "WandaVision"
+      ],
+      "source_orders": {
+        "road_to_doomsday": 31
+      }
+    },
+    {
+      "id": "the-falcon-and-the-winter-soldier-season-1",
+      "order": 49,
+      "title": "The Falcon and the Winter Soldier (Season 1)",
+      "subtitle": "Season 1",
+      "type": "TV Show",
+      "release": {
+        "year": null,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": 6,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "main"
+      },
+      "section": "Phase 4 — The Blip & New Beginnings (2023)",
+      "guidance": {
+        "watch_for": "A show about what the shield means. Watch John Walker carefully — your feelings about him will get complicated, and he's on the Doomsday roster.",
+        "watch_instruction": "6 eps"
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "Follows Sam Wilson as he decides what it means to carry Captain America's shield, introducing a rival Captain America along the way.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "Sam eventually becomes the MCU's Captain America, continuing into Brave New World and toward Doomsday. John Walker becomes U.S. Agent and later joins Thunderbolts. Valentina, introduced here, begins recruiting other characters throughout the timeline."
+        },
+        "confidence": "established",
+        "connection_type": [
+          "character",
+          "setup"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 391",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 33",
+          "road_order": 32
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 7.6
+      },
+      "source_variants": [
+        "The Falcon and the Winter Soldier"
+      ],
+      "source_orders": {
+        "road_to_doomsday": 32
+      }
+    },
+    {
+      "id": "loki-season-1",
+      "order": 50,
+      "title": "Loki (Season 1)",
+      "subtitle": "Season 1",
+      "type": "TV Show",
+      "release": {
+        "year": null,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": 6,
+        "watch_range": {
+          "start_episode": 1,
+          "end_episode": null
+        }
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "main"
+      },
+      "section": "Phase 4 — The Blip & New Beginnings (2023)",
+      "guidance": {
+        "watch_for": "Learn the TVA's rules — they're the constitution of the Multiverse Saga. Everything about He Who Remains' final choice matters enormously. Then STOP: Season 2 is step 47.",
+        "watch_instruction": "6 eps"
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "Establishes the rules of time and the multiverse that later films depend on, following a variant of Loki through a bureaucratic time agency.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "The season finale is what makes the branching multiverse seen in No Way Home and Multiverse of Madness possible in the first place. Concepts introduced here, like variants and the sacred timeline, become the foundation for the rest of the Multiverse Saga."
+        },
+        "confidence": "established",
+        "connection_type": [
+          "multiverse",
+          "setup"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 398",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 34",
+          "road_order": 33
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 8.2
+      },
+      "source_variants": [
+        "Loki Season 1 — ONLY"
+      ],
+      "source_orders": {
+        "road_to_doomsday": 33
+      }
+    },
+    {
+      "id": "what-if-season-1",
+      "order": 53,
+      "title": "What If...? (Season 1)",
+      "subtitle": "Season 1",
+      "type": "TV Show",
+      "release": {
+        "year": null,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": 9,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Optional",
+        "required": false,
+        "category": "main"
+      },
+      "section": "Phase 4 — The Blip & New Beginnings (2023)",
+      "guidance": {
+        "watch_for": "Animated anthology; episodes stand alone. Episode 4 (Doctor Strange) is the one that's required homework.",
+        "watch_instruction": "9 eps"
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "An anthology series exploring alternate versions of MCU events, with one episode standing out as genuinely useful setup.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "The Doctor Strange episode introduces concepts that carry directly into Multiverse of Madness, including a version of Strange whose choices go badly wrong. The Watcher's rule about non-interference also becomes its own recurring idea."
+        },
+        "confidence": "relevant",
+        "connection_type": [
+          "multiverse",
+          "optional_context"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 419",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 35",
+          "road_order": 34
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 8
+      },
+      "source_variants": [
+        "What If...? Season 1"
+      ],
+      "source_orders": {
+        "road_to_doomsday": 34
+      }
+    },
+    {
+      "id": "hawkeye-season-1",
+      "order": 55,
+      "title": "Hawkeye (Season 1)",
+      "subtitle": "Season 1",
+      "type": "TV Show",
+      "release": {
+        "year": null,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": null,
+        "watch_range": {
+          "start_episode": 1,
+          "end_episode": 5
+        }
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "main"
+      },
+      "section": "Phase 4 — Multiverse Opens (2024–2025)",
+      "guidance": {
+        "watch_for": null,
+        "watch_instruction": "6 eps"
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": false,
+        "connection": null,
+        "spoiler": {
+          "contains_spoiler": false,
+          "label": "Contains spoilers — tap to reveal",
+          "content": null
+        }
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 433",
+          "capture": "72-item watchlist"
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 7.8
+      }
+    },
+    {
+      "id": "ms-marvel-season-1",
+      "order": 58,
+      "title": "Ms. Marvel (Season 1)",
+      "subtitle": "Season 1",
+      "type": "TV Show",
+      "release": {
+        "year": null,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": 6,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Recommended",
+        "required": null,
+        "category": "main"
+      },
+      "section": "Phase 4 — Multiverse Opens (2024–2025)",
+      "guidance": {
+        "watch_for": "The most charming show on the list. Note what the bangle does, and what the final scene says about Kamala's genes. The mid-credits scene is REQUIRED for The Marvels.",
+        "watch_instruction": "6 eps"
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "Introduces Kamala Khan and her powers, setting up her role in a future team-up film.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "Kamala co-leads The Marvels, and the mid-credits scene here is the direct setup for that film. Her enthusiasm as a fan also positions her as someone who starts recruiting the next generation of young heroes."
+        },
+        "confidence": "established",
+        "connection_type": [
+          "character",
+          "post_credit"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 454",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 41",
+          "road_order": 40
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 6.3
+      },
+      "source_variants": [
+        "Ms. Marvel"
+      ],
+      "source_orders": {
+        "road_to_doomsday": 40
+      }
+    },
+    {
+      "id": "loki-season-2",
+      "order": 62,
+      "title": "Loki (Season 2)",
+      "subtitle": "Season 2",
+      "type": "TV Show",
+      "release": {
+        "year": null,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": 6,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "main"
+      },
+      "section": "Phase 5 — The Multiverse War (2025–2026)",
+      "guidance": {
+        "watch_for": "Victor Timely walks in from Quantumania's stinger. Learn what the loom is. And the ending — sit with it. It's the most consequential in the whole streaming slate.",
+        "watch_instruction": "6 eps"
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "Wraps up Loki's personal arc by placing him in a position that's expected to matter a great deal for the wider Multiverse Saga.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "By the end of the season, Loki is reportedly holding the multiverse together structurally, which is expected to be significant for both Doomsday and Secret Wars. The TVA is repositioned as a guardian institution for the timelines going forward."
+        },
+        "confidence": "relevant",
+        "connection_type": [
+          "multiverse",
+          "future"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 482",
+          "capture": "72-item watchlist"
+        },
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 45",
+          "road_order": 44
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 8.2
+      },
+      "source_variants": [
+        "Loki Season 2"
+      ],
+      "source_orders": {
+        "road_to_doomsday": 44
+      }
+    },
+    {
+      "id": "eyes-of-wakanda-season-1",
+      "order": 68,
+      "title": "Eyes of Wakanda (Season 1)",
+      "subtitle": "Season 1",
+      "type": "TV Show",
+      "release": {
+        "year": null,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Essential",
+        "required": true,
+        "category": "main"
+      },
+      "section": "Phase 3B — Civil War & Fallout (2016–2018)",
+      "guidance": {
+        "watch_for": null,
+        "watch_instruction": "4 animated eps ~30min · Watch right before Black Panther — its ending shows how T'Challa gets his weapons."
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": false,
+        "connection": null,
+        "spoiler": {
+          "contains_spoiler": false,
+          "label": "Contains spoilers — tap to reveal",
+          "content": null
+        }
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 524",
+          "capture": "72-item watchlist"
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 6.2
+      }
+    },
+    {
+      "id": "marvel-zombies",
+      "order": 69,
+      "title": "Marvel Zombies",
+      "subtitle": null,
+      "type": "TV Show",
+      "release": {
+        "year": null,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": "Unconfirmed",
+        "required": null,
+        "category": "main"
+      },
+      "section": "Phase 4 — Multiverse Opens (2024–2025)",
+      "guidance": {
+        "watch_for": null,
+        "watch_instruction": "4 animated eps"
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": false,
+        "connection": null,
+        "spoiler": {
+          "contains_spoiler": false,
+          "label": "Contains spoilers — tap to reveal",
+          "content": null
+        }
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "MCUWATCHLIST.docx",
+          "location": "paragraph 531",
+          "capture": "72-item watchlist"
+        }
+      ],
+      "source_metadata": {
+        "publisher": null,
+        "rating": 7.3
+      }
+    },
+    {
+      "id": "daredevil-season-1",
+      "order": null,
+      "title": "Daredevil Season 1",
+      "subtitle": "Season 1",
+      "type": "TV Show",
+      "release": {
+        "year": 2015,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": 13,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": null,
+        "required": null,
+        "category": "main"
+      },
+      "section": null,
+      "guidance": {
+        "watch_for": "Prestige-TV Marvel: darker, slower, R-adjacent. The single-take hallway fight in episode 2 is the thesis. Fisk gets villain-of-the-decade treatment.",
+        "watch_instruction": null
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "Introduces Matt Murdock and Wilson Fisk in their Netflix-era forms, both of whom eventually cross over into the main MCU timeline.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "Fisk later appears in Hawkeye and Echo before becoming a major MCU villain, while Matt Murdock gets a cameo before starring in Born Again. Born Again assumes familiarity with the events of this series."
+        },
+        "confidence": "established",
+        "connection_type": [
+          "character",
+          "prerequisite"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 26",
+          "road_order": 25
+        }
+      ],
+      "source_metadata": {
+        "release_metadata_raw": "2015 (13 eps)",
+        "status_note": null
+      },
+      "source_orders": {
+        "road_to_doomsday": 25
+      }
+    },
+    {
+      "id": "jessica-jones-season-1",
+      "order": null,
+      "title": "Jessica Jones Season 1",
+      "subtitle": "Season 1",
+      "type": "TV Show",
+      "release": {
+        "year": 2015,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": 13,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": null,
+        "required": null,
+        "category": "main"
+      },
+      "section": null,
+      "guidance": {
+        "watch_for": "A noir detective show that happens to have powers in it. Kilgrave is the scariest villain in the entire list. Heavy themes, handled seriously.",
+        "watch_instruction": "Jessica appears in Born Again Season 2."
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "A darker, noir-style street-level story that introduces a character who returns in a later MCU series.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "Jessica appears again in Born Again Season 2, which is why this series is considered required viewing. Luke Cage also makes his debut here."
+        },
+        "confidence": "established",
+        "connection_type": [
+          "character",
+          "prerequisite"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 27",
+          "road_order": 26
+        }
+      ],
+      "source_metadata": {
+        "release_metadata_raw": "2015 (13 eps)",
+        "status_note": "Jessica appears in Born Again Season 2."
+      },
+      "source_orders": {
+        "road_to_doomsday": 26
+      }
+    },
+    {
+      "id": "daredevil-season-2",
+      "order": null,
+      "title": "Daredevil Season 2",
+      "subtitle": "Season 2",
+      "type": "TV Show",
+      "release": {
+        "year": 2016,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": 13,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": null,
+        "required": null,
+        "category": "main"
+      },
+      "section": null,
+      "guidance": {
+        "watch_for": "The first half is a courtroom war over a new character called the Punisher — that arc is the reason this season is required.",
+        "watch_instruction": "Introduces the Punisher."
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "Introduces the Punisher in his most personal, grounded form, setting up multiple future stories built around his character.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "Frank Castle's trial in this season leads into two full seasons of The Punisher, a 2026 special, and his eventual appearance in Brand New Day."
+        },
+        "confidence": "established",
+        "connection_type": [
+          "character",
+          "prerequisite"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 28",
+          "road_order": 27
+        }
+      ],
+      "source_metadata": {
+        "release_metadata_raw": "2016 (13 eps)",
+        "status_note": "Introduces the Punisher."
+      },
+      "source_orders": {
+        "road_to_doomsday": 27
+      }
+    },
+    {
+      "id": "the-punisher-season-1",
+      "order": null,
+      "title": "The Punisher Season 1",
+      "subtitle": "Season 1",
+      "type": "TV Show",
+      "release": {
+        "year": 2017,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": 13,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": null,
+        "required": null,
+        "category": "main"
+      },
+      "section": null,
+      "guidance": {
+        "watch_for": "The heaviest show on the list — war trauma, treated seriously. Micro is the co-lead. Not a superhero show and doesn't want to be.",
+        "watch_instruction": null
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "Continues Frank Castle's story on his own terms, setting up events that carry into his next season.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "Frank's arc here leads directly into The Punisher: One Last Kill and eventually Brand New Day. Billy Russo's fate at the end of this season directly sets up Season 2."
+        },
+        "confidence": "established",
+        "connection_type": [
+          "character",
+          "prerequisite"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 29",
+          "road_order": 28
+        }
+      ],
+      "source_metadata": {
+        "release_metadata_raw": "2017 (13 eps)",
+        "status_note": null
+      },
+      "source_orders": {
+        "road_to_doomsday": 28
+      }
+    },
+    {
+      "id": "daredevil-season-3",
+      "order": null,
+      "title": "Daredevil Season 3",
+      "subtitle": "Season 3",
+      "type": "TV Show",
+      "release": {
+        "year": 2018,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": 13,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": null,
+        "required": null,
+        "category": "main"
+      },
+      "section": null,
+      "guidance": {
+        "watch_for": "The best season of Netflix Marvel. Bullseye's introduction, a legendary prison one-shot, and Fisk running the board from confinement.",
+        "watch_instruction": null
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "Sets up the direct lead-in to the current Daredevil series, with all three of its main figures carrying straight into it.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "Matt, Fisk, and Bullseye all continue directly from where this season leaves off into Daredevil: Born Again — watching them back to back makes Born Again's opening far more impactful."
+        },
+        "confidence": "established",
+        "connection_type": [
+          "character",
+          "prerequisite"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 30",
+          "road_order": 29
+        }
+      ],
+      "source_metadata": {
+        "release_metadata_raw": "2018 (13 eps)",
+        "status_note": null
+      },
+      "source_orders": {
+        "road_to_doomsday": 29
+      }
+    },
+    {
+      "id": "the-punisher-season-2",
+      "order": null,
+      "title": "The Punisher Season 2",
+      "subtitle": "Season 2",
+      "type": "TV Show",
+      "release": {
+        "year": 2019,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": 13,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": null,
+        "required": null,
+        "category": "main"
+      },
+      "section": null,
+      "guidance": {
+        "watch_for": "The messiest of the Netflix run, but it closes Frank's chapter — and his state of mind here is where the 2026 special picks him up.",
+        "watch_instruction": null
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "Closes out Frank Castle's most recent chapter before his story picks back up in the current MCU timeline.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "This is the last stop before Frank reappears during the Born Again era and eventually in Brand New Day. His state of mind by the end of this season carries directly into One Last Kill."
+        },
+        "confidence": "established",
+        "connection_type": [
+          "character",
+          "prerequisite"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 31",
+          "road_order": 30
+        }
+      ],
+      "source_metadata": {
+        "release_metadata_raw": "2019 (13 eps)",
+        "status_note": null
+      },
+      "source_orders": {
+        "road_to_doomsday": 30
+      }
+    },
+    {
+      "id": "hawkeye-episodes-1-5",
+      "order": null,
+      "title": "Hawkeye — episodes 1–5",
+      "subtitle": "Episodes 1–5",
+      "type": "TV Show",
+      "release": {
+        "year": 2021,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": null,
+        "watch_range": {
+          "start_episode": 1,
+          "end_episode": 5
+        }
+      },
+      "classification": {
+        "importance": null,
+        "required": null,
+        "category": "main"
+      },
+      "section": null,
+      "guidance": {
+        "watch_for": "Yelena arrives — if you rewatched the Black Widow post-credits, you know why. Street-level Christmas vibes. STOP after episode 5's final shot.",
+        "watch_instruction": null
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "Introduces Kate Bishop and continues Clint Barton's story after the events of Endgame.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "Kate Bishop joins a growing group of young heroes forming alongside Cassie Lang and Kamala Khan. The Ronin storyline also resolves a loose thread from Clint's actions during the Blip. A reveal near the end of Episode 5 is the reason Spider-Man: No Way Home is recommended before the finale."
+        },
+        "confidence": "established",
+        "connection_type": [
+          "character",
+          "prerequisite"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 37",
+          "road_order": 36
+        }
+      ],
+      "source_metadata": {
+        "release_metadata_raw": "2021",
+        "status_note": null
+      },
+      "source_orders": {
+        "road_to_doomsday": 36
+      }
+    },
+    {
+      "id": "hawkeye-episode-6-finale",
+      "order": null,
+      "title": "Hawkeye — episode 6 (finale)",
+      "subtitle": "Episode 6 (finale)",
+      "type": "TV Show",
+      "release": {
+        "year": 2021,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": null,
+        "watch_range": {
+          "start_episode": 6,
+          "end_episode": 6
+        }
+      },
+      "classification": {
+        "importance": null,
+        "required": null,
+        "category": "main"
+      },
+      "section": null,
+      "guidance": {
+        "watch_for": "Watch the Black Widow post-credits scene right before this if you haven't — then enjoy the payoff. The boss reveal connects two corners of the universe.",
+        "watch_instruction": "Yelena and Kingpin collide; both matter going forward. Now rewatch the Black Widow post-credits scene."
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "Wraps up Clint and Kate's story while formally introducing a major MCU villain.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "Kingpin makes his full MCU debut here, leading into Echo and later Born Again. Yelena and Clint also resolve their conflict tied to Natasha's death. Between Kate, Yelena, Cassie, and Kamala, this finale adds to a growing pattern of young heroes being set up for future stories."
+        },
+        "confidence": "established",
+        "connection_type": [
+          "character",
+          "prerequisite"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 39",
+          "road_order": 38
+        }
+      ],
+      "source_metadata": {
+        "release_metadata_raw": "2021",
+        "status_note": "Yelena and Kingpin collide; both matter going forward. Now rewatch the Black Widow post-credits scene."
+      },
+      "source_orders": {
+        "road_to_doomsday": 38
+      }
+    },
+    {
+      "id": "agatha-all-along",
+      "order": null,
+      "title": "Agatha All Along",
+      "subtitle": null,
+      "type": "TV Show",
+      "release": {
+        "year": 2024,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": 9,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": null,
+        "required": null,
+        "category": "main"
+      },
+      "section": null,
+      "guidance": {
+        "watch_for": "A witch-heist show with a mid-season reveal that recontextualizes everything. The two-part finale reshuffles the board again. Aubrey Plaza, no notes.",
+        "watch_instruction": "Billy Maximoff’s story is expected to feed VisionQuest."
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "A spin-off following Agatha Harkness that reveals a surprising twist about a teenage character introduced late in the season.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "The teenager turns out to be Billy Maximoff, Wanda's son, alive and reportedly connected to a storyline VisionQuest is expected to pick up. Wiccan, as Billy is known, joins the group of young heroes being introduced across several shows."
+        },
+        "confidence": "relevant",
+        "connection_type": [
+          "character",
+          "future"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 56",
+          "road_order": 55
+        }
+      ],
+      "source_metadata": {
+        "release_metadata_raw": "2024 (9 eps)",
+        "status_note": "Billy Maximoff’s story is expected to feed VisionQuest."
+      },
+      "source_orders": {
+        "road_to_doomsday": 55
+      }
+    },
+    {
+      "id": "daredevil-born-again-season-1",
+      "order": null,
+      "title": "Daredevil: Born Again Season 1",
+      "subtitle": "Season 1",
+      "type": "TV Show",
+      "release": {
+        "year": 2025,
+        "date": null,
+        "period": null,
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": 9,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": null,
+        "required": null,
+        "category": "main"
+      },
+      "section": null,
+      "guidance": {
+        "watch_for": "The Netflix seasons are assumed knowledge. Watch what Fisk does with legitimate power, and how long Matt tries not to be Daredevil.",
+        "watch_instruction": null
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "Brings Daredevil fully into the mainline MCU, pitting Matt Murdock against Wilson Fisk in his new role as mayor.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "The political conflict between Fisk and a retired Matt continues into Season 2, which crosses over with Brand New Day. Bullseye's return also resolves plot threads left open from Daredevil Season 3."
+        },
+        "confidence": "established",
+        "connection_type": [
+          "character",
+          "story"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 58",
+          "road_order": 57
+        }
+      ],
+      "source_metadata": {
+        "release_metadata_raw": "2025 (9 eps)",
+        "status_note": null
+      },
+      "source_orders": {
+        "road_to_doomsday": 57
+      }
+    },
+    {
+      "id": "daredevil-born-again-season-2",
+      "order": null,
+      "title": "Daredevil: Born Again Season 2",
+      "subtitle": "Season 2",
+      "type": "TV Show",
+      "release": {
+        "year": 2026,
+        "date": null,
+        "period": "Mar–May 2026",
+        "status": null
+      },
+      "watch": {
+        "duration": null,
+        "episodes": 8,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": null,
+        "required": null,
+        "category": "main"
+      },
+      "section": null,
+      "guidance": {
+        "watch_for": "New York fully under Fisk's control, Jessica Jones back in play, and a finale built to hand off to a certain theatrical release. Finish ALL episodes before step 70.",
+        "watch_instruction": null
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "Continues the Fisk-versus-Matt storyline with a crossover into the wider Spider-Man corner of the MCU.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "This season crosses over directly with Spider-Man: Brand New Day, connecting the street-level shows to the movies for the first time. It also closes out a chapter of the Matt-Fisk conflict and sets Frank Castle's arc moving into One Last Kill."
+        },
+        "confidence": "established",
+        "connection_type": [
+          "character",
+          "story"
+        ]
+      },
+      "prerequisites": [],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 61",
+          "road_order": 60
+        }
+      ],
+      "source_metadata": {
+        "release_metadata_raw": "Mar–May 2026 (8 eps)",
+        "status_note": null
+      },
+      "source_orders": {
+        "road_to_doomsday": 60
+      }
+    },
+    {
+      "id": "visionquest",
+      "order": null,
+      "title": "VisionQuest",
+      "subtitle": null,
+      "type": "TV Show",
+      "release": {
+        "year": 2026,
+        "date": null,
+        "period": null,
+        "status": "Streaming"
+      },
+      "watch": {
+        "duration": null,
+        "episodes": null,
+        "watch_range": null
+      },
+      "classification": {
+        "importance": null,
+        "required": null,
+        "category": "main"
+      },
+      "section": null,
+      "guidance": {
+        "watch_for": "Set about a year after WandaVision — White Vision has had time to sit with the memories he recovered. James Spader returns as Ultron. Watch your WandaVision prereqs first.",
+        "watch_instruction": "Vision vs. Ultron; reportedly ties into Secret Wars. Prereqs: Age of Ultron, WandaVision, and Agatha All Along. On the release-order road, this is the final stop before Doomsday."
+      },
+      "stop_point": {
+        "enabled": false,
+        "instruction": null,
+        "next_item": null
+      },
+      "doomsday": {
+        "has_connection": true,
+        "connection": "A series expected to resolve a major loose thread from WandaVision involving Vision, with a reported connection to a future multiversal storyline.",
+        "spoiler": {
+          "contains_spoiler": true,
+          "label": "Contains spoilers — tap to reveal",
+          "content": "White Vision's unresolved arc from WandaVision is expected to be resolved here, and Ultron's reported return is said to tie into the upcoming Secret Wars. This is considered one of the most plot-relevant pieces of streaming content still to release before Doomsday."
+        },
+        "confidence": "relevant",
+        "connection_type": [
+          "character",
+          "future"
+        ]
+      },
+      "prerequisites": [
+        "Avengers: Age of Ultron",
+        "WandaVision",
+        "Agatha All Along"
+      ],
+      "universe": null,
+      "source_conflicts": [],
+      "sources": [
+        {
+          "file": "roadtodoomsday-com-2026-08-29.xlsx",
+          "location": "Sheet1 row 64",
+          "road_order": 63
+        }
+      ],
+      "source_metadata": {
+        "release_metadata_raw": "Streaming Oct 16, 2026 (Disney+)",
+        "status_note": "Vision vs. Ultron; reportedly ties into Secret Wars. Prereqs: Age of Ultron, WandaVision, and Agatha All Along. On the release-order road, this is the final stop before Doomsday."
+      },
+      "source_orders": {
+        "road_to_doomsday": 63
+      }
+    }
+  ]
+}
