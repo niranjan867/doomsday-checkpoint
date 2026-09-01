@@ -51,7 +51,7 @@ When available, each checkpoint also provides a direct **▶ Watch in India** op
 
 ---
 
-## 🔒 Spoiler Safe
+## 🔒 Spoiler Safe 
 
 Important reveals stay locked until you choose to reveal them.
 
